@@ -1,0 +1,1721 @@
+{
+  "schema_version": 2,
+  "generated_at": "2026-10-02T17:17:59Z",
+  "product": "asia",
+  "name": "Asia",
+  "serviceid": 40009,
+  "currency": "EUR",
+  "units": {
+    "data": "EUR/MB",
+    "calls": "EUR/minute",
+    "sms": "EUR/message"
+  },
+  "coverage": {
+    "covered_countries": 39,
+    "data_countries": 39,
+    "data_networks": 99
+  },
+  "rates": [
+    {
+      "plmn": "23420",
+      "country_code": "GB",
+      "carrier": "Hutchison 3G UK Limited",
+      "operator": "Hutchison 3G UK Limited",
+      "networks": "4",
+      "data": 0.0016,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": null,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "25901",
+      "country_code": "MD",
+      "carrier": "Orange Moldova",
+      "operator": "Orange Moldova",
+      "networks": "234",
+      "data": 0.0245,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "28601",
+      "country_code": "TR",
+      "carrier": "Turkcell",
+      "operator": "Turkcell",
+      "networks": "234",
+      "data": 0.0047,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "302220",
+      "country_code": "CA",
+      "carrier": "Telus Mobility",
+      "operator": "Telus Mobility",
+      "networks": "34",
+      "data": 0.0096,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "302610",
+      "country_code": "CA",
+      "carrier": "Bell Mobility",
+      "operator": "Bell Mobility",
+      "networks": "34",
+      "data": 0.0096,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "302720",
+      "country_code": "CA",
+      "carrier": "Rogers Communications",
+      "operator": "Rogers Communications",
+      "networks": "24",
+      "data": 0.0128,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "310260",
+      "country_code": "US",
+      "carrier": "T-Mobile USA, Inc",
+      "operator": "T-Mobile USA, Inc",
+      "networks": "4",
+      "data": 0.0029,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.13,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "310410",
+      "country_code": "US",
+      "carrier": "AT&T",
+      "operator": "AT&T",
+      "networks": "4",
+      "data": 0.0063,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.13,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "33402",
+      "country_code": "MX",
+      "carrier": "Radiomovil Dipsa S.A. de C.V. - Telcel",
+      "operator": "Radiomovil Dipsa S.A. de C.V. - Telcel",
+      "networks": "234",
+      "data": 0.0247,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "334020",
+      "country_code": "MX",
+      "carrier": "Radiomovil Dipsa S.A. de C.V. - Telcel",
+      "operator": "Radiomovil Dipsa S.A. de C.V. - Telcel",
+      "networks": "234",
+      "data": 0.0269,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "33403",
+      "country_code": "MX",
+      "carrier": "MOVISTAR",
+      "operator": "MOVISTAR",
+      "networks": "34",
+      "data": 0.0277,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "334030",
+      "country_code": "MX",
+      "carrier": "Pegaso PCS, S.A. de C.V.",
+      "operator": "Pegaso PCS, S.A. de C.V.",
+      "networks": "34",
+      "data": 0.03,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "40405",
+      "country_code": "IN",
+      "carrier": "VODAFONE IDEA LIMITED",
+      "operator": "VODAFONE IDEA LIMITED",
+      "networks": "24",
+      "data": 0.0025,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "40411",
+      "country_code": "IN",
+      "carrier": "VODAFONE IDEA LIMITED",
+      "operator": "VODAFONE IDEA LIMITED",
+      "networks": "24",
+      "data": 0.0025,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "40414",
+      "country_code": "IN",
+      "carrier": "VODAFONE IDEA LIMITED",
+      "operator": "VODAFONE IDEA LIMITED",
+      "networks": "24",
+      "data": 0.0025,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "40420",
+      "country_code": "IN",
+      "carrier": "VODAFONE IDEA LIMITED",
+      "operator": "VODAFONE IDEA LIMITED",
+      "networks": "24",
+      "data": 0.0025,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "40422",
+      "country_code": "IN",
+      "carrier": "VODAFONE IDEA LIMITED",
+      "operator": "VODAFONE IDEA LIMITED",
+      "networks": "24",
+      "data": 0.0025,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "40427",
+      "country_code": "IN",
+      "carrier": "VODAFONE IDEA LIMITED",
+      "operator": "VODAFONE IDEA LIMITED",
+      "networks": "24",
+      "data": 0.0025,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "40430",
+      "country_code": "IN",
+      "carrier": "VODAFONE IDEA LIMITED",
+      "operator": "VODAFONE IDEA LIMITED",
+      "networks": "24",
+      "data": 0.0025,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "40443",
+      "country_code": "IN",
+      "carrier": "VODAFONE IDEA LIMITED",
+      "operator": "VODAFONE IDEA LIMITED",
+      "networks": "24",
+      "data": 0.0025,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "40444",
+      "country_code": "IN",
+      "carrier": "VODAFONE IDEA LIMITED",
+      "operator": "VODAFONE IDEA LIMITED",
+      "networks": "24",
+      "data": 0.0025,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "40446",
+      "country_code": "IN",
+      "carrier": "VODAFONE IDEA LIMITED",
+      "operator": "VODAFONE IDEA LIMITED",
+      "networks": "24",
+      "data": 0.0025,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "40456",
+      "country_code": "IN",
+      "carrier": "VODAFONE IDEA LIMITED",
+      "operator": "VODAFONE IDEA LIMITED",
+      "networks": "24",
+      "data": 0.0025,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "40478",
+      "country_code": "IN",
+      "carrier": "VODAFONE IDEA LIMITED",
+      "operator": "VODAFONE IDEA LIMITED",
+      "networks": "24",
+      "data": 0.0025,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "40487",
+      "country_code": "IN",
+      "carrier": "VODAFONE IDEA LIMITED",
+      "operator": "VODAFONE IDEA LIMITED",
+      "networks": "24",
+      "data": 0.0025,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "40489",
+      "country_code": "IN",
+      "carrier": "VODAFONE IDEA LIMITED",
+      "operator": "VODAFONE IDEA LIMITED",
+      "networks": "24",
+      "data": 0.0025,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "40570",
+      "country_code": "IN",
+      "carrier": "VODAFONE IDEA LIMITED",
+      "operator": "VODAFONE IDEA LIMITED",
+      "networks": "24",
+      "data": 0.0025,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "405799",
+      "country_code": "IN",
+      "carrier": "VODAFONE IDEA LIMITED",
+      "operator": "VODAFONE IDEA LIMITED",
+      "networks": "24",
+      "data": 0.0025,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "405840",
+      "country_code": "IN",
+      "carrier": "JIO",
+      "operator": "JIO",
+      "networks": "4",
+      "data": 0.0021,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "405845",
+      "country_code": "IN",
+      "carrier": "VODAFONE IDEA LIMITED",
+      "operator": "VODAFONE IDEA LIMITED",
+      "networks": "24",
+      "data": 0.0025,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "405846",
+      "country_code": "IN",
+      "carrier": "VODAFONE IDEA LIMITED",
+      "operator": "VODAFONE IDEA LIMITED",
+      "networks": "24",
+      "data": 0.0025,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "405848",
+      "country_code": "IN",
+      "carrier": "VODAFONE IDEA LIMITED",
+      "operator": "VODAFONE IDEA LIMITED",
+      "networks": "24",
+      "data": 0.0025,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "405849",
+      "country_code": "IN",
+      "carrier": "VODAFONE IDEA LIMITED",
+      "operator": "VODAFONE IDEA LIMITED",
+      "networks": "24",
+      "data": 0.0025,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "405850",
+      "country_code": "IN",
+      "carrier": "VODAFONE IDEA LIMITED",
+      "operator": "VODAFONE IDEA LIMITED",
+      "networks": "24",
+      "data": 0.0025,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "405852",
+      "country_code": "IN",
+      "carrier": "VODAFONE IDEA LIMITED",
+      "operator": "VODAFONE IDEA LIMITED",
+      "networks": "24",
+      "data": 0.0025,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "405853",
+      "country_code": "IN",
+      "carrier": "VODAFONE IDEA LIMITED",
+      "operator": "VODAFONE IDEA LIMITED",
+      "networks": "24",
+      "data": 0.0025,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "405854",
+      "country_code": "IN",
+      "carrier": "JIO",
+      "operator": "JIO",
+      "networks": "4",
+      "data": 0.0021,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "405855",
+      "country_code": "IN",
+      "carrier": "JIO",
+      "operator": "JIO",
+      "networks": "4",
+      "data": 0.0021,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "405856",
+      "country_code": "IN",
+      "carrier": "JIO",
+      "operator": "JIO",
+      "networks": "4",
+      "data": 0.0021,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "405857",
+      "country_code": "IN",
+      "carrier": "JIO",
+      "operator": "JIO",
+      "networks": "4",
+      "data": 0.0021,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "405858",
+      "country_code": "IN",
+      "carrier": "JIO",
+      "operator": "JIO",
+      "networks": "4",
+      "data": 0.0021,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "405859",
+      "country_code": "IN",
+      "carrier": "JIO",
+      "operator": "JIO",
+      "networks": "4",
+      "data": 0.0021,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "405860",
+      "country_code": "IN",
+      "carrier": "JIO",
+      "operator": "JIO",
+      "networks": "4",
+      "data": 0.0021,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "405861",
+      "country_code": "IN",
+      "carrier": "JIO",
+      "operator": "JIO",
+      "networks": "4",
+      "data": 0.0021,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "405862",
+      "country_code": "IN",
+      "carrier": "JIO",
+      "operator": "JIO",
+      "networks": "4",
+      "data": 0.0021,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "405863",
+      "country_code": "IN",
+      "carrier": "JIO",
+      "operator": "JIO",
+      "networks": "4",
+      "data": 0.0021,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "405864",
+      "country_code": "IN",
+      "carrier": "JIO",
+      "operator": "JIO",
+      "networks": "4",
+      "data": 0.0021,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "405865",
+      "country_code": "IN",
+      "carrier": "JIO",
+      "operator": "JIO",
+      "networks": "4",
+      "data": 0.0021,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "405866",
+      "country_code": "IN",
+      "carrier": "JIO",
+      "operator": "JIO",
+      "networks": "4",
+      "data": 0.0021,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "405867",
+      "country_code": "IN",
+      "carrier": "JIO",
+      "operator": "JIO",
+      "networks": "4",
+      "data": 0.0021,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "405868",
+      "country_code": "IN",
+      "carrier": "JIO",
+      "operator": "JIO",
+      "networks": "4",
+      "data": 0.0021,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "405869",
+      "country_code": "IN",
+      "carrier": "405869",
+      "operator": null,
+      "networks": "",
+      "data": 0.0021,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "405870",
+      "country_code": "IN",
+      "carrier": "JIO",
+      "operator": "JIO",
+      "networks": "4",
+      "data": 0.0021,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "405871",
+      "country_code": "IN",
+      "carrier": "JIO",
+      "operator": "JIO",
+      "networks": "4",
+      "data": 0.0021,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "405872",
+      "country_code": "IN",
+      "carrier": "JIO",
+      "operator": "JIO",
+      "networks": "4",
+      "data": 0.0021,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "405873",
+      "country_code": "IN",
+      "carrier": "JIO",
+      "operator": "JIO",
+      "networks": "4",
+      "data": 0.0021,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "405874",
+      "country_code": "IN",
+      "carrier": "JIO",
+      "operator": "JIO",
+      "networks": "4",
+      "data": 0.0021,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "41308",
+      "country_code": "LK",
+      "carrier": "HUTCHISON TELECOMMUNICATIONS",
+      "operator": "HUTCHISON TELECOMMUNICATIONS",
+      "networks": "234",
+      "data": 0.0033,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.13,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "41904",
+      "country_code": "KW",
+      "carrier": "Kuwait Telecommunication Company",
+      "operator": "Kuwait Telecommunication Company",
+      "networks": "234",
+      "data": 0.0558,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.75,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "42003",
+      "country_code": "SA",
+      "carrier": "Etihad Etisalat Company",
+      "operator": "Etihad Etisalat Company",
+      "networks": "234",
+      "data": 0.0139,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.75,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "42403",
+      "country_code": "AE",
+      "carrier": "Emirates Integrated Telecom. Company PJS",
+      "operator": "Emirates Integrated Telecom. Company PJS",
+      "networks": "34",
+      "data": 0.006,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.2,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "42501",
+      "country_code": "IL",
+      "carrier": "Partner Communications Company Ltd",
+      "operator": "Partner Communications Company Ltd",
+      "networks": "45",
+      "data": 0.0056,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.13,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "42503",
+      "country_code": "IL",
+      "carrier": "Pelephone Communications Ltd.",
+      "operator": "Pelephone Communications Ltd.",
+      "networks": "4",
+      "data": 0.0037,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.13,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "42528",
+      "country_code": "IL",
+      "carrier": "Partner Communications Company Ltd.",
+      "operator": "Partner Communications Company Ltd.",
+      "networks": "4",
+      "data": 0.0056,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.13,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "42602",
+      "country_code": "BH",
+      "carrier": "Zain Bahrain",
+      "operator": "Zain Bahrain",
+      "networks": "24",
+      "data": 0.1394,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.45,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "42702",
+      "country_code": "QA",
+      "carrier": "Vodafone",
+      "operator": "Vodafone",
+      "networks": "24",
+      "data": 0.0418,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.2,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "43407",
+      "country_code": "UZ",
+      "carrier": "UMS LLC",
+      "operator": "UMS LLC",
+      "networks": "234",
+      "data": 0.0062,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.13,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "43408",
+      "country_code": "UZ",
+      "carrier": "UZMOBILE",
+      "operator": "UZMOBILE",
+      "networks": "234",
+      "data": null,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.13,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "44020",
+      "country_code": "JP",
+      "carrier": "SoftBank Corp.",
+      "operator": "SoftBank Corp.",
+      "networks": "4",
+      "data": 0.0062,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "45005",
+      "country_code": "KR",
+      "carrier": "SK Telecom",
+      "operator": "SK Telecom",
+      "networks": "34",
+      "data": 0.0083,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.13,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "45201",
+      "country_code": "VN",
+      "carrier": "Vietnam Mobile Telecom Services Company",
+      "operator": "Vietnam Mobile Telecom Services Company",
+      "networks": "34",
+      "data": 0.0029,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "45205",
+      "country_code": "VN",
+      "carrier": "Hanoi Telecom",
+      "operator": "Hanoi Telecom",
+      "networks": "3",
+      "data": 0.0035,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "45501",
+      "country_code": "MO",
+      "carrier": "Companhia de Telecomunicações de Macau, S.A.R.L.",
+      "operator": "Companhia de Telecomunicações de Macau, S.A.R.L.",
+      "networks": "4",
+      "data": 0.0047,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.13,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "45602",
+      "country_code": "KH",
+      "carrier": "Smart Axiata Co. Ltd",
+      "operator": "Smart Axiata Co. Ltd",
+      "networks": "4",
+      "data": 0.0166,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.2,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "45606",
+      "country_code": "KH",
+      "carrier": "Smart Axiata Co. Ltd",
+      "operator": "Smart Axiata Co. Ltd",
+      "networks": "4",
+      "data": 0.0166,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.2,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "45608",
+      "country_code": "KH",
+      "carrier": "METFONE",
+      "operator": "METFONE",
+      "networks": "24",
+      "data": 0.0031,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.2,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "45703",
+      "country_code": "LA",
+      "carrier": "Star Telecom Co., Ltd",
+      "operator": "Star Telecom Co., Ltd",
+      "networks": "234",
+      "data": 0.0362,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "46001",
+      "country_code": "CN",
+      "carrier": "China Unicom",
+      "operator": "China Unicom",
+      "networks": "4",
+      "data": 0.0085,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.13,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "46692",
+      "country_code": "TW",
+      "carrier": "Chunghwa Telecom",
+      "operator": "Chunghwa Telecom",
+      "networks": "4",
+      "data": 0.1125,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "46697",
+      "country_code": "TW",
+      "carrier": "Taiwan Mobile Co. Ltd",
+      "operator": "Taiwan Mobile Co. Ltd",
+      "networks": "34",
+      "data": 0.0064,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "47001",
+      "country_code": "BD",
+      "carrier": "Grameenphone Ltd.",
+      "operator": "Grameenphone Ltd.",
+      "networks": "24",
+      "data": 0.0107,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "47202",
+      "country_code": "MV",
+      "carrier": "OOREDOO MALDIVES PVT LTD",
+      "operator": "OOREDOO MALDIVES PVT LTD",
+      "networks": "234",
+      "data": 0.0236,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.13,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "50212",
+      "country_code": "MY",
+      "carrier": "Maxis Communications Berhad",
+      "operator": "Maxis Communications Berhad",
+      "networks": "24",
+      "data": 0.007,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.2,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "50502",
+      "country_code": "AU",
+      "carrier": "Optus Mobile Pty Ltd",
+      "operator": "Optus Mobile Pty Ltd",
+      "networks": "4",
+      "data": 0.0033,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.13,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "51010",
+      "country_code": "ID",
+      "carrier": "Telkomsel Indonesia",
+      "operator": "Telkomsel Indonesia",
+      "networks": "24",
+      "data": 0.0043,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "51401",
+      "country_code": "TL",
+      "carrier": "PT Telekomunikasi Indonesia International",
+      "operator": "PT Telekomunikasi Indonesia International",
+      "networks": "23",
+      "data": 0.1394,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.2,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "51502",
+      "country_code": "PH",
+      "carrier": "Globe Telecom",
+      "operator": "Globe Telecom",
+      "networks": "24",
+      "data": 0.0056,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.2,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "52000",
+      "country_code": "TH",
+      "carrier": "CAT Telecom",
+      "operator": "CAT Telecom",
+      "networks": "34",
+      "data": 0.0043,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "52003",
+      "country_code": "TH",
+      "carrier": "Advanced Wireless Network Company Ltd.",
+      "operator": "Advanced Wireless Network Company Ltd.",
+      "networks": "234",
+      "data": 0.009,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "52004",
+      "country_code": "TH",
+      "carrier": "True Move H Universal Communication Company Ltd.",
+      "operator": "True Move H Universal Communication Company Ltd.",
+      "networks": "34",
+      "data": 0.0043,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "52501",
+      "country_code": "SG",
+      "carrier": "Singapore Telecom",
+      "operator": "Singapore Telecom",
+      "networks": "4",
+      "data": 0.0043,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "53005",
+      "country_code": "NZ",
+      "carrier": "Spark New Zealand",
+      "operator": "Spark New Zealand",
+      "networks": "4",
+      "data": 0.013,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.13,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "60201",
+      "country_code": "EG",
+      "carrier": "Orange Egypt",
+      "operator": "Orange Egypt",
+      "networks": "234",
+      "data": 0.0177,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.2,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "60400",
+      "country_code": "MA",
+      "carrier": "Ittissalat Al-Maghrib (Maroc Telecom)",
+      "operator": "Ittissalat Al-Maghrib (Maroc Telecom)",
+      "networks": "234",
+      "data": 0.1237,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.2,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "60502",
+      "country_code": "TN",
+      "carrier": "Tunisie Telecom",
+      "operator": "Tunisie Telecom",
+      "networks": "234",
+      "data": 0.0573,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.45,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "63903",
+      "country_code": "KE",
+      "carrier": "Bharti Airtel",
+      "operator": "Bharti Airtel",
+      "networks": "234",
+      "data": 0.0279,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.2,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "65501",
+      "country_code": "ZA",
+      "carrier": "Vodacom",
+      "operator": "Vodacom",
+      "networks": "234",
+      "data": 0.0082,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "73001",
+      "country_code": "CL",
+      "carrier": "Entel Telefonía Móvil S.A.",
+      "operator": "Entel Telefonía Móvil S.A.",
+      "networks": "34",
+      "data": 0.0673,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.13,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "73002",
+      "country_code": "CL",
+      "carrier": "Telefónica Móvil de Chile",
+      "operator": "Telefónica Móvil de Chile",
+      "networks": "34",
+      "data": 0.033,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.13,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "73003",
+      "country_code": "CL",
+      "carrier": "Claro Chile S.A.",
+      "operator": "Claro Chile S.A.",
+      "networks": "23",
+      "data": 0.0294,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.13,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    }
+  ],
+  "non_geographic": []
+}

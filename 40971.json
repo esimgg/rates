@@ -1,0 +1,5762 @@
+{
+  "schema_version": 2,
+  "generated_at": "2026-10-02T17:17:59Z",
+  "product": "global-plus",
+  "name": "Global Plus",
+  "serviceid": 40971,
+  "currency": "EUR",
+  "units": {
+    "data": "EUR/MB",
+    "calls": "EUR/minute",
+    "sms": "EUR/message"
+  },
+  "coverage": {
+    "covered_countries": 145,
+    "data_countries": 136,
+    "data_networks": 286
+  },
+  "rates": [
+    {
+      "plmn": "20201",
+      "country_code": "GR",
+      "carrier": "COSMOTE - Mobile Telecommunications S.A.",
+      "operator": "COSMOTE - Mobile Telecommunications S.A.",
+      "networks": "245",
+      "data": 0.0021,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.36,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "20205",
+      "country_code": "GR",
+      "carrier": "Vodafone Greece",
+      "operator": "Vodafone Greece",
+      "networks": "245",
+      "data": 0.0013,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.36,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "20404",
+      "country_code": "NL",
+      "carrier": "Vodafone Libertel B.V.",
+      "operator": "Vodafone Libertel B.V.",
+      "networks": "245",
+      "data": 0.0013,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.49,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "20601",
+      "country_code": "BE",
+      "carrier": "Belgacom Mobile",
+      "operator": "Belgacom Mobile",
+      "networks": "2345",
+      "data": 0.0013,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.49,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "20610",
+      "country_code": "BE",
+      "carrier": "Orange S.A.",
+      "operator": "Orange S.A.",
+      "networks": "24",
+      "data": 0.0021,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.49,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "20620",
+      "country_code": "BE",
+      "carrier": "Telenet",
+      "operator": "Telenet",
+      "networks": "2345",
+      "data": 0.0021,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.49,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "20801",
+      "country_code": "FR",
+      "carrier": "Orange S.A.",
+      "operator": "Orange S.A.",
+      "networks": "345",
+      "data": 0.0013,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.44,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "20810",
+      "country_code": "FR",
+      "carrier": "Altice",
+      "operator": "Altice",
+      "networks": "2345",
+      "data": 0.0013,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.44,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "20815",
+      "country_code": "FR",
+      "carrier": "Iliad",
+      "operator": "Iliad",
+      "networks": "45",
+      "data": 0.0021,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.44,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "20820",
+      "country_code": "FR",
+      "carrier": "Bouygues Telecom",
+      "operator": "Bouygues Telecom",
+      "networks": "2345",
+      "data": 0.0021,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.44,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "21210",
+      "country_code": "MC",
+      "carrier": "Monaco Telecom",
+      "operator": "Monaco Telecom",
+      "networks": "23",
+      "data": 0.1219,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.86,
+      "outgoing_sms": 0.44,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "21303",
+      "country_code": "AD",
+      "carrier": "Servei De Tele. DAndorra",
+      "operator": "Servei De Tele. DAndorra",
+      "networks": "234",
+      "data": 0.0375,
+      "incoming_call": 2.11,
+      "outgoing_call": 3.13,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "21401",
+      "country_code": "ES",
+      "carrier": "Vodafone Spain",
+      "operator": "Vodafone Spain",
+      "networks": "245",
+      "data": 0.0013,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.49,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "21403",
+      "country_code": "ES",
+      "carrier": "Orange Espagne S.A.U",
+      "operator": "Orange Espagne S.A.U",
+      "networks": "234",
+      "data": 0.0021,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.49,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "21404",
+      "country_code": "ES",
+      "carrier": "XFERA MÓVILES S.A. (YOIGO)",
+      "operator": "XFERA MÓVILES S.A. (YOIGO)",
+      "networks": "34",
+      "data": 0.0021,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.49,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "21407",
+      "country_code": "ES",
+      "carrier": "Telefónica Móviles España",
+      "operator": "Telefónica Móviles España",
+      "networks": "2345",
+      "data": 0.0021,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.49,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "21601",
+      "country_code": "HU",
+      "carrier": "Telenor Magyarország Zrt.",
+      "operator": "Telenor Magyarország Zrt.",
+      "networks": "245",
+      "data": 0.0013,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.49,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "21630",
+      "country_code": "HU",
+      "carrier": "Magyar Telekom Plc",
+      "operator": "Magyar Telekom Plc",
+      "networks": "234",
+      "data": 0.0021,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.49,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "21670",
+      "country_code": "HU",
+      "carrier": "Vodafone Magyarország Zrt.",
+      "operator": "Vodafone Magyarország Zrt.",
+      "networks": "45",
+      "data": 0.0013,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.49,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "21805",
+      "country_code": "BA",
+      "carrier": "RS Telecommunications JSC Banja Luka",
+      "operator": "RS Telecommunications JSC Banja Luka",
+      "networks": "234",
+      "data": 0.0244,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.94,
+      "outgoing_sms": 0.44,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "21901",
+      "country_code": "HR",
+      "carrier": "T-Hrvatski Telekom",
+      "operator": "T-Hrvatski Telekom",
+      "networks": "245",
+      "data": 0.0021,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.49,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "21902",
+      "country_code": "HR",
+      "carrier": "Tele2",
+      "operator": "Tele2",
+      "networks": "2345",
+      "data": 0.0013,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.49,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "21910",
+      "country_code": "HR",
+      "carrier": "A1 Hrvatska",
+      "operator": "A1 Hrvatska",
+      "networks": "24",
+      "data": 0.0021,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.49,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "22001",
+      "country_code": "RS",
+      "carrier": "Telenor Serbia",
+      "operator": "Telenor Serbia",
+      "networks": "234",
+      "data": 0.0844,
+      "incoming_call": 0.69,
+      "outgoing_call": 0.94,
+      "outgoing_sms": 0.44,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "22102",
+      "country_code": "XK",
+      "carrier": "IPKO",
+      "operator": "IPKO",
+      "networks": "235",
+      "data": 0.0656,
+      "incoming_call": 0.44,
+      "outgoing_call": 1.06,
+      "outgoing_sms": null,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "22201",
+      "country_code": "IT",
+      "carrier": "Telecom Italia S.p.A",
+      "operator": "Telecom Italia S.p.A",
+      "networks": "24",
+      "data": 0.0021,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.49,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "22201",
+      "country_code": "SM",
+      "carrier": "Telecom Italia S.p.A",
+      "operator": "Telecom Italia S.p.A",
+      "networks": "245",
+      "data": 0.0021,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.81,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "22201",
+      "country_code": "VA",
+      "carrier": "Telecom Italia S.p.A",
+      "operator": "Telecom Italia S.p.A",
+      "networks": "245",
+      "data": 0.0021,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.49,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "22210",
+      "country_code": "IT",
+      "carrier": "Vodafone Italia S.p.A.",
+      "operator": "Vodafone Italia S.p.A.",
+      "networks": "245",
+      "data": 0.0013,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.49,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "22250",
+      "country_code": "IT",
+      "carrier": "Iliad Italia",
+      "operator": "Iliad Italia",
+      "networks": "345",
+      "data": 0.0021,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.49,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "22288",
+      "country_code": "IT",
+      "carrier": "Wind Tre",
+      "operator": "Wind Tre",
+      "networks": "2345",
+      "data": 0.0021,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.49,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "22601",
+      "country_code": "RO",
+      "carrier": "Vodafone România",
+      "operator": "Vodafone România",
+      "networks": "2345",
+      "data": 0.0013,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.49,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "22610",
+      "country_code": "RO",
+      "carrier": "Orange România",
+      "operator": "Orange România",
+      "networks": "24",
+      "data": 0.0013,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.49,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "22801",
+      "country_code": "CH",
+      "carrier": "Swisscom AG",
+      "operator": "Swisscom AG",
+      "networks": "45",
+      "data": 0.0066,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "23001",
+      "country_code": "CZ",
+      "carrier": "T-Mobile Czech Republic",
+      "operator": "T-Mobile Czech Republic",
+      "networks": "4",
+      "data": 0.0021,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.49,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "23002",
+      "country_code": "CZ",
+      "carrier": "O2 Czech Republic",
+      "operator": "O2 Czech Republic",
+      "networks": "245",
+      "data": 0.0013,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.49,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "23003",
+      "country_code": "CZ",
+      "carrier": "Vodafone Czech Republic",
+      "operator": "Vodafone Czech Republic",
+      "networks": "45",
+      "data": 0.0013,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.49,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "23106",
+      "country_code": "SK",
+      "carrier": "O2 Slovakia",
+      "operator": "O2 Slovakia",
+      "networks": "2345",
+      "data": 0.0013,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.49,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "23201",
+      "country_code": "AT",
+      "carrier": "A1 Telekom Austria",
+      "operator": "A1 Telekom Austria",
+      "networks": "245",
+      "data": 0.0021,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.36,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "23203",
+      "country_code": "AT",
+      "carrier": "T-Mobile Austria",
+      "operator": "T-Mobile Austria",
+      "networks": "2345",
+      "data": 0.0021,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.36,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "23205",
+      "country_code": "AT",
+      "carrier": "Hutchison Drei Austria",
+      "operator": "Hutchison Drei Austria",
+      "networks": "2345",
+      "data": 0.0013,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.36,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "23403",
+      "country_code": "GB",
+      "carrier": "Guernsey Airtel Ltd",
+      "operator": "Guernsey Airtel Ltd",
+      "networks": "234",
+      "data": 0.1219,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.36,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "23403",
+      "country_code": "JE",
+      "carrier": "Guernsey Airtel Ltd",
+      "operator": "Guernsey Airtel Ltd",
+      "networks": "234",
+      "data": 0.1219,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": null,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "23415",
+      "country_code": "GB",
+      "carrier": "Vodafone",
+      "operator": "Vodafone",
+      "networks": "245",
+      "data": 0.0013,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.36,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "23420",
+      "country_code": "GB",
+      "carrier": "Hutchison 3G UK Ltd",
+      "operator": "Hutchison 3G UK Ltd",
+      "networks": "45",
+      "data": 0.0013,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.36,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "23430",
+      "country_code": "GB",
+      "carrier": "EE",
+      "operator": "EE",
+      "networks": "245",
+      "data": 0.0021,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.36,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "23433",
+      "country_code": "GB",
+      "carrier": "23433",
+      "operator": null,
+      "networks": "",
+      "data": 0.0021,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.36,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "23801",
+      "country_code": "DK",
+      "carrier": "TDC A/S",
+      "operator": "TDC A/S",
+      "networks": "245",
+      "data": 0.0013,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.49,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "23806",
+      "country_code": "DK",
+      "carrier": "Hi3G Denmark ApS",
+      "operator": "Hi3G Denmark ApS",
+      "networks": "45",
+      "data": 0.0013,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.49,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "23820",
+      "country_code": "DK",
+      "carrier": "Telia",
+      "operator": "Telia",
+      "networks": "245",
+      "data": 0.0021,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.49,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "24001",
+      "country_code": "SE",
+      "carrier": "TeliaSonera Sverige AB",
+      "operator": "TeliaSonera Sverige AB",
+      "networks": "245",
+      "data": 0.0021,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.36,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "24002",
+      "country_code": "SE",
+      "carrier": "HI3G Access AB",
+      "operator": "HI3G Access AB",
+      "networks": "345",
+      "data": 0.0013,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.36,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "24004",
+      "country_code": "SE",
+      "carrier": "24004",
+      "operator": null,
+      "networks": "",
+      "data": 0.0013,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.36,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "24007",
+      "country_code": "SE",
+      "carrier": "Tele2 Sverige AB",
+      "operator": "Tele2 Sverige AB",
+      "networks": "245",
+      "data": 0.0013,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.36,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "24008",
+      "country_code": "SE",
+      "carrier": "TELENOR SVERIGE AB",
+      "operator": "TELENOR SVERIGE AB",
+      "networks": "45",
+      "data": 0.0021,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.36,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "24010",
+      "country_code": "SE",
+      "carrier": "24010",
+      "operator": null,
+      "networks": "",
+      "data": 0.0013,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.36,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "24024",
+      "country_code": "SE",
+      "carrier": "24024",
+      "operator": null,
+      "networks": "",
+      "data": 0.0021,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.36,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "24042",
+      "country_code": "SE",
+      "carrier": "24042",
+      "operator": null,
+      "networks": "",
+      "data": 0.0021,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.36,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "24201",
+      "country_code": "NO",
+      "carrier": "Telenor Norge AS",
+      "operator": "Telenor Norge AS",
+      "networks": "245",
+      "data": 0.0013,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.49,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "24403",
+      "country_code": "FI",
+      "carrier": "24403",
+      "operator": null,
+      "networks": "",
+      "data": 0.0021,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.36,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "24405",
+      "country_code": "FI",
+      "carrier": "Elisa Oyj",
+      "operator": "Elisa Oyj",
+      "networks": "245",
+      "data": 0.0013,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.36,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "24412",
+      "country_code": "FI",
+      "carrier": "DNA Oy",
+      "operator": "DNA Oy",
+      "networks": "345",
+      "data": 0.0021,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.36,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "24414",
+      "country_code": "FI",
+      "carrier": "Ålands Telekommunikation Ab",
+      "operator": "Ålands Telekommunikation Ab",
+      "networks": "345",
+      "data": 0.0021,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.36,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "24436",
+      "country_code": "FI",
+      "carrier": "24436",
+      "operator": null,
+      "networks": "",
+      "data": 0.0021,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.36,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "24601",
+      "country_code": "LT",
+      "carrier": "Telia Lietuva",
+      "operator": "Telia Lietuva",
+      "networks": "245",
+      "data": 0.0021,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.49,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "24602",
+      "country_code": "LT",
+      "carrier": "UAB Bitė Lietuva",
+      "operator": "UAB Bitė Lietuva",
+      "networks": "245",
+      "data": 0.0013,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.49,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "24701",
+      "country_code": "LV",
+      "carrier": "Latvian Mobile Telephone",
+      "operator": "Latvian Mobile Telephone",
+      "networks": "245",
+      "data": 0.0021,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.36,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "24702",
+      "country_code": "LV",
+      "carrier": "Tele2",
+      "operator": "Tele2",
+      "networks": "245",
+      "data": 0.0013,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.36,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "24705",
+      "country_code": "LV",
+      "carrier": "Bite Latvija",
+      "operator": "Bite Latvija",
+      "networks": "2345",
+      "data": 0.0013,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.36,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "24802",
+      "country_code": "EE",
+      "carrier": "Elisa Eesti",
+      "operator": "Elisa Eesti",
+      "networks": "24",
+      "data": 0.0019,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.31,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "25501",
+      "country_code": "UA",
+      "carrier": "PRJSC “VF Ukraine\"",
+      "operator": "PRJSC “VF Ukraine\"",
+      "networks": "234",
+      "data": 0.0021,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.63,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "25502",
+      "country_code": "UA",
+      "carrier": "25502",
+      "operator": null,
+      "networks": "",
+      "data": 0.0021,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.63,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "25503",
+      "country_code": "UA",
+      "carrier": "PRJSC “Kyivstar\"",
+      "operator": "PRJSC “Kyivstar\"",
+      "networks": "2345",
+      "data": 0.0021,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.63,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "25702",
+      "country_code": "BY",
+      "carrier": "Mobile TeleSystems",
+      "operator": "Mobile TeleSystems",
+      "networks": "234",
+      "data": 0.0732,
+      "incoming_call": 0.69,
+      "outgoing_call": 1.06,
+      "outgoing_sms": 0.44,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "25704",
+      "country_code": "BY",
+      "carrier": "Belarusian Telecommunications Network",
+      "operator": "Belarusian Telecommunications Network",
+      "networks": "234",
+      "data": 0.0504,
+      "incoming_call": 0.69,
+      "outgoing_call": 1.06,
+      "outgoing_sms": 0.44,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "25901",
+      "country_code": "MD",
+      "carrier": "Orange Moldova",
+      "operator": "Orange Moldova",
+      "networks": "234",
+      "data": 0.0021,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.69,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "26001",
+      "country_code": "PL",
+      "carrier": "Polkomtel Sp. z o.o.",
+      "operator": "Polkomtel Sp. z o.o.",
+      "networks": "2345",
+      "data": 0.0013,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.36,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "26002",
+      "country_code": "PL",
+      "carrier": "T-Mobile Polska S.A.",
+      "operator": "T-Mobile Polska S.A.",
+      "networks": "24",
+      "data": 0.0021,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.36,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "26003",
+      "country_code": "PL",
+      "carrier": "Polska Telefonia Komórkowa Centertel Sp. z o.o.",
+      "operator": "Polska Telefonia Komórkowa Centertel Sp. z o.o.",
+      "networks": "2345",
+      "data": 0.0013,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.36,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "26006",
+      "country_code": "PL",
+      "carrier": "P4 Sp. z o.o.",
+      "operator": "P4 Sp. z o.o.",
+      "networks": "2345",
+      "data": 0.0021,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.36,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "26201",
+      "country_code": "DE",
+      "carrier": "Telekom Deutschland GmbH",
+      "operator": "Telekom Deutschland GmbH",
+      "networks": "245",
+      "data": 0.0021,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.44,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "26202",
+      "country_code": "DE",
+      "carrier": "Vodafone D2 GmbH",
+      "operator": "Vodafone D2 GmbH",
+      "networks": "245",
+      "data": 0.0013,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.44,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "26203",
+      "country_code": "DE",
+      "carrier": "26203",
+      "operator": null,
+      "networks": "",
+      "data": 0.0021,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.44,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "26207",
+      "country_code": "DE",
+      "carrier": "Telefónica Germany GmbH &amp; Co. oHG",
+      "operator": "Telefónica Germany GmbH &amp; Co. oHG",
+      "networks": "245",
+      "data": 0.0021,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.44,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "26601",
+      "country_code": "GI",
+      "carrier": "Gibtelecom",
+      "operator": "Gibtelecom",
+      "networks": "345",
+      "data": 0.0021,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.63,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "26801",
+      "country_code": "PT",
+      "carrier": "Vodafone Portugal",
+      "operator": "Vodafone Portugal",
+      "networks": "245",
+      "data": 0.0013,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.49,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "26803",
+      "country_code": "PT",
+      "carrier": "NOS Comunicações",
+      "operator": "NOS Comunicações",
+      "networks": "24",
+      "data": 0.0021,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.49,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "27001",
+      "country_code": "LU",
+      "carrier": "POST Luxembourg",
+      "operator": "POST Luxembourg",
+      "networks": "245",
+      "data": 0.0013,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.49,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "27077",
+      "country_code": "LU",
+      "carrier": "Tango SA",
+      "operator": "Tango SA",
+      "networks": "2345",
+      "data": 0.0013,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.49,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "27201",
+      "country_code": "IE",
+      "carrier": "Vodafone Ireland",
+      "operator": "Vodafone Ireland",
+      "networks": "245",
+      "data": 0.0013,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.49,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "27401",
+      "country_code": "IS",
+      "carrier": "Iceland Telecom",
+      "operator": "Iceland Telecom",
+      "networks": "4",
+      "data": 0.0021,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "27402",
+      "country_code": "IS",
+      "carrier": "Og fjarskipti hf",
+      "operator": "Og fjarskipti hf",
+      "networks": "45",
+      "data": 0.0013,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "27411",
+      "country_code": "IS",
+      "carrier": "Nova ehf",
+      "operator": "Nova ehf",
+      "networks": "45",
+      "data": 0.0021,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "27601",
+      "country_code": "AL",
+      "carrier": "Telekom Albania",
+      "operator": "Telekom Albania",
+      "networks": "234",
+      "data": 0.0375,
+      "incoming_call": 0.24,
+      "outgoing_call": 0.94,
+      "outgoing_sms": 0.44,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "27801",
+      "country_code": "MT",
+      "carrier": "Vodafone Malta",
+      "operator": "Vodafone Malta",
+      "networks": "245",
+      "data": 0.0021,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.49,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "27821",
+      "country_code": "MT",
+      "carrier": "Mobile Communications Limited",
+      "operator": "Mobile Communications Limited",
+      "networks": "234",
+      "data": 0.0021,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.49,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "27877",
+      "country_code": "MT",
+      "carrier": "Melita",
+      "operator": "Melita",
+      "networks": "2345",
+      "data": 0.0021,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.49,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "28001",
+      "country_code": "CY",
+      "carrier": "Cyprus Telecommunications Authority",
+      "operator": "Cyprus Telecommunications Authority",
+      "networks": "245",
+      "data": 0.0013,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.31,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "28020",
+      "country_code": "CY",
+      "carrier": "PrimeTel PLC",
+      "operator": "PrimeTel PLC",
+      "networks": "234",
+      "data": 0.0021,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.31,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "28202",
+      "country_code": "GE",
+      "carrier": "MagtiCom",
+      "operator": "MagtiCom",
+      "networks": "2345",
+      "data": 0.0375,
+      "incoming_call": 0.69,
+      "outgoing_call": 0.81,
+      "outgoing_sms": 0.44,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "28301",
+      "country_code": "AM",
+      "carrier": "ArmenTel",
+      "operator": "ArmenTel",
+      "networks": "34",
+      "data": 0.0375,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.74,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "28305",
+      "country_code": "AM",
+      "carrier": "K Telecom CJSC",
+      "operator": "K Telecom CJSC",
+      "networks": "234",
+      "data": 0.0375,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.74,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "28401",
+      "country_code": "BG",
+      "carrier": "A1 Bulgaria",
+      "operator": "A1 Bulgaria",
+      "networks": "2345",
+      "data": 0.0021,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.36,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "28403",
+      "country_code": "BG",
+      "carrier": "BTC",
+      "operator": "BTC",
+      "networks": "2345",
+      "data": 0.0013,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.36,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "28405",
+      "country_code": "BG",
+      "carrier": "Telenor (Bulgaria)",
+      "operator": "Telenor (Bulgaria)",
+      "networks": "2345",
+      "data": 0.0013,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.36,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "28602",
+      "country_code": "TR",
+      "carrier": "Vodafone Turkey",
+      "operator": "Vodafone Turkey",
+      "networks": "2345",
+      "data": 0.0094,
+      "incoming_call": 0.69,
+      "outgoing_call": 0.49,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "28603",
+      "country_code": "TR",
+      "carrier": "Türk Telekom",
+      "operator": "Türk Telekom",
+      "networks": "234",
+      "data": 0.0094,
+      "incoming_call": 0.69,
+      "outgoing_call": 0.49,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "28604",
+      "country_code": "TR",
+      "carrier": "28604",
+      "operator": null,
+      "networks": "",
+      "data": 0.0094,
+      "incoming_call": 0.69,
+      "outgoing_call": 0.49,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "28802",
+      "country_code": "FO",
+      "carrier": "Vodafone Faroe Islands",
+      "operator": "Vodafone Faroe Islands",
+      "networks": "234",
+      "data": 0.0013,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.63,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "29001",
+      "country_code": "GL",
+      "carrier": "TELE Greenland A/S",
+      "operator": "TELE Greenland A/S",
+      "networks": "24",
+      "data": 0.1219,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.56,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "29341",
+      "country_code": "SI",
+      "carrier": "Telekom Slovenije",
+      "operator": "Telekom Slovenije",
+      "networks": "24",
+      "data": 0.0021,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.49,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "29370",
+      "country_code": "SI",
+      "carrier": "Tušmobil d.o.o.",
+      "operator": "Tušmobil d.o.o.",
+      "networks": "2345",
+      "data": 0.0013,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.49,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "29403",
+      "country_code": "MK",
+      "carrier": "ONE.VIP DOO",
+      "operator": "ONE.VIP DOO",
+      "networks": "23",
+      "data": 0.0732,
+      "incoming_call": 0.69,
+      "outgoing_call": 1.56,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "29505",
+      "country_code": "LI",
+      "carrier": "Telecom Liechtenstein AG",
+      "operator": "Telecom Liechtenstein AG",
+      "networks": "245",
+      "data": 0.0013,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.49,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "29701",
+      "country_code": "ME",
+      "carrier": "Telenor Montenegro",
+      "operator": "Telenor Montenegro",
+      "networks": "2345",
+      "data": 0.0188,
+      "incoming_call": 0.24,
+      "outgoing_call": 0.81,
+      "outgoing_sms": 0.44,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "29703",
+      "country_code": "ME",
+      "carrier": "MTEL CG",
+      "operator": "MTEL CG",
+      "networks": "2345",
+      "data": 0.0188,
+      "incoming_call": 0.24,
+      "outgoing_call": 0.81,
+      "outgoing_sms": 0.44,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "302720",
+      "country_code": "CA",
+      "carrier": "Rogers Communications Canada Inc.",
+      "operator": "Rogers Communications Canada Inc.",
+      "networks": "245",
+      "data": 0.0113,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.74,
+      "outgoing_sms": 0.44,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "310160",
+      "country_code": "US",
+      "carrier": "310160",
+      "operator": null,
+      "networks": "",
+      "data": 0.0023,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "310200",
+      "country_code": "US",
+      "carrier": "310200",
+      "operator": null,
+      "networks": "",
+      "data": 0.0023,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "310210",
+      "country_code": "US",
+      "carrier": "310210",
+      "operator": null,
+      "networks": "",
+      "data": 0.0023,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "310220",
+      "country_code": "US",
+      "carrier": "310220",
+      "operator": null,
+      "networks": "",
+      "data": 0.0023,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "310230",
+      "country_code": "US",
+      "carrier": "310230",
+      "operator": null,
+      "networks": "",
+      "data": 0.0023,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "310240",
+      "country_code": "US",
+      "carrier": "310240",
+      "operator": null,
+      "networks": "",
+      "data": 0.0023,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "310250",
+      "country_code": "US",
+      "carrier": "310250",
+      "operator": null,
+      "networks": "",
+      "data": 0.0023,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "310260",
+      "country_code": "PR",
+      "carrier": "T-Mobile USA",
+      "operator": "T-Mobile USA",
+      "networks": "45",
+      "data": 0.0023,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.44,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "310260",
+      "country_code": "US",
+      "carrier": "T-Mobile USA",
+      "operator": "T-Mobile USA",
+      "networks": "45",
+      "data": 0.0023,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "310270",
+      "country_code": "US",
+      "carrier": "310270",
+      "operator": null,
+      "networks": "",
+      "data": 0.0023,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "310310",
+      "country_code": "US",
+      "carrier": "310310",
+      "operator": null,
+      "networks": "",
+      "data": 0.0023,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "310410",
+      "country_code": "PR",
+      "carrier": "AT&T",
+      "operator": "AT&T",
+      "networks": "45",
+      "data": 0.0023,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.44,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "310410",
+      "country_code": "US",
+      "carrier": "AT&T",
+      "operator": "AT&T",
+      "networks": "45",
+      "data": 0.0023,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "310490",
+      "country_code": "US",
+      "carrier": "310490",
+      "operator": null,
+      "networks": "",
+      "data": 0.0023,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "330110",
+      "country_code": "PR",
+      "carrier": "América Móvil",
+      "operator": "América Móvil",
+      "networks": "45",
+      "data": 0.0234,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.44,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "334020",
+      "country_code": "MX",
+      "carrier": "TELCEL",
+      "operator": "TELCEL",
+      "networks": "234",
+      "data": 0.0234,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.44,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "33805",
+      "country_code": "AG",
+      "carrier": "Digicel",
+      "operator": "Digicel",
+      "networks": "24",
+      "data": 0.1406,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.74,
+      "outgoing_sms": 0.44,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "33805",
+      "country_code": "AI",
+      "carrier": "Digicel",
+      "operator": "Digicel",
+      "networks": "24",
+      "data": 0.1406,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.74,
+      "outgoing_sms": 0.44,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "33805",
+      "country_code": "AW",
+      "carrier": "Digicel",
+      "operator": "Digicel",
+      "networks": "4",
+      "data": 0.1406,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 1.56,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "33805",
+      "country_code": "BB",
+      "carrier": "Digicel",
+      "operator": "Digicel",
+      "networks": "24",
+      "data": 0.1406,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.74,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "33805",
+      "country_code": "BM",
+      "carrier": "Digicel",
+      "operator": "Digicel",
+      "networks": "24",
+      "data": 0.1406,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.74,
+      "outgoing_sms": 0.44,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "33805",
+      "country_code": "DM",
+      "carrier": "Digicel",
+      "operator": "Digicel",
+      "networks": "4",
+      "data": 0.1406,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.81,
+      "outgoing_sms": 0.44,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "33805",
+      "country_code": "GD",
+      "carrier": "Digicel",
+      "operator": "Digicel",
+      "networks": "24",
+      "data": 0.1406,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.74,
+      "outgoing_sms": 0.44,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "33805",
+      "country_code": "HT",
+      "carrier": "Digicel",
+      "operator": "Digicel",
+      "networks": "24",
+      "data": 0.1406,
+      "incoming_call": 0.24,
+      "outgoing_call": 0.94,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "33805",
+      "country_code": "JM",
+      "carrier": "Digicel",
+      "operator": "Digicel",
+      "networks": "24",
+      "data": 0.1406,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.81,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "33805",
+      "country_code": "KN",
+      "carrier": "Digicel",
+      "operator": "Digicel",
+      "networks": "24",
+      "data": 0.1406,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.74,
+      "outgoing_sms": 0.44,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "33805",
+      "country_code": "KY",
+      "carrier": "Digicel",
+      "operator": "Digicel",
+      "networks": "24",
+      "data": 0.1406,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.74,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "33805",
+      "country_code": "LC",
+      "carrier": "Digicel",
+      "operator": "Digicel",
+      "networks": "24",
+      "data": 0.1406,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.74,
+      "outgoing_sms": 0.44,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "33805",
+      "country_code": "MS",
+      "carrier": "Digicel",
+      "operator": "Digicel",
+      "networks": "24",
+      "data": 0.1406,
+      "incoming_call": 0.24,
+      "outgoing_call": 0.86,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "33805",
+      "country_code": "TC",
+      "carrier": "Digicel",
+      "operator": "Digicel",
+      "networks": "24",
+      "data": 0.1406,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.74,
+      "outgoing_sms": 0.44,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "33805",
+      "country_code": "VC",
+      "carrier": "Digicel",
+      "operator": "Digicel",
+      "networks": "4",
+      "data": 0.1406,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.74,
+      "outgoing_sms": 0.44,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "33805",
+      "country_code": "VG",
+      "carrier": "Digicel",
+      "operator": "Digicel",
+      "networks": "24",
+      "data": 0.1406,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.74,
+      "outgoing_sms": 0.44,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "338050",
+      "country_code": "AG",
+      "carrier": "DIGICEL ANTIGUA & BARBUDA",
+      "operator": "DIGICEL ANTIGUA & BARBUDA",
+      "networks": "24",
+      "data": 0.1406,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.74,
+      "outgoing_sms": 0.44,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "338050",
+      "country_code": "AI",
+      "carrier": "DIGICEL ANGUILLA",
+      "operator": "DIGICEL ANGUILLA",
+      "networks": "24",
+      "data": 0.1406,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.74,
+      "outgoing_sms": 0.44,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "338050",
+      "country_code": "AW",
+      "carrier": "DIGICEL ARUBA",
+      "operator": "DIGICEL ARUBA",
+      "networks": "4",
+      "data": 0.1406,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 1.56,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "338050",
+      "country_code": "BB",
+      "carrier": "DIGICEL BARBADOS",
+      "operator": "DIGICEL BARBADOS",
+      "networks": "24",
+      "data": 0.1406,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.74,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "338050",
+      "country_code": "BM",
+      "carrier": "DIGICEL BERMUDA",
+      "operator": "DIGICEL BERMUDA",
+      "networks": "24",
+      "data": 0.1406,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.74,
+      "outgoing_sms": 0.44,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "338050",
+      "country_code": "DM",
+      "carrier": "DIGICEL DOMINICA",
+      "operator": "DIGICEL DOMINICA",
+      "networks": "4",
+      "data": 0.1406,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.81,
+      "outgoing_sms": 0.44,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "338050",
+      "country_code": "GD",
+      "carrier": "DIGICEL GRENADA",
+      "operator": "DIGICEL GRENADA",
+      "networks": "24",
+      "data": 0.1406,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.74,
+      "outgoing_sms": 0.44,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "338050",
+      "country_code": "HT",
+      "carrier": "DIGICEL HAITI",
+      "operator": "DIGICEL HAITI",
+      "networks": "24",
+      "data": 0.1406,
+      "incoming_call": 0.24,
+      "outgoing_call": 0.94,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "338050",
+      "country_code": "JM",
+      "carrier": "DIGICEL",
+      "operator": "DIGICEL",
+      "networks": "24",
+      "data": 0.1406,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.81,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "338050",
+      "country_code": "KN",
+      "carrier": "DIGICEL ST KITTS & NEVIS",
+      "operator": "DIGICEL ST KITTS & NEVIS",
+      "networks": "24",
+      "data": 0.1406,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.74,
+      "outgoing_sms": 0.44,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "338050",
+      "country_code": "KY",
+      "carrier": "DIGICEL CAYMAN",
+      "operator": "DIGICEL CAYMAN",
+      "networks": "24",
+      "data": 0.1406,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.74,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "338050",
+      "country_code": "LC",
+      "carrier": "DIGICEL ST. LUCIA",
+      "operator": "DIGICEL ST. LUCIA",
+      "networks": "24",
+      "data": 0.1406,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.74,
+      "outgoing_sms": 0.44,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "338050",
+      "country_code": "MS",
+      "carrier": "DIGICEL MONTSERRAT",
+      "operator": "DIGICEL MONTSERRAT",
+      "networks": "24",
+      "data": 0.1406,
+      "incoming_call": 0.24,
+      "outgoing_call": 0.86,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "338050",
+      "country_code": "TC",
+      "carrier": "DIGICEL TURKS & CAICOS",
+      "operator": "DIGICEL TURKS & CAICOS",
+      "networks": "24",
+      "data": 0.1406,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.74,
+      "outgoing_sms": 0.44,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "338050",
+      "country_code": "VC",
+      "carrier": "DIGICEL ST. VINCENT & GRENADINES",
+      "operator": "DIGICEL ST. VINCENT & GRENADINES",
+      "networks": "4",
+      "data": 0.1406,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.74,
+      "outgoing_sms": 0.44,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "338050",
+      "country_code": "VG",
+      "carrier": "DIGICEL BRITISH VIRGIN ISLANDS",
+      "operator": "DIGICEL BRITISH VIRGIN ISLANDS",
+      "networks": "24",
+      "data": 0.1406,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.74,
+      "outgoing_sms": 0.44,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "338180",
+      "country_code": "JM",
+      "carrier": "Cable &amp; Wireless Communications",
+      "operator": "Cable &amp; Wireless Communications",
+      "networks": "34",
+      "data": 0.0281,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.81,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "34002",
+      "country_code": "BL",
+      "carrier": "Outremer Telecom",
+      "operator": "Outremer Telecom",
+      "networks": "234",
+      "data": 0.0013,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": null,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "34002",
+      "country_code": "GF",
+      "carrier": "Outremer Telecom",
+      "operator": "Outremer Telecom",
+      "networks": "234",
+      "data": 0.0013,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "34002",
+      "country_code": "GP",
+      "carrier": "Outremer Telecom",
+      "operator": "Outremer Telecom",
+      "networks": "234",
+      "data": 0.0013,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.56,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "34002",
+      "country_code": "MF",
+      "carrier": "Outremer Telecom",
+      "operator": "Outremer Telecom",
+      "networks": "234",
+      "data": 0.0013,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": null,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "34002",
+      "country_code": "MQ",
+      "carrier": "Outremer Telecom",
+      "operator": "Outremer Telecom",
+      "networks": "234",
+      "data": 0.0013,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": null,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "34020",
+      "country_code": "BL",
+      "carrier": "DIGICEL Antilles Francaises Guyane",
+      "operator": "DIGICEL Antilles Francaises Guyane",
+      "networks": "234",
+      "data": 0.0021,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": null,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "34020",
+      "country_code": "GF",
+      "carrier": "DIGICEL Antilles Francaises Guyane",
+      "operator": "DIGICEL Antilles Francaises Guyane",
+      "networks": "234",
+      "data": 0.0021,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "34020",
+      "country_code": "GP",
+      "carrier": "DIGICEL Antilles Francaises Guyane",
+      "operator": "DIGICEL Antilles Francaises Guyane",
+      "networks": "234",
+      "data": 0.0021,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.56,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "34020",
+      "country_code": "MF",
+      "carrier": "DIGICEL Antilles Francaises Guyane",
+      "operator": "DIGICEL Antilles Francaises Guyane",
+      "networks": "234",
+      "data": 0.0021,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": null,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "34020",
+      "country_code": "MQ",
+      "carrier": "DIGICEL Antilles Francaises Guyane",
+      "operator": "DIGICEL Antilles Francaises Guyane",
+      "networks": "234",
+      "data": 0.0021,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": null,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "342600",
+      "country_code": "BB",
+      "carrier": "LIME (formerly known as Cable &amp; Wireless)",
+      "operator": "LIME (formerly known as Cable &amp; Wireless)",
+      "networks": "34",
+      "data": 0.0281,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.74,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "344920",
+      "country_code": "AG",
+      "carrier": "Cable &amp; Wireless Caribbean Cellular (Antigua) Limited",
+      "operator": "Cable &amp; Wireless Caribbean Cellular (Antigua) Limited",
+      "networks": "34",
+      "data": 0.0281,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.74,
+      "outgoing_sms": 0.44,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "346140",
+      "country_code": "KY",
+      "carrier": "Cable &amp; Wireless (Cayman Islands) Limited",
+      "operator": "Cable &amp; Wireless (Cayman Islands) Limited",
+      "networks": "34",
+      "data": 0.0281,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.74,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "348170",
+      "country_code": "VG",
+      "carrier": "Cable &amp; Wireless",
+      "operator": "Cable &amp; Wireless",
+      "networks": "34",
+      "data": 0.0281,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.74,
+      "outgoing_sms": 0.44,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "34877",
+      "country_code": "VG",
+      "carrier": "34877",
+      "operator": null,
+      "networks": "",
+      "data": 0.1406,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.74,
+      "outgoing_sms": 0.44,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "348770",
+      "country_code": "VG",
+      "carrier": "Digicel (BVI) Limited",
+      "operator": "Digicel (BVI) Limited",
+      "networks": "24",
+      "data": 0.1406,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.74,
+      "outgoing_sms": 0.44,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "352110",
+      "country_code": "GD",
+      "carrier": "Cable &amp; Wireless Grenada Ltd.",
+      "operator": "Cable &amp; Wireless Grenada Ltd.",
+      "networks": "34",
+      "data": 0.0281,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.74,
+      "outgoing_sms": 0.44,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "354860",
+      "country_code": "MS",
+      "carrier": "Cable &amp; Wireless",
+      "operator": "Cable &amp; Wireless",
+      "networks": "34",
+      "data": 0.0281,
+      "incoming_call": 0.24,
+      "outgoing_call": 0.86,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "356110",
+      "country_code": "KN",
+      "carrier": "CABLE & WIRELESS, ST KITTS & NEVIS",
+      "operator": "CABLE & WIRELESS, ST KITTS & NEVIS",
+      "networks": "34",
+      "data": 0.0281,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.74,
+      "outgoing_sms": 0.44,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "358110",
+      "country_code": "LC",
+      "carrier": "CABLE & WIRELESS, ST. LUCIA",
+      "operator": "CABLE & WIRELESS, ST. LUCIA",
+      "networks": "34",
+      "data": 0.0281,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.74,
+      "outgoing_sms": 0.44,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "360110",
+      "country_code": "VC",
+      "carrier": "CABLE & WIRELESS, ST. VINCENT & GRENADINES",
+      "operator": "CABLE & WIRELESS, ST. VINCENT & GRENADINES",
+      "networks": "34",
+      "data": 0.0281,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.74,
+      "outgoing_sms": 0.44,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "36251",
+      "country_code": "AN",
+      "carrier": "Telcell N.V.",
+      "operator": "Telcell N.V.",
+      "networks": "3",
+      "data": 0.1406,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.56,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "36269",
+      "country_code": "AN",
+      "carrier": "Curaçao Telecom N.V.",
+      "operator": "Curaçao Telecom N.V.",
+      "networks": "4",
+      "data": 0.1406,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.56,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "36302",
+      "country_code": "AW",
+      "carrier": "Digicel Aruba",
+      "operator": "Digicel Aruba",
+      "networks": "34",
+      "data": 0.1406,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 1.56,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "36439",
+      "country_code": "BS",
+      "carrier": "The Bahamas Telecommunications Company Ltd (BaTelCo)",
+      "operator": "The Bahamas Telecommunications Company Ltd (BaTelCo)",
+      "networks": "3",
+      "data": 0.0281,
+      "incoming_call": 0.24,
+      "outgoing_call": 0.74,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "365840",
+      "country_code": "AI",
+      "carrier": "CABLE & WIRELESS, ANGUILLA",
+      "operator": "CABLE & WIRELESS, ANGUILLA",
+      "networks": "34",
+      "data": 0.0281,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.74,
+      "outgoing_sms": 0.44,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "366110",
+      "country_code": "DM",
+      "carrier": "Cable &amp;  Wireless",
+      "operator": "Cable &amp;  Wireless",
+      "networks": "34",
+      "data": 0.0281,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.81,
+      "outgoing_sms": 0.44,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "37002",
+      "country_code": "DO",
+      "carrier": "Compañía Dominicana de Teléfonos",
+      "operator": "Compañía Dominicana de Teléfonos",
+      "networks": "234",
+      "data": 0.0234,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.49,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "37203",
+      "country_code": "HT",
+      "carrier": "NATCOM S.A.",
+      "operator": "NATCOM S.A.",
+      "networks": "23",
+      "data": 0.0844,
+      "incoming_call": 0.24,
+      "outgoing_call": 0.94,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "374130",
+      "country_code": "TT",
+      "carrier": "Digicel Trinidad and Tobago",
+      "operator": "Digicel Trinidad and Tobago",
+      "networks": "23",
+      "data": null,
+      "incoming_call": 1.56,
+      "outgoing_call": 2.49,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "376350",
+      "country_code": "TC",
+      "carrier": "CABLE & WIRELESS, TURKS & CAICOS",
+      "operator": "CABLE & WIRELESS, TURKS & CAICOS",
+      "networks": "34",
+      "data": 0.0281,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.74,
+      "outgoing_sms": 0.44,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "376360",
+      "country_code": "TC",
+      "carrier": "Cable &amp; Wireless West Indies Ltd (Turks &amp; Caicos)",
+      "operator": "Cable &amp; Wireless West Indies Ltd (Turks &amp; Caicos)",
+      "networks": "34",
+      "data": 0.1406,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.74,
+      "outgoing_sms": 0.44,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "40001",
+      "country_code": "AZ",
+      "carrier": "Azercell",
+      "operator": "Azercell",
+      "networks": "23",
+      "data": 0.0656,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.69,
+      "outgoing_sms": 0.44,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "40102",
+      "country_code": "KZ",
+      "carrier": "Kcell JSC",
+      "operator": "Kcell JSC",
+      "networks": "2345",
+      "data": 0.0656,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.56,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "40177",
+      "country_code": "KZ",
+      "carrier": "MTS",
+      "operator": "MTS",
+      "networks": "245",
+      "data": 0.0656,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.56,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "40402",
+      "country_code": "IN",
+      "carrier": "Punjab",
+      "operator": "Punjab",
+      "networks": "245",
+      "data": 0.0844,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.63,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "40403",
+      "country_code": "IN",
+      "carrier": "Himachal Pradesh",
+      "operator": "Himachal Pradesh",
+      "networks": "245",
+      "data": 0.0844,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.63,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "40404",
+      "country_code": "IN",
+      "carrier": "Delhi &amp; NCR",
+      "operator": "Delhi &amp; NCR",
+      "networks": "24",
+      "data": 0.015,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.63,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "40407",
+      "country_code": "IN",
+      "carrier": "Andhra Pradesh and Telangana",
+      "operator": "Andhra Pradesh and Telangana",
+      "networks": "24",
+      "data": 0.015,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.63,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "40410",
+      "country_code": "IN",
+      "carrier": "Delhi &amp; NCR",
+      "operator": "Delhi &amp; NCR",
+      "networks": "245",
+      "data": 0.0844,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.63,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "40412",
+      "country_code": "IN",
+      "carrier": "Haryana",
+      "operator": "Haryana",
+      "networks": "24",
+      "data": 0.015,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.63,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "40414",
+      "country_code": "IN",
+      "carrier": "Punjab",
+      "operator": "Punjab",
+      "networks": "24",
+      "data": 0.015,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.63,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "40416",
+      "country_code": "IN",
+      "carrier": "North East",
+      "operator": "North East",
+      "networks": "245",
+      "data": 0.0844,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.63,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "40419",
+      "country_code": "IN",
+      "carrier": "Kerala",
+      "operator": "Kerala",
+      "networks": "24",
+      "data": 0.015,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.63,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "40422",
+      "country_code": "IN",
+      "carrier": "Maharashtra &amp; Goa",
+      "operator": "Maharashtra &amp; Goa",
+      "networks": "24",
+      "data": 0.015,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.63,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "40424",
+      "country_code": "IN",
+      "carrier": "Gujarat",
+      "operator": "Gujarat",
+      "networks": "24",
+      "data": 0.015,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.63,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "40431",
+      "country_code": "IN",
+      "carrier": "Kolkata",
+      "operator": "Kolkata",
+      "networks": "245",
+      "data": 0.0844,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.63,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "40440",
+      "country_code": "IN",
+      "carrier": "Chennai",
+      "operator": "Chennai",
+      "networks": "245",
+      "data": 0.0844,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.63,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "40444",
+      "country_code": "IN",
+      "carrier": "Karnataka",
+      "operator": "Karnataka",
+      "networks": "24",
+      "data": 0.015,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.63,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "40445",
+      "country_code": "IN",
+      "carrier": "Karnataka",
+      "operator": "Karnataka",
+      "networks": "245",
+      "data": 0.0844,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.63,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "40449",
+      "country_code": "IN",
+      "carrier": "Andhra Pradesh and Telangana",
+      "operator": "Andhra Pradesh and Telangana",
+      "networks": "245",
+      "data": 0.0844,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.63,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "40456",
+      "country_code": "IN",
+      "carrier": "Uttar Pradesh (West)",
+      "operator": "Uttar Pradesh (West)",
+      "networks": "24",
+      "data": 0.015,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.63,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "40470",
+      "country_code": "IN",
+      "carrier": "Rajasthan",
+      "operator": "Rajasthan",
+      "networks": "245",
+      "data": 0.0844,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.63,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "40478",
+      "country_code": "IN",
+      "carrier": "Madhya Pradesh &amp; Chattishgarh",
+      "operator": "Madhya Pradesh &amp; Chattishgarh",
+      "networks": "24",
+      "data": 0.015,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.63,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "40482",
+      "country_code": "IN",
+      "carrier": "Himachal Pradesh",
+      "operator": "Himachal Pradesh",
+      "networks": "24",
+      "data": 0.015,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.63,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "40487",
+      "country_code": "IN",
+      "carrier": "Rajasthan",
+      "operator": "Rajasthan",
+      "networks": "24",
+      "data": 0.015,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.63,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "40489",
+      "country_code": "IN",
+      "carrier": "Uttar Pradesh (East)",
+      "operator": "Uttar Pradesh (East)",
+      "networks": "24",
+      "data": 0.015,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.63,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "40490",
+      "country_code": "IN",
+      "carrier": "Maharashtra",
+      "operator": "Maharashtra",
+      "networks": "245",
+      "data": 0.0844,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.63,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "40492",
+      "country_code": "IN",
+      "carrier": "Mumbai",
+      "operator": "Mumbai",
+      "networks": "245",
+      "data": 0.0844,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.63,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "40493",
+      "country_code": "IN",
+      "carrier": "Madhya Pradesh",
+      "operator": "Madhya Pradesh",
+      "networks": "245",
+      "data": 0.0844,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.63,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "40494",
+      "country_code": "IN",
+      "carrier": "Tamil Nadu",
+      "operator": "Tamil Nadu",
+      "networks": "245",
+      "data": 0.0844,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.63,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "40495",
+      "country_code": "IN",
+      "carrier": "Kerala",
+      "operator": "Kerala",
+      "networks": "245",
+      "data": 0.0844,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.63,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "40496",
+      "country_code": "IN",
+      "carrier": "Haryana",
+      "operator": "Haryana",
+      "networks": "245",
+      "data": 0.0844,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.63,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "40497",
+      "country_code": "IN",
+      "carrier": "Uttar Pradesh (West)",
+      "operator": "Uttar Pradesh (West)",
+      "networks": "245",
+      "data": 0.0844,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.63,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "40498",
+      "country_code": "IN",
+      "carrier": "Gujarat",
+      "operator": "Gujarat",
+      "networks": "245",
+      "data": 0.0844,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.63,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "40551",
+      "country_code": "IN",
+      "carrier": "West Bengal",
+      "operator": "West Bengal",
+      "networks": "245",
+      "data": 0.0844,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.63,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "40552",
+      "country_code": "IN",
+      "carrier": "Bihar &amp; Jharkhand",
+      "operator": "Bihar &amp; Jharkhand",
+      "networks": "245",
+      "data": 0.0844,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.63,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "40553",
+      "country_code": "IN",
+      "carrier": "Orissa",
+      "operator": "Orissa",
+      "networks": "245",
+      "data": 0.0844,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.63,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "40554",
+      "country_code": "IN",
+      "carrier": "Uttar Pradesh (East)",
+      "operator": "Uttar Pradesh (East)",
+      "networks": "245",
+      "data": 0.0844,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.63,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "40555",
+      "country_code": "IN",
+      "carrier": "Jammu &amp; Kashmir",
+      "operator": "Jammu &amp; Kashmir",
+      "networks": "245",
+      "data": 0.0844,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.63,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "40556",
+      "country_code": "IN",
+      "carrier": "Assam",
+      "operator": "Assam",
+      "networks": "245",
+      "data": 0.0844,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.63,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "40570",
+      "country_code": "IN",
+      "carrier": "Bihar &amp; Jharkhand",
+      "operator": "Bihar &amp; Jharkhand",
+      "networks": "24",
+      "data": 0.015,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.63,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "405799",
+      "country_code": "IN",
+      "carrier": "Mumbai",
+      "operator": "Mumbai",
+      "networks": "24",
+      "data": 0.015,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.63,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "405845",
+      "country_code": "IN",
+      "carrier": "Assam",
+      "operator": "Assam",
+      "networks": "24",
+      "data": 0.015,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.63,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "405846",
+      "country_code": "IN",
+      "carrier": "Jammu &amp; Kashmir",
+      "operator": "Jammu &amp; Kashmir",
+      "networks": "24",
+      "data": 0.015,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.63,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "405848",
+      "country_code": "IN",
+      "carrier": "Kolkata",
+      "operator": "Kolkata",
+      "networks": "24",
+      "data": 0.015,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.63,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "405849",
+      "country_code": "IN",
+      "carrier": "North East",
+      "operator": "North East",
+      "networks": "24",
+      "data": 0.015,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.63,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "405850",
+      "country_code": "IN",
+      "carrier": "Orissa",
+      "operator": "Orissa",
+      "networks": "24",
+      "data": 0.015,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.63,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "405852",
+      "country_code": "IN",
+      "carrier": "Tamil Nadu",
+      "operator": "Tamil Nadu",
+      "networks": "24",
+      "data": 0.015,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.63,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "405853",
+      "country_code": "IN",
+      "carrier": "West Bengal",
+      "operator": "West Bengal",
+      "networks": "24",
+      "data": 0.015,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.63,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "41004",
+      "country_code": "PK",
+      "carrier": "China Mobile",
+      "operator": "China Mobile",
+      "networks": "234",
+      "data": 0.0656,
+      "incoming_call": 0.24,
+      "outgoing_call": 0.86,
+      "outgoing_sms": 0.61,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "41201",
+      "country_code": "AF",
+      "carrier": "Afghan Wireless Communication Company",
+      "operator": "Afghan Wireless Communication Company",
+      "networks": "23",
+      "data": null,
+      "incoming_call": 1.19,
+      "outgoing_call": 2.11,
+      "outgoing_sms": 2.0,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "41302",
+      "country_code": "LK",
+      "carrier": "Dialog Axiata PLC",
+      "operator": "Dialog Axiata PLC",
+      "networks": "24",
+      "data": 0.0656,
+      "incoming_call": 0.69,
+      "outgoing_call": 0.69,
+      "outgoing_sms": 0.61,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "41409",
+      "country_code": "MM",
+      "carrier": "Myanmar National Tele &amp; Communication Co., Ltd",
+      "operator": "Myanmar National Tele &amp; Communication Co., Ltd",
+      "networks": "24",
+      "data": 0.0844,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.69,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "41677",
+      "country_code": "JO",
+      "carrier": "Petra Jordanian Mobile Telecommunications Company (MobileCom)",
+      "operator": "Petra Jordanian Mobile Telecommunications Company (MobileCom)",
+      "networks": "234",
+      "data": 0.1406,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.69,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "41902",
+      "country_code": "KW",
+      "carrier": "Zain Kuwait",
+      "operator": "Zain Kuwait",
+      "networks": "245",
+      "data": 0.2063,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.49,
+      "outgoing_sms": 1.56,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "42001",
+      "country_code": "SA",
+      "carrier": "Saudi Telecom Company",
+      "operator": "Saudi Telecom Company",
+      "networks": "234",
+      "data": 0.2063,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.56,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "42003",
+      "country_code": "SA",
+      "carrier": "Etihad Etisalat Company",
+      "operator": "Etihad Etisalat Company",
+      "networks": "2345",
+      "data": 0.2063,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.56,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "42202",
+      "country_code": "OM",
+      "carrier": "Oman Telecommunications Company",
+      "operator": "Oman Telecommunications Company",
+      "networks": "245",
+      "data": 0.375,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.69,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "42403",
+      "country_code": "AE",
+      "carrier": "Emirates Integrated Telecommunications Company",
+      "operator": "Emirates Integrated Telecommunications Company",
+      "networks": "3",
+      "data": null,
+      "incoming_call": 2.81,
+      "outgoing_call": 3.13,
+      "outgoing_sms": 1.56,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "42507",
+      "country_code": "IL",
+      "carrier": "HOT MOBILE",
+      "operator": "HOT MOBILE",
+      "networks": "45",
+      "data": 0.0375,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "42601",
+      "country_code": "BH",
+      "carrier": "Bahrain Telecommunications Company",
+      "operator": "Bahrain Telecommunications Company",
+      "networks": "35",
+      "data": 0.1406,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.56,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "42702",
+      "country_code": "QA",
+      "carrier": "Vodafone Qatar",
+      "operator": "Vodafone Qatar",
+      "networks": "245",
+      "data": 0.0188,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.69,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "43407",
+      "country_code": "UZ",
+      "carrier": "Universal Mobile Systems",
+      "operator": "Universal Mobile Systems",
+      "networks": "2345",
+      "data": 0.0656,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.63,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "43408",
+      "country_code": "UZ",
+      "carrier": "Uzbektelekom",
+      "operator": "Uzbektelekom",
+      "networks": "234",
+      "data": 0.0375,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.63,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "43605",
+      "country_code": "TJ",
+      "carrier": "Tacom",
+      "operator": "Tacom",
+      "networks": "23",
+      "data": 0.0375,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.69,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "43701",
+      "country_code": "KG",
+      "carrier": "Sky Mobile LLC",
+      "operator": "Sky Mobile LLC",
+      "networks": "234",
+      "data": 0.1313,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.69,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "44010",
+      "country_code": "JP",
+      "carrier": "NTT DOCOMO",
+      "operator": "NTT DOCOMO",
+      "networks": "45",
+      "data": 0.0188,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "45005",
+      "country_code": "KR",
+      "carrier": "SK Telecom",
+      "operator": "SK Telecom",
+      "networks": "345",
+      "data": 0.0075,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.36,
+      "outgoing_sms": 0.44,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "45202",
+      "country_code": "VN",
+      "carrier": "Vietnam Telecom Services Company",
+      "operator": "Vietnam Telecom Services Company",
+      "networks": "34",
+      "data": 0.0281,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.63,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "45403",
+      "country_code": "HK",
+      "carrier": "Hutchison Telecom",
+      "operator": "Hutchison Telecom",
+      "networks": "345",
+      "data": 0.0844,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.44,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "45404",
+      "country_code": "HK",
+      "carrier": "45404",
+      "operator": null,
+      "networks": "",
+      "data": 0.0844,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.44,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "45412",
+      "country_code": "HK",
+      "carrier": "China Mobile Hong Kong Company Limited",
+      "operator": "China Mobile Hong Kong Company Limited",
+      "networks": "45",
+      "data": 0.0094,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.44,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "45501",
+      "country_code": "MO",
+      "carrier": "Companhia de Telecomunicações de Macau, S.A.R.L.",
+      "operator": "Companhia de Telecomunicações de Macau, S.A.R.L.",
+      "networks": "45",
+      "data": 0.0188,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "45602",
+      "country_code": "KH",
+      "carrier": "Smart Axiata Co. Ltd",
+      "operator": "Smart Axiata Co. Ltd",
+      "networks": "4",
+      "data": 0.0656,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.61,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "45606",
+      "country_code": "KH",
+      "carrier": "Smart Axiata Co. Ltd",
+      "operator": "Smart Axiata Co. Ltd",
+      "networks": "4",
+      "data": 0.0656,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.61,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "45703",
+      "country_code": "LA",
+      "carrier": "Star Telecom Co., Ltd",
+      "operator": "Star Telecom Co., Ltd",
+      "networks": "234",
+      "data": 0.0844,
+      "incoming_call": 0.44,
+      "outgoing_call": 1.06,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "46000",
+      "country_code": "CN",
+      "carrier": "46000",
+      "operator": null,
+      "networks": "",
+      "data": 0.0084,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "46001",
+      "country_code": "CN",
+      "carrier": "China Unicom",
+      "operator": "China Unicom",
+      "networks": "45",
+      "data": 0.0047,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "46002",
+      "country_code": "CN",
+      "carrier": "46002",
+      "operator": null,
+      "networks": "",
+      "data": 0.0084,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "46007",
+      "country_code": "CN",
+      "carrier": "46007",
+      "operator": null,
+      "networks": "",
+      "data": 0.0084,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "46009",
+      "country_code": "CN",
+      "carrier": "46009",
+      "operator": null,
+      "networks": "",
+      "data": 0.0047,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "46013",
+      "country_code": "CN",
+      "carrier": "46013",
+      "operator": null,
+      "networks": "",
+      "data": 0.0084,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "46692",
+      "country_code": "TW",
+      "carrier": "Chunghwa Telecom",
+      "operator": "Chunghwa Telecom",
+      "networks": "45",
+      "data": 0.0131,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.44,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "47001",
+      "country_code": "BD",
+      "carrier": "Grameenphone Ltd.",
+      "operator": "Grameenphone Ltd.",
+      "networks": "2",
+      "data": null,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.69,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "47002",
+      "country_code": "BD",
+      "carrier": "Axiata Bangladesh Ltd.",
+      "operator": "Axiata Bangladesh Ltd.",
+      "networks": "23",
+      "data": null,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.69,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "50212",
+      "country_code": "MY",
+      "carrier": "Maxis Communications Berhad",
+      "operator": "Maxis Communications Berhad",
+      "networks": "245",
+      "data": 0.0017,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.49,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "50219",
+      "country_code": "MY",
+      "carrier": "Celcom Axiata Berhad",
+      "operator": "Celcom Axiata Berhad",
+      "networks": "245",
+      "data": 0.0017,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.49,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "50501",
+      "country_code": "AU",
+      "carrier": "Telstra Corporation Limited",
+      "operator": "Telstra Corporation Limited",
+      "networks": "4",
+      "data": 0.0075,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.44,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "50503",
+      "country_code": "AU",
+      "carrier": "Vodafone Hutchison Australia Proprietary Limited",
+      "operator": "Vodafone Hutchison Australia Proprietary Limited",
+      "networks": "4",
+      "data": 0.0075,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 0.44,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "51001",
+      "country_code": "ID",
+      "carrier": "PT Indonesian Satellite Corporation Tbk (INDOSAT)",
+      "operator": "PT Indonesian Satellite Corporation Tbk (INDOSAT)",
+      "networks": "24",
+      "data": 0.1406,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.74,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "51010",
+      "country_code": "ID",
+      "carrier": "Telkomsel Indonesia",
+      "operator": "Telkomsel Indonesia",
+      "networks": "24",
+      "data": 0.1406,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.74,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "51011",
+      "country_code": "ID",
+      "carrier": "PT XL Axiata Tbk",
+      "operator": "PT XL Axiata Tbk",
+      "networks": "24",
+      "data": 0.1406,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.74,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "51089",
+      "country_code": "ID",
+      "carrier": "51089",
+      "operator": null,
+      "networks": "",
+      "data": 0.1406,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.74,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "51502",
+      "country_code": "PH",
+      "carrier": "Globe Telecom",
+      "operator": "Globe Telecom",
+      "networks": "245",
+      "data": 0.0281,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.69,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "52003",
+      "country_code": "TH",
+      "carrier": "Advanced Wireless Network Company Ltd.",
+      "operator": "Advanced Wireless Network Company Ltd.",
+      "networks": "2345",
+      "data": 0.0017,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.44,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "52005",
+      "country_code": "TH",
+      "carrier": "DTAC TriNet Company Ltd.",
+      "operator": "DTAC TriNet Company Ltd.",
+      "networks": "345",
+      "data": 0.0017,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.44,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "52501",
+      "country_code": "SG",
+      "carrier": "Singapore Telecom",
+      "operator": "Singapore Telecom",
+      "networks": "45",
+      "data": 0.0656,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "52811",
+      "country_code": "BN",
+      "carrier": "Data Stream Technology",
+      "operator": "Data Stream Technology",
+      "networks": "35",
+      "data": null,
+      "incoming_call": 0.44,
+      "outgoing_call": 0.94,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "53001",
+      "country_code": "NZ",
+      "carrier": "Vodafone New Zealand",
+      "operator": "Vodafone New Zealand",
+      "networks": "45",
+      "data": 0.0844,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "53024",
+      "country_code": "NZ",
+      "carrier": "2degrees",
+      "operator": "2degrees",
+      "networks": "45",
+      "data": 0.0844,
+      "incoming_call": null,
+      "outgoing_call": null,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": false,
+        "call_out": false
+      }
+    },
+    {
+      "plmn": "60201",
+      "country_code": "EG",
+      "carrier": "Orange Egypt",
+      "operator": "Orange Egypt",
+      "networks": "2345",
+      "data": 0.0234,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.56,
+      "outgoing_sms": 0.44,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "60301",
+      "country_code": "DZ",
+      "carrier": "Algérie Télécom",
+      "operator": "Algérie Télécom",
+      "networks": "234",
+      "data": 1.4063,
+      "incoming_call": 0.31,
+      "outgoing_call": 1.06,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "60402",
+      "country_code": "MA",
+      "carrier": "Wana Corporate",
+      "operator": "Wana Corporate",
+      "networks": "23",
+      "data": 0.03,
+      "incoming_call": 1.19,
+      "outgoing_call": 2.11,
+      "outgoing_sms": 1.56,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "60702",
+      "country_code": "GM",
+      "carrier": "Africell",
+      "operator": "Africell",
+      "networks": "234",
+      "data": 0.5344,
+      "incoming_call": 0.69,
+      "outgoing_call": 1.56,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "61701",
+      "country_code": "MU",
+      "carrier": "Cellplus Mobile Communications Ltd.",
+      "operator": "Cellplus Mobile Communications Ltd.",
+      "networks": "2345",
+      "data": 0.1594,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.74,
+      "outgoing_sms": 0.44,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "61905",
+      "country_code": "SL",
+      "carrier": "Lintel Sierra Leone Limited",
+      "operator": "Lintel Sierra Leone Limited",
+      "networks": "23",
+      "data": null,
+      "incoming_call": 0.44,
+      "outgoing_call": 0.94,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "62002",
+      "country_code": "GH",
+      "carrier": "Vodafone Group",
+      "operator": "Vodafone Group",
+      "networks": "23",
+      "data": null,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.69,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "62501",
+      "country_code": "CV",
+      "carrier": "CVMóvel, S.A.",
+      "operator": "CVMóvel, S.A.",
+      "networks": "234",
+      "data": 0.2063,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.81,
+      "outgoing_sms": 0.44,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "63001",
+      "country_code": "CD",
+      "carrier": "Vodacom Congo RDC sprl",
+      "operator": "Vodacom Congo RDC sprl",
+      "networks": "234",
+      "data": 0.0844,
+      "incoming_call": 0.24,
+      "outgoing_call": 1.24,
+      "outgoing_sms": 0.61,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "63902",
+      "country_code": "KE",
+      "carrier": "Safaricom Limited",
+      "operator": "Safaricom Limited",
+      "networks": "23",
+      "data": null,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.56,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "63907",
+      "country_code": "KE",
+      "carrier": "Telkom Kenya",
+      "operator": "Telkom Kenya",
+      "networks": "23",
+      "data": null,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.56,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "64004",
+      "country_code": "TZ",
+      "carrier": "Vodacom Tanzania Limited",
+      "operator": "Vodacom Tanzania Limited",
+      "networks": "234",
+      "data": 0.03,
+      "incoming_call": 0.24,
+      "outgoing_call": 0.86,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "64304",
+      "country_code": "MZ",
+      "carrier": "Vodacom Mozambique, S.A.",
+      "operator": "Vodacom Mozambique, S.A.",
+      "networks": "23",
+      "data": null,
+      "incoming_call": 0.24,
+      "outgoing_call": 0.69,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "65501",
+      "country_code": "ZA",
+      "carrier": "Vodacom",
+      "operator": "Vodacom",
+      "networks": "2345",
+      "data": 0.0122,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.49,
+      "outgoing_sms": 0.44,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "70401",
+      "country_code": "GT",
+      "carrier": "Telecomunicaciones de Guatemala, S.A.",
+      "operator": "Telecomunicaciones de Guatemala, S.A.",
+      "networks": "2345",
+      "data": 0.0234,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.56,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "70403",
+      "country_code": "GT",
+      "carrier": "70403",
+      "operator": null,
+      "networks": "",
+      "data": 0.0234,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.56,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "70601",
+      "country_code": "SV",
+      "carrier": "CTE TELECOM PERSONAL (CLARO)",
+      "operator": "CTE TELECOM PERSONAL (CLARO)",
+      "networks": "234",
+      "data": 0.0234,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.74,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "70602",
+      "country_code": "SV",
+      "carrier": "Digicel, S.A. de C.V.",
+      "operator": "Digicel, S.A. de C.V.",
+      "networks": "234",
+      "data": 0.1406,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.74,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "708001",
+      "country_code": "HN",
+      "carrier": "Servicios de Comunicaciones de Honduras S.A. de C.V.",
+      "operator": "Servicios de Comunicaciones de Honduras S.A. de C.V.",
+      "networks": "234",
+      "data": 0.0234,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.69,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "708040",
+      "country_code": "HN",
+      "carrier": "708040",
+      "operator": null,
+      "networks": "",
+      "data": 0.0234,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.69,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "71021",
+      "country_code": "NI",
+      "carrier": "Empresa Nicaragüense de Telecomunicaciones, S.A. (ENITEL) (América Móvil)",
+      "operator": "Empresa Nicaragüense de Telecomunicaciones, S.A. (ENITEL) (América Móvil)",
+      "networks": "234",
+      "data": 0.0234,
+      "incoming_call": 0.24,
+      "outgoing_call": 0.81,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "71073",
+      "country_code": "NI",
+      "carrier": "Servicios de Comunicaciones S.A.",
+      "operator": "Servicios de Comunicaciones S.A.",
+      "networks": "234",
+      "data": 0.0234,
+      "incoming_call": 0.24,
+      "outgoing_call": 0.81,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "71203",
+      "country_code": "CR",
+      "carrier": "Claro CR Telecomunicaciones (Aló)",
+      "operator": "Claro CR Telecomunicaciones (Aló)",
+      "networks": "234",
+      "data": 0.0234,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.49,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "71401",
+      "country_code": "PA",
+      "carrier": "Cable &amp; Wireless Panama S.A.",
+      "operator": "Cable &amp; Wireless Panama S.A.",
+      "networks": "23",
+      "data": 0.0281,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.56,
+      "outgoing_sms": 0.44,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "71610",
+      "country_code": "PE",
+      "carrier": "América Móvil Perú",
+      "operator": "América Móvil Perú",
+      "networks": "2345",
+      "data": 0.0234,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.56,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "722310",
+      "country_code": "AR",
+      "carrier": "AMX Argentina S.A.",
+      "operator": "AMX Argentina S.A.",
+      "networks": "234",
+      "data": 0.0234,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.81,
+      "outgoing_sms": 0.44,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "72402",
+      "country_code": "BR",
+      "carrier": "TIM",
+      "operator": "TIM",
+      "networks": "245",
+      "data": 0.0131,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.56,
+      "outgoing_sms": 0.44,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "72403",
+      "country_code": "BR",
+      "carrier": "TIM",
+      "operator": "TIM",
+      "networks": "245",
+      "data": 0.0131,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.56,
+      "outgoing_sms": 0.44,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "72404",
+      "country_code": "BR",
+      "carrier": "TIM",
+      "operator": "TIM",
+      "networks": "245",
+      "data": 0.0131,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.56,
+      "outgoing_sms": 0.44,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "72405",
+      "country_code": "BR",
+      "carrier": "Claro",
+      "operator": "Claro",
+      "networks": "2345",
+      "data": 0.0234,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.56,
+      "outgoing_sms": 0.44,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "73003",
+      "country_code": "CL",
+      "carrier": "Claro Chile S.A.",
+      "operator": "Claro Chile S.A.",
+      "networks": "3",
+      "data": 0.0234,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.56,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "732101",
+      "country_code": "CO",
+      "carrier": "COMCEL S.A.",
+      "operator": "COMCEL S.A.",
+      "networks": "34",
+      "data": 0.0234,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.49,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "732103",
+      "country_code": "CO",
+      "carrier": "732103",
+      "operator": null,
+      "networks": "",
+      "data": 0.0234,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.49,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "732111",
+      "country_code": "CO",
+      "carrier": "Colombia Móvil S.A. ESP",
+      "operator": "Colombia Móvil S.A. ESP",
+      "networks": "234",
+      "data": 0.0234,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.49,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "732123",
+      "country_code": "CO",
+      "carrier": "Telefonica Colombia",
+      "operator": "Telefonica Colombia",
+      "networks": "234",
+      "data": 0.0234,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.49,
+      "outgoing_sms": 0.24,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "74001",
+      "country_code": "EC",
+      "carrier": "CONECEL S.A.",
+      "operator": "CONECEL S.A.",
+      "networks": "23",
+      "data": 0.0234,
+      "incoming_call": 0.24,
+      "outgoing_call": 0.81,
+      "outgoing_sms": 0.44,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "74402",
+      "country_code": "PY",
+      "carrier": "AMX Paraguay S.A.",
+      "operator": "AMX Paraguay S.A.",
+      "networks": "234",
+      "data": 0.0234,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.49,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "74603",
+      "country_code": "SR",
+      "carrier": "Digicel Suriname",
+      "operator": "Digicel Suriname",
+      "networks": "234",
+      "data": 0.1406,
+      "incoming_call": 0.24,
+      "outgoing_call": 1.06,
+      "outgoing_sms": 0.44,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    },
+    {
+      "plmn": "74810",
+      "country_code": "UY",
+      "carrier": "AM Wireless Uruguay S.A.",
+      "operator": "AM Wireless Uruguay S.A.",
+      "networks": "234",
+      "data": 0.0234,
+      "incoming_call": 0.0,
+      "outgoing_call": 0.74,
+      "outgoing_sms": 1.06,
+      "availability": {
+        "sms_in": true,
+        "sms_out": true,
+        "call_in": true,
+        "call_out": true
+      }
+    }
+  ],
+  "non_geographic": [
+    {
+      "plmn": "90119",
+      "name": "VODAFONE MALTA LTD",
+      "operator": "VODAFONE MALTA LTD",
+      "networks": "2345",
+      "data": 0.0021
+    },
+    {
+      "plmn": "90129",
+      "name": "TELENOR SVERIGE AB",
+      "operator": "TELENOR SVERIGE AB",
+      "networks": "45",
+      "data": 0.0021
+    },
+    {
+      "plmn": "90131",
+      "name": "ORANGE",
+      "operator": "ORANGE",
+      "networks": "45",
+      "data": 0.0013
+    },
+    {
+      "plmn": "90140",
+      "name": "TELEKOM DEUTSCHLAND",
+      "operator": "TELEKOM DEUTSCHLAND",
+      "networks": "245",
+      "data": 0.0021
+    }
+  ]
+}

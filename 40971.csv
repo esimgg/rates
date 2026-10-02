@@ -1,0 +1,337 @@
+serviceid,plmn,country_code,carrier,operator,networks,data_eur_per_mb,incoming_call_eur_per_minute,outgoing_call_eur_per_minute,outgoing_sms_eur_per_message,sms_in,sms_out,call_in,call_out
+40971,20201,GR,COSMOTE - Mobile Telecommunications S.A.,COSMOTE - Mobile Telecommunications S.A.,245,0.0021,0.0,0.36,0.24,True,True,True,True
+40971,20205,GR,Vodafone Greece,Vodafone Greece,245,0.0013,0.0,0.36,0.24,True,True,True,True
+40971,20404,NL,Vodafone Libertel B.V.,Vodafone Libertel B.V.,245,0.0013,0.0,0.49,0.24,True,True,True,True
+40971,20601,BE,Belgacom Mobile,Belgacom Mobile,2345,0.0013,0.0,0.49,0.24,True,True,True,True
+40971,20610,BE,Orange S.A.,Orange S.A.,24,0.0021,0.0,0.49,0.24,True,True,True,True
+40971,20620,BE,Telenet,Telenet,2345,0.0021,0.0,0.49,0.24,True,True,True,True
+40971,20801,FR,Orange S.A.,Orange S.A.,345,0.0013,0.0,0.44,0.24,True,True,True,True
+40971,20810,FR,Altice,Altice,2345,0.0013,0.0,0.44,0.24,True,True,True,True
+40971,20815,FR,Iliad,Iliad,45,0.0021,0.0,0.44,0.24,True,True,True,True
+40971,20820,FR,Bouygues Telecom,Bouygues Telecom,2345,0.0021,0.0,0.44,0.24,True,True,True,True
+40971,21210,MC,Monaco Telecom,Monaco Telecom,23,0.1219,0.0,0.86,0.44,True,True,True,True
+40971,21303,AD,Servei De Tele. DAndorra,Servei De Tele. DAndorra,234,0.0375,2.11,3.13,1.06,True,True,True,True
+40971,21401,ES,Vodafone Spain,Vodafone Spain,245,0.0013,0.0,0.49,0.24,True,True,True,True
+40971,21403,ES,Orange Espagne S.A.U,Orange Espagne S.A.U,234,0.0021,0.0,0.49,0.24,True,True,True,True
+40971,21404,ES,XFERA MÓVILES S.A. (YOIGO),XFERA MÓVILES S.A. (YOIGO),34,0.0021,0.0,0.49,0.24,True,True,True,True
+40971,21407,ES,Telefónica Móviles España,Telefónica Móviles España,2345,0.0021,0.0,0.49,0.24,True,True,True,True
+40971,21601,HU,Telenor Magyarország Zrt.,Telenor Magyarország Zrt.,245,0.0013,0.0,0.49,0.24,True,True,True,True
+40971,21630,HU,Magyar Telekom Plc,Magyar Telekom Plc,234,0.0021,0.0,0.49,0.24,True,True,True,True
+40971,21670,HU,Vodafone Magyarország Zrt.,Vodafone Magyarország Zrt.,45,0.0013,0.0,0.49,0.24,True,True,True,True
+40971,21805,BA,RS Telecommunications JSC Banja Luka,RS Telecommunications JSC Banja Luka,234,0.0244,0.0,0.94,0.44,True,True,True,True
+40971,21901,HR,T-Hrvatski Telekom,T-Hrvatski Telekom,245,0.0021,0.0,0.49,0.24,True,True,True,True
+40971,21902,HR,Tele2,Tele2,2345,0.0013,0.0,0.49,0.24,True,True,True,True
+40971,21910,HR,A1 Hrvatska,A1 Hrvatska,24,0.0021,0.0,0.49,0.24,True,True,True,True
+40971,22001,RS,Telenor Serbia,Telenor Serbia,234,0.0844,0.69,0.94,0.44,True,True,True,True
+40971,22102,XK,IPKO,IPKO,235,0.0656,0.44,1.06,,True,True,True,True
+40971,22201,IT,Telecom Italia S.p.A,Telecom Italia S.p.A,24,0.0021,0.0,0.49,0.24,True,True,True,True
+40971,22201,SM,Telecom Italia S.p.A,Telecom Italia S.p.A,245,0.0021,0.0,0.81,0.24,True,True,True,True
+40971,22201,VA,Telecom Italia S.p.A,Telecom Italia S.p.A,245,0.0021,0.0,0.49,0.24,True,True,True,True
+40971,22210,IT,Vodafone Italia S.p.A.,Vodafone Italia S.p.A.,245,0.0013,0.0,0.49,0.24,True,True,True,True
+40971,22250,IT,Iliad Italia,Iliad Italia,345,0.0021,0.0,0.49,0.24,True,True,True,True
+40971,22288,IT,Wind Tre,Wind Tre,2345,0.0021,0.0,0.49,0.24,True,True,True,True
+40971,22601,RO,Vodafone România,Vodafone România,2345,0.0013,0.0,0.49,0.24,True,True,True,True
+40971,22610,RO,Orange România,Orange România,24,0.0013,0.0,0.49,0.24,True,True,True,True
+40971,22801,CH,Swisscom AG,Swisscom AG,45,0.0066,,,0.24,True,True,False,False
+40971,23001,CZ,T-Mobile Czech Republic,T-Mobile Czech Republic,4,0.0021,0.0,0.49,0.24,True,True,True,True
+40971,23002,CZ,O2 Czech Republic,O2 Czech Republic,245,0.0013,0.0,0.49,0.24,True,True,True,True
+40971,23003,CZ,Vodafone Czech Republic,Vodafone Czech Republic,45,0.0013,0.0,0.49,0.24,True,True,True,True
+40971,23106,SK,O2 Slovakia,O2 Slovakia,2345,0.0013,0.0,0.49,0.24,True,True,True,True
+40971,23201,AT,A1 Telekom Austria,A1 Telekom Austria,245,0.0021,0.0,0.36,0.24,True,True,True,True
+40971,23203,AT,T-Mobile Austria,T-Mobile Austria,2345,0.0021,0.0,0.36,0.24,True,True,True,True
+40971,23205,AT,Hutchison Drei Austria,Hutchison Drei Austria,2345,0.0013,0.0,0.36,0.24,True,True,True,True
+40971,23403,GB,Guernsey Airtel Ltd,Guernsey Airtel Ltd,234,0.1219,0.0,0.36,0.24,True,True,True,True
+40971,23403,JE,Guernsey Airtel Ltd,Guernsey Airtel Ltd,234,0.1219,,,,True,True,True,True
+40971,23415,GB,Vodafone,Vodafone,245,0.0013,0.0,0.36,0.24,True,True,True,True
+40971,23420,GB,Hutchison 3G UK Ltd,Hutchison 3G UK Ltd,45,0.0013,0.0,0.36,0.24,True,True,True,True
+40971,23430,GB,EE,EE,245,0.0021,0.0,0.36,0.24,True,True,True,True
+40971,23433,GB,23433,,,0.0021,0.0,0.36,0.24,True,True,True,True
+40971,23801,DK,TDC A/S,TDC A/S,245,0.0013,0.0,0.49,0.24,True,True,True,True
+40971,23806,DK,Hi3G Denmark ApS,Hi3G Denmark ApS,45,0.0013,0.0,0.49,0.24,True,True,True,True
+40971,23820,DK,Telia,Telia,245,0.0021,0.0,0.49,0.24,True,True,True,True
+40971,24001,SE,TeliaSonera Sverige AB,TeliaSonera Sverige AB,245,0.0021,0.0,0.36,0.24,True,True,True,True
+40971,24002,SE,HI3G Access AB,HI3G Access AB,345,0.0013,0.0,0.36,0.24,True,True,True,True
+40971,24004,SE,24004,,,0.0013,0.0,0.36,0.24,True,True,True,True
+40971,24007,SE,Tele2 Sverige AB,Tele2 Sverige AB,245,0.0013,0.0,0.36,0.24,True,True,True,True
+40971,24008,SE,TELENOR SVERIGE AB,TELENOR SVERIGE AB,45,0.0021,0.0,0.36,0.24,True,True,True,True
+40971,24010,SE,24010,,,0.0013,0.0,0.36,0.24,True,True,True,True
+40971,24024,SE,24024,,,0.0021,0.0,0.36,0.24,True,True,True,True
+40971,24042,SE,24042,,,0.0021,0.0,0.36,0.24,True,True,True,True
+40971,24201,NO,Telenor Norge AS,Telenor Norge AS,245,0.0013,0.0,0.49,0.24,True,True,True,True
+40971,24403,FI,24403,,,0.0021,0.0,0.36,0.24,True,True,True,True
+40971,24405,FI,Elisa Oyj,Elisa Oyj,245,0.0013,0.0,0.36,0.24,True,True,True,True
+40971,24412,FI,DNA Oy,DNA Oy,345,0.0021,0.0,0.36,0.24,True,True,True,True
+40971,24414,FI,Ålands Telekommunikation Ab,Ålands Telekommunikation Ab,345,0.0021,0.0,0.36,0.24,True,True,True,True
+40971,24436,FI,24436,,,0.0021,0.0,0.36,0.24,True,True,True,True
+40971,24601,LT,Telia Lietuva,Telia Lietuva,245,0.0021,0.0,0.49,0.24,True,True,True,True
+40971,24602,LT,UAB Bitė Lietuva,UAB Bitė Lietuva,245,0.0013,0.0,0.49,0.24,True,True,True,True
+40971,24701,LV,Latvian Mobile Telephone,Latvian Mobile Telephone,245,0.0021,0.0,0.36,0.24,True,True,True,True
+40971,24702,LV,Tele2,Tele2,245,0.0013,0.0,0.36,0.24,True,True,True,True
+40971,24705,LV,Bite Latvija,Bite Latvija,2345,0.0013,0.0,0.36,0.24,True,True,True,True
+40971,24802,EE,Elisa Eesti,Elisa Eesti,24,0.0019,0.0,0.31,0.24,True,True,True,True
+40971,25501,UA,"PRJSC “VF Ukraine""","PRJSC “VF Ukraine""",234,0.0021,0.0,0.63,0.24,True,True,True,True
+40971,25502,UA,25502,,,0.0021,0.0,0.63,0.24,True,True,True,True
+40971,25503,UA,"PRJSC “Kyivstar""","PRJSC “Kyivstar""",2345,0.0021,0.0,0.63,0.24,True,True,True,True
+40971,25702,BY,Mobile TeleSystems,Mobile TeleSystems,234,0.0732,0.69,1.06,0.44,True,True,True,True
+40971,25704,BY,Belarusian Telecommunications Network,Belarusian Telecommunications Network,234,0.0504,0.69,1.06,0.44,True,True,True,True
+40971,25901,MD,Orange Moldova,Orange Moldova,234,0.0021,0.0,0.69,1.06,True,True,True,True
+40971,26001,PL,Polkomtel Sp. z o.o.,Polkomtel Sp. z o.o.,2345,0.0013,0.0,0.36,0.24,True,True,True,True
+40971,26002,PL,T-Mobile Polska S.A.,T-Mobile Polska S.A.,24,0.0021,0.0,0.36,0.24,True,True,True,True
+40971,26003,PL,Polska Telefonia Komórkowa Centertel Sp. z o.o.,Polska Telefonia Komórkowa Centertel Sp. z o.o.,2345,0.0013,0.0,0.36,0.24,True,True,True,True
+40971,26006,PL,P4 Sp. z o.o.,P4 Sp. z o.o.,2345,0.0021,0.0,0.36,0.24,True,True,True,True
+40971,26201,DE,Telekom Deutschland GmbH,Telekom Deutschland GmbH,245,0.0021,0.0,0.44,0.24,True,True,True,True
+40971,26202,DE,Vodafone D2 GmbH,Vodafone D2 GmbH,245,0.0013,0.0,0.44,0.24,True,True,True,True
+40971,26203,DE,26203,,,0.0021,0.0,0.44,0.24,True,True,True,True
+40971,26207,DE,Telefónica Germany GmbH &amp; Co. oHG,Telefónica Germany GmbH &amp; Co. oHG,245,0.0021,0.0,0.44,0.24,True,True,True,True
+40971,26601,GI,Gibtelecom,Gibtelecom,345,0.0021,0.0,0.63,0.24,True,True,True,True
+40971,26801,PT,Vodafone Portugal,Vodafone Portugal,245,0.0013,0.0,0.49,0.24,True,True,True,True
+40971,26803,PT,NOS Comunicações,NOS Comunicações,24,0.0021,0.0,0.49,0.24,True,True,True,True
+40971,27001,LU,POST Luxembourg,POST Luxembourg,245,0.0013,0.0,0.49,0.24,True,True,True,True
+40971,27077,LU,Tango SA,Tango SA,2345,0.0013,0.0,0.49,0.24,True,True,True,True
+40971,27201,IE,Vodafone Ireland,Vodafone Ireland,245,0.0013,0.0,0.49,0.24,True,True,True,True
+40971,27401,IS,Iceland Telecom,Iceland Telecom,4,0.0021,,,0.24,True,True,False,False
+40971,27402,IS,Og fjarskipti hf,Og fjarskipti hf,45,0.0013,,,0.24,True,True,False,False
+40971,27411,IS,Nova ehf,Nova ehf,45,0.0021,,,0.24,True,True,False,False
+40971,27601,AL,Telekom Albania,Telekom Albania,234,0.0375,0.24,0.94,0.44,True,True,True,True
+40971,27801,MT,Vodafone Malta,Vodafone Malta,245,0.0021,0.0,0.49,0.24,True,True,True,True
+40971,27821,MT,Mobile Communications Limited,Mobile Communications Limited,234,0.0021,0.0,0.49,0.24,True,True,True,True
+40971,27877,MT,Melita,Melita,2345,0.0021,0.0,0.49,0.24,True,True,True,True
+40971,28001,CY,Cyprus Telecommunications Authority,Cyprus Telecommunications Authority,245,0.0013,0.0,0.31,0.24,True,True,True,True
+40971,28020,CY,PrimeTel PLC,PrimeTel PLC,234,0.0021,0.0,0.31,0.24,True,True,True,True
+40971,28202,GE,MagtiCom,MagtiCom,2345,0.0375,0.69,0.81,0.44,True,True,True,True
+40971,28301,AM,ArmenTel,ArmenTel,34,0.0375,0.0,0.74,1.06,True,True,True,True
+40971,28305,AM,K Telecom CJSC,K Telecom CJSC,234,0.0375,0.0,0.74,1.06,True,True,True,True
+40971,28401,BG,A1 Bulgaria,A1 Bulgaria,2345,0.0021,0.0,0.36,0.24,True,True,True,True
+40971,28403,BG,BTC,BTC,2345,0.0013,0.0,0.36,0.24,True,True,True,True
+40971,28405,BG,Telenor (Bulgaria),Telenor (Bulgaria),2345,0.0013,0.0,0.36,0.24,True,True,True,True
+40971,28602,TR,Vodafone Turkey,Vodafone Turkey,2345,0.0094,0.69,0.49,1.06,True,True,True,True
+40971,28603,TR,Türk Telekom,Türk Telekom,234,0.0094,0.69,0.49,1.06,True,True,True,True
+40971,28604,TR,28604,,,0.0094,0.69,0.49,1.06,True,True,True,True
+40971,28802,FO,Vodafone Faroe Islands,Vodafone Faroe Islands,234,0.0013,0.0,0.63,0.24,True,True,True,True
+40971,29001,GL,TELE Greenland A/S,TELE Greenland A/S,24,0.1219,0.0,0.56,0.24,True,True,True,True
+40971,29341,SI,Telekom Slovenije,Telekom Slovenije,24,0.0021,0.0,0.49,0.24,True,True,True,True
+40971,29370,SI,Tušmobil d.o.o.,Tušmobil d.o.o.,2345,0.0013,0.0,0.49,0.24,True,True,True,True
+40971,29403,MK,ONE.VIP DOO,ONE.VIP DOO,23,0.0732,0.69,1.56,1.06,True,True,True,True
+40971,29505,LI,Telecom Liechtenstein AG,Telecom Liechtenstein AG,245,0.0013,0.0,0.49,0.24,True,True,True,True
+40971,29701,ME,Telenor Montenegro,Telenor Montenegro,2345,0.0188,0.24,0.81,0.44,True,True,True,True
+40971,29703,ME,MTEL CG,MTEL CG,2345,0.0188,0.24,0.81,0.44,True,True,True,True
+40971,302720,CA,Rogers Communications Canada Inc.,Rogers Communications Canada Inc.,245,0.0113,0.0,0.74,0.44,True,True,True,True
+40971,310160,US,310160,,,0.0023,,,0.24,True,True,False,False
+40971,310200,US,310200,,,0.0023,,,0.24,True,True,False,False
+40971,310210,US,310210,,,0.0023,,,0.24,True,True,False,False
+40971,310220,US,310220,,,0.0023,,,0.24,True,True,False,False
+40971,310230,US,310230,,,0.0023,,,0.24,True,True,False,False
+40971,310240,US,310240,,,0.0023,,,0.24,True,True,False,False
+40971,310250,US,310250,,,0.0023,,,0.24,True,True,False,False
+40971,310260,PR,T-Mobile USA,T-Mobile USA,45,0.0023,,,0.44,True,True,False,False
+40971,310260,US,T-Mobile USA,T-Mobile USA,45,0.0023,,,0.24,True,True,False,False
+40971,310270,US,310270,,,0.0023,,,0.24,True,True,False,False
+40971,310310,US,310310,,,0.0023,,,0.24,True,True,False,False
+40971,310410,PR,AT&T,AT&T,45,0.0023,,,0.44,True,True,False,False
+40971,310410,US,AT&T,AT&T,45,0.0023,,,0.24,True,True,False,False
+40971,310490,US,310490,,,0.0023,,,0.24,True,True,False,False
+40971,330110,PR,América Móvil,América Móvil,45,0.0234,,,0.44,True,True,False,False
+40971,334020,MX,TELCEL,TELCEL,234,0.0234,0.0,0.44,0.24,True,True,True,True
+40971,33805,AG,Digicel,Digicel,24,0.1406,0.0,0.74,0.44,True,True,True,True
+40971,33805,AI,Digicel,Digicel,24,0.1406,0.0,0.74,0.44,True,True,True,True
+40971,33805,AW,Digicel,Digicel,4,0.1406,,,1.56,True,True,False,False
+40971,33805,BB,Digicel,Digicel,24,0.1406,0.0,0.74,1.06,True,True,True,True
+40971,33805,BM,Digicel,Digicel,24,0.1406,0.0,0.74,0.44,True,True,True,True
+40971,33805,DM,Digicel,Digicel,4,0.1406,0.0,0.81,0.44,True,True,True,True
+40971,33805,GD,Digicel,Digicel,24,0.1406,0.0,0.74,0.44,True,True,True,True
+40971,33805,HT,Digicel,Digicel,24,0.1406,0.24,0.94,1.06,True,True,True,True
+40971,33805,JM,Digicel,Digicel,24,0.1406,0.0,0.81,1.06,True,True,True,True
+40971,33805,KN,Digicel,Digicel,24,0.1406,0.0,0.74,0.44,True,True,True,True
+40971,33805,KY,Digicel,Digicel,24,0.1406,0.0,0.74,1.06,True,True,True,True
+40971,33805,LC,Digicel,Digicel,24,0.1406,0.0,0.74,0.44,True,True,True,True
+40971,33805,MS,Digicel,Digicel,24,0.1406,0.24,0.86,1.06,True,True,True,True
+40971,33805,TC,Digicel,Digicel,24,0.1406,0.0,0.74,0.44,True,True,True,True
+40971,33805,VC,Digicel,Digicel,4,0.1406,0.0,0.74,0.44,True,True,True,True
+40971,33805,VG,Digicel,Digicel,24,0.1406,0.0,0.74,0.44,True,True,True,True
+40971,338050,AG,DIGICEL ANTIGUA & BARBUDA,DIGICEL ANTIGUA & BARBUDA,24,0.1406,0.0,0.74,0.44,True,True,True,True
+40971,338050,AI,DIGICEL ANGUILLA,DIGICEL ANGUILLA,24,0.1406,0.0,0.74,0.44,True,True,True,True
+40971,338050,AW,DIGICEL ARUBA,DIGICEL ARUBA,4,0.1406,,,1.56,True,True,False,False
+40971,338050,BB,DIGICEL BARBADOS,DIGICEL BARBADOS,24,0.1406,0.0,0.74,1.06,True,True,True,True
+40971,338050,BM,DIGICEL BERMUDA,DIGICEL BERMUDA,24,0.1406,0.0,0.74,0.44,True,True,True,True
+40971,338050,DM,DIGICEL DOMINICA,DIGICEL DOMINICA,4,0.1406,0.0,0.81,0.44,True,True,True,True
+40971,338050,GD,DIGICEL GRENADA,DIGICEL GRENADA,24,0.1406,0.0,0.74,0.44,True,True,True,True
+40971,338050,HT,DIGICEL HAITI,DIGICEL HAITI,24,0.1406,0.24,0.94,1.06,True,True,True,True
+40971,338050,JM,DIGICEL,DIGICEL,24,0.1406,0.0,0.81,1.06,True,True,True,True
+40971,338050,KN,DIGICEL ST KITTS & NEVIS,DIGICEL ST KITTS & NEVIS,24,0.1406,0.0,0.74,0.44,True,True,True,True
+40971,338050,KY,DIGICEL CAYMAN,DIGICEL CAYMAN,24,0.1406,0.0,0.74,1.06,True,True,True,True
+40971,338050,LC,DIGICEL ST. LUCIA,DIGICEL ST. LUCIA,24,0.1406,0.0,0.74,0.44,True,True,True,True
+40971,338050,MS,DIGICEL MONTSERRAT,DIGICEL MONTSERRAT,24,0.1406,0.24,0.86,1.06,True,True,True,True
+40971,338050,TC,DIGICEL TURKS & CAICOS,DIGICEL TURKS & CAICOS,24,0.1406,0.0,0.74,0.44,True,True,True,True
+40971,338050,VC,DIGICEL ST. VINCENT & GRENADINES,DIGICEL ST. VINCENT & GRENADINES,4,0.1406,0.0,0.74,0.44,True,True,True,True
+40971,338050,VG,DIGICEL BRITISH VIRGIN ISLANDS,DIGICEL BRITISH VIRGIN ISLANDS,24,0.1406,0.0,0.74,0.44,True,True,True,True
+40971,338180,JM,Cable &amp; Wireless Communications,Cable &amp; Wireless Communications,34,0.0281,0.0,0.81,1.06,True,True,True,True
+40971,34002,BL,Outremer Telecom,Outremer Telecom,234,0.0013,,,,True,True,True,True
+40971,34002,GF,Outremer Telecom,Outremer Telecom,234,0.0013,,,1.06,True,True,True,True
+40971,34002,GP,Outremer Telecom,Outremer Telecom,234,0.0013,0.0,0.56,0.24,True,True,True,True
+40971,34002,MF,Outremer Telecom,Outremer Telecom,234,0.0013,,,,True,True,True,True
+40971,34002,MQ,Outremer Telecom,Outremer Telecom,234,0.0013,,,,True,True,True,True
+40971,34020,BL,DIGICEL Antilles Francaises Guyane,DIGICEL Antilles Francaises Guyane,234,0.0021,,,,True,True,True,True
+40971,34020,GF,DIGICEL Antilles Francaises Guyane,DIGICEL Antilles Francaises Guyane,234,0.0021,,,1.06,True,True,True,True
+40971,34020,GP,DIGICEL Antilles Francaises Guyane,DIGICEL Antilles Francaises Guyane,234,0.0021,0.0,0.56,0.24,True,True,True,True
+40971,34020,MF,DIGICEL Antilles Francaises Guyane,DIGICEL Antilles Francaises Guyane,234,0.0021,,,,True,True,True,True
+40971,34020,MQ,DIGICEL Antilles Francaises Guyane,DIGICEL Antilles Francaises Guyane,234,0.0021,,,,True,True,True,True
+40971,342600,BB,LIME (formerly known as Cable &amp; Wireless),LIME (formerly known as Cable &amp; Wireless),34,0.0281,0.0,0.74,1.06,True,True,True,True
+40971,344920,AG,Cable &amp; Wireless Caribbean Cellular (Antigua) Limited,Cable &amp; Wireless Caribbean Cellular (Antigua) Limited,34,0.0281,0.0,0.74,0.44,True,True,True,True
+40971,346140,KY,Cable &amp; Wireless (Cayman Islands) Limited,Cable &amp; Wireless (Cayman Islands) Limited,34,0.0281,0.0,0.74,1.06,True,True,True,True
+40971,348170,VG,Cable &amp; Wireless,Cable &amp; Wireless,34,0.0281,0.0,0.74,0.44,True,True,True,True
+40971,34877,VG,34877,,,0.1406,0.0,0.74,0.44,True,True,True,True
+40971,348770,VG,Digicel (BVI) Limited,Digicel (BVI) Limited,24,0.1406,0.0,0.74,0.44,True,True,True,True
+40971,352110,GD,Cable &amp; Wireless Grenada Ltd.,Cable &amp; Wireless Grenada Ltd.,34,0.0281,0.0,0.74,0.44,True,True,True,True
+40971,354860,MS,Cable &amp; Wireless,Cable &amp; Wireless,34,0.0281,0.24,0.86,1.06,True,True,True,True
+40971,356110,KN,"CABLE & WIRELESS, ST KITTS & NEVIS","CABLE & WIRELESS, ST KITTS & NEVIS",34,0.0281,0.0,0.74,0.44,True,True,True,True
+40971,358110,LC,"CABLE & WIRELESS, ST. LUCIA","CABLE & WIRELESS, ST. LUCIA",34,0.0281,0.0,0.74,0.44,True,True,True,True
+40971,360110,VC,"CABLE & WIRELESS, ST. VINCENT & GRENADINES","CABLE & WIRELESS, ST. VINCENT & GRENADINES",34,0.0281,0.0,0.74,0.44,True,True,True,True
+40971,36251,AN,Telcell N.V.,Telcell N.V.,3,0.1406,0.0,0.56,1.06,True,True,True,True
+40971,36269,AN,Curaçao Telecom N.V.,Curaçao Telecom N.V.,4,0.1406,0.0,0.56,1.06,True,True,True,True
+40971,36302,AW,Digicel Aruba,Digicel Aruba,34,0.1406,,,1.56,True,True,False,False
+40971,36439,BS,The Bahamas Telecommunications Company Ltd (BaTelCo),The Bahamas Telecommunications Company Ltd (BaTelCo),3,0.0281,0.24,0.74,1.06,True,True,True,True
+40971,365840,AI,"CABLE & WIRELESS, ANGUILLA","CABLE & WIRELESS, ANGUILLA",34,0.0281,0.0,0.74,0.44,True,True,True,True
+40971,366110,DM,Cable &amp;  Wireless,Cable &amp;  Wireless,34,0.0281,0.0,0.81,0.44,True,True,True,True
+40971,37002,DO,Compañía Dominicana de Teléfonos,Compañía Dominicana de Teléfonos,234,0.0234,0.0,0.49,0.24,True,True,True,True
+40971,37203,HT,NATCOM S.A.,NATCOM S.A.,23,0.0844,0.24,0.94,1.06,True,True,True,True
+40971,374130,TT,Digicel Trinidad and Tobago,Digicel Trinidad and Tobago,23,,1.56,2.49,1.06,True,True,True,True
+40971,376350,TC,"CABLE & WIRELESS, TURKS & CAICOS","CABLE & WIRELESS, TURKS & CAICOS",34,0.0281,0.0,0.74,0.44,True,True,True,True
+40971,376360,TC,Cable &amp; Wireless West Indies Ltd (Turks &amp; Caicos),Cable &amp; Wireless West Indies Ltd (Turks &amp; Caicos),34,0.1406,0.0,0.74,0.44,True,True,True,True
+40971,40001,AZ,Azercell,Azercell,23,0.0656,0.0,0.69,0.44,True,True,True,True
+40971,40102,KZ,Kcell JSC,Kcell JSC,2345,0.0656,0.0,0.56,1.06,True,True,True,True
+40971,40177,KZ,MTS,MTS,245,0.0656,0.0,0.56,1.06,True,True,True,True
+40971,40402,IN,Punjab,Punjab,245,0.0844,0.0,0.63,1.06,True,True,True,True
+40971,40403,IN,Himachal Pradesh,Himachal Pradesh,245,0.0844,0.0,0.63,1.06,True,True,True,True
+40971,40404,IN,Delhi &amp; NCR,Delhi &amp; NCR,24,0.015,0.0,0.63,1.06,True,True,True,True
+40971,40407,IN,Andhra Pradesh and Telangana,Andhra Pradesh and Telangana,24,0.015,0.0,0.63,1.06,True,True,True,True
+40971,40410,IN,Delhi &amp; NCR,Delhi &amp; NCR,245,0.0844,0.0,0.63,1.06,True,True,True,True
+40971,40412,IN,Haryana,Haryana,24,0.015,0.0,0.63,1.06,True,True,True,True
+40971,40414,IN,Punjab,Punjab,24,0.015,0.0,0.63,1.06,True,True,True,True
+40971,40416,IN,North East,North East,245,0.0844,0.0,0.63,1.06,True,True,True,True
+40971,40419,IN,Kerala,Kerala,24,0.015,0.0,0.63,1.06,True,True,True,True
+40971,40422,IN,Maharashtra &amp; Goa,Maharashtra &amp; Goa,24,0.015,0.0,0.63,1.06,True,True,True,True
+40971,40424,IN,Gujarat,Gujarat,24,0.015,0.0,0.63,1.06,True,True,True,True
+40971,40431,IN,Kolkata,Kolkata,245,0.0844,0.0,0.63,1.06,True,True,True,True
+40971,40440,IN,Chennai,Chennai,245,0.0844,0.0,0.63,1.06,True,True,True,True
+40971,40444,IN,Karnataka,Karnataka,24,0.015,0.0,0.63,1.06,True,True,True,True
+40971,40445,IN,Karnataka,Karnataka,245,0.0844,0.0,0.63,1.06,True,True,True,True
+40971,40449,IN,Andhra Pradesh and Telangana,Andhra Pradesh and Telangana,245,0.0844,0.0,0.63,1.06,True,True,True,True
+40971,40456,IN,Uttar Pradesh (West),Uttar Pradesh (West),24,0.015,0.0,0.63,1.06,True,True,True,True
+40971,40470,IN,Rajasthan,Rajasthan,245,0.0844,0.0,0.63,1.06,True,True,True,True
+40971,40478,IN,Madhya Pradesh &amp; Chattishgarh,Madhya Pradesh &amp; Chattishgarh,24,0.015,0.0,0.63,1.06,True,True,True,True
+40971,40482,IN,Himachal Pradesh,Himachal Pradesh,24,0.015,0.0,0.63,1.06,True,True,True,True
+40971,40487,IN,Rajasthan,Rajasthan,24,0.015,0.0,0.63,1.06,True,True,True,True
+40971,40489,IN,Uttar Pradesh (East),Uttar Pradesh (East),24,0.015,0.0,0.63,1.06,True,True,True,True
+40971,40490,IN,Maharashtra,Maharashtra,245,0.0844,0.0,0.63,1.06,True,True,True,True
+40971,40492,IN,Mumbai,Mumbai,245,0.0844,0.0,0.63,1.06,True,True,True,True
+40971,40493,IN,Madhya Pradesh,Madhya Pradesh,245,0.0844,0.0,0.63,1.06,True,True,True,True
+40971,40494,IN,Tamil Nadu,Tamil Nadu,245,0.0844,0.0,0.63,1.06,True,True,True,True
+40971,40495,IN,Kerala,Kerala,245,0.0844,0.0,0.63,1.06,True,True,True,True
+40971,40496,IN,Haryana,Haryana,245,0.0844,0.0,0.63,1.06,True,True,True,True
+40971,40497,IN,Uttar Pradesh (West),Uttar Pradesh (West),245,0.0844,0.0,0.63,1.06,True,True,True,True
+40971,40498,IN,Gujarat,Gujarat,245,0.0844,0.0,0.63,1.06,True,True,True,True
+40971,40551,IN,West Bengal,West Bengal,245,0.0844,0.0,0.63,1.06,True,True,True,True
+40971,40552,IN,Bihar &amp; Jharkhand,Bihar &amp; Jharkhand,245,0.0844,0.0,0.63,1.06,True,True,True,True
+40971,40553,IN,Orissa,Orissa,245,0.0844,0.0,0.63,1.06,True,True,True,True
+40971,40554,IN,Uttar Pradesh (East),Uttar Pradesh (East),245,0.0844,0.0,0.63,1.06,True,True,True,True
+40971,40555,IN,Jammu &amp; Kashmir,Jammu &amp; Kashmir,245,0.0844,0.0,0.63,1.06,True,True,True,True
+40971,40556,IN,Assam,Assam,245,0.0844,0.0,0.63,1.06,True,True,True,True
+40971,40570,IN,Bihar &amp; Jharkhand,Bihar &amp; Jharkhand,24,0.015,0.0,0.63,1.06,True,True,True,True
+40971,405799,IN,Mumbai,Mumbai,24,0.015,0.0,0.63,1.06,True,True,True,True
+40971,405845,IN,Assam,Assam,24,0.015,0.0,0.63,1.06,True,True,True,True
+40971,405846,IN,Jammu &amp; Kashmir,Jammu &amp; Kashmir,24,0.015,0.0,0.63,1.06,True,True,True,True
+40971,405848,IN,Kolkata,Kolkata,24,0.015,0.0,0.63,1.06,True,True,True,True
+40971,405849,IN,North East,North East,24,0.015,0.0,0.63,1.06,True,True,True,True
+40971,405850,IN,Orissa,Orissa,24,0.015,0.0,0.63,1.06,True,True,True,True
+40971,405852,IN,Tamil Nadu,Tamil Nadu,24,0.015,0.0,0.63,1.06,True,True,True,True
+40971,405853,IN,West Bengal,West Bengal,24,0.015,0.0,0.63,1.06,True,True,True,True
+40971,41004,PK,China Mobile,China Mobile,234,0.0656,0.24,0.86,0.61,True,True,True,True
+40971,41201,AF,Afghan Wireless Communication Company,Afghan Wireless Communication Company,23,,1.19,2.11,2.0,True,True,True,True
+40971,41302,LK,Dialog Axiata PLC,Dialog Axiata PLC,24,0.0656,0.69,0.69,0.61,True,True,True,True
+40971,41409,MM,"Myanmar National Tele &amp; Communication Co., Ltd","Myanmar National Tele &amp; Communication Co., Ltd",24,0.0844,0.0,0.69,1.06,True,True,True,True
+40971,41677,JO,Petra Jordanian Mobile Telecommunications Company (MobileCom),Petra Jordanian Mobile Telecommunications Company (MobileCom),234,0.1406,0.0,0.69,1.06,True,True,True,True
+40971,41902,KW,Zain Kuwait,Zain Kuwait,245,0.2063,0.0,0.49,1.56,True,True,True,True
+40971,42001,SA,Saudi Telecom Company,Saudi Telecom Company,234,0.2063,0.0,0.56,1.06,True,True,True,True
+40971,42003,SA,Etihad Etisalat Company,Etihad Etisalat Company,2345,0.2063,0.0,0.56,1.06,True,True,True,True
+40971,42202,OM,Oman Telecommunications Company,Oman Telecommunications Company,245,0.375,0.0,0.69,1.06,True,True,True,True
+40971,42403,AE,Emirates Integrated Telecommunications Company,Emirates Integrated Telecommunications Company,3,,2.81,3.13,1.56,True,True,True,True
+40971,42507,IL,HOT MOBILE,HOT MOBILE,45,0.0375,,,0.24,True,True,False,False
+40971,42601,BH,Bahrain Telecommunications Company,Bahrain Telecommunications Company,35,0.1406,0.0,0.56,1.06,True,True,True,True
+40971,42702,QA,Vodafone Qatar,Vodafone Qatar,245,0.0188,0.0,0.69,1.06,True,True,True,True
+40971,43407,UZ,Universal Mobile Systems,Universal Mobile Systems,2345,0.0656,0.0,0.63,1.06,True,True,True,True
+40971,43408,UZ,Uzbektelekom,Uzbektelekom,234,0.0375,0.0,0.63,1.06,True,True,True,True
+40971,43605,TJ,Tacom,Tacom,23,0.0375,0.0,0.69,1.06,True,True,True,True
+40971,43701,KG,Sky Mobile LLC,Sky Mobile LLC,234,0.1313,0.0,0.69,1.06,True,True,True,True
+40971,44010,JP,NTT DOCOMO,NTT DOCOMO,45,0.0188,,,1.06,True,True,False,False
+40971,45005,KR,SK Telecom,SK Telecom,345,0.0075,0.0,0.36,0.44,True,True,True,True
+40971,45202,VN,Vietnam Telecom Services Company,Vietnam Telecom Services Company,34,0.0281,0.0,0.63,1.06,True,True,True,True
+40971,45403,HK,Hutchison Telecom,Hutchison Telecom,345,0.0844,0.0,0.44,1.06,True,True,True,True
+40971,45404,HK,45404,,,0.0844,0.0,0.44,1.06,True,True,True,True
+40971,45412,HK,China Mobile Hong Kong Company Limited,China Mobile Hong Kong Company Limited,45,0.0094,0.0,0.44,1.06,True,True,True,True
+40971,45501,MO,"Companhia de Telecomunicações de Macau, S.A.R.L.","Companhia de Telecomunicações de Macau, S.A.R.L.",45,0.0188,,,1.06,True,True,False,False
+40971,45602,KH,Smart Axiata Co. Ltd,Smart Axiata Co. Ltd,4,0.0656,,,0.61,True,True,False,False
+40971,45606,KH,Smart Axiata Co. Ltd,Smart Axiata Co. Ltd,4,0.0656,,,0.61,True,True,False,False
+40971,45703,LA,"Star Telecom Co., Ltd","Star Telecom Co., Ltd",234,0.0844,0.44,1.06,1.06,True,True,True,True
+40971,46000,CN,46000,,,0.0084,,,0.24,True,True,False,False
+40971,46001,CN,China Unicom,China Unicom,45,0.0047,,,0.24,True,True,False,False
+40971,46002,CN,46002,,,0.0084,,,0.24,True,True,False,False
+40971,46007,CN,46007,,,0.0084,,,0.24,True,True,False,False
+40971,46009,CN,46009,,,0.0047,,,0.24,True,True,False,False
+40971,46013,CN,46013,,,0.0084,,,0.24,True,True,False,False
+40971,46692,TW,Chunghwa Telecom,Chunghwa Telecom,45,0.0131,,,0.44,True,True,False,False
+40971,47001,BD,Grameenphone Ltd.,Grameenphone Ltd.,2,,0.0,0.69,1.06,True,True,True,True
+40971,47002,BD,Axiata Bangladesh Ltd.,Axiata Bangladesh Ltd.,23,,0.0,0.69,1.06,True,True,True,True
+40971,50212,MY,Maxis Communications Berhad,Maxis Communications Berhad,245,0.0017,0.0,0.49,1.06,True,True,True,True
+40971,50219,MY,Celcom Axiata Berhad,Celcom Axiata Berhad,245,0.0017,0.0,0.49,1.06,True,True,True,True
+40971,50501,AU,Telstra Corporation Limited,Telstra Corporation Limited,4,0.0075,,,0.44,True,True,False,False
+40971,50503,AU,Vodafone Hutchison Australia Proprietary Limited,Vodafone Hutchison Australia Proprietary Limited,4,0.0075,,,0.44,True,True,False,False
+40971,51001,ID,PT Indonesian Satellite Corporation Tbk (INDOSAT),PT Indonesian Satellite Corporation Tbk (INDOSAT),24,0.1406,0.0,0.74,1.06,True,True,True,True
+40971,51010,ID,Telkomsel Indonesia,Telkomsel Indonesia,24,0.1406,0.0,0.74,1.06,True,True,True,True
+40971,51011,ID,PT XL Axiata Tbk,PT XL Axiata Tbk,24,0.1406,0.0,0.74,1.06,True,True,True,True
+40971,51089,ID,51089,,,0.1406,0.0,0.74,1.06,True,True,True,True
+40971,51502,PH,Globe Telecom,Globe Telecom,245,0.0281,0.0,0.69,1.06,True,True,True,True
+40971,52003,TH,Advanced Wireless Network Company Ltd.,Advanced Wireless Network Company Ltd.,2345,0.0017,0.0,0.44,1.06,True,True,True,True
+40971,52005,TH,DTAC TriNet Company Ltd.,DTAC TriNet Company Ltd.,345,0.0017,0.0,0.44,1.06,True,True,True,True
+40971,52501,SG,Singapore Telecom,Singapore Telecom,45,0.0656,,,1.06,True,True,False,False
+40971,52811,BN,Data Stream Technology,Data Stream Technology,35,,0.44,0.94,1.06,True,True,True,True
+40971,53001,NZ,Vodafone New Zealand,Vodafone New Zealand,45,0.0844,,,1.06,True,True,False,False
+40971,53024,NZ,2degrees,2degrees,45,0.0844,,,1.06,True,True,False,False
+40971,60201,EG,Orange Egypt,Orange Egypt,2345,0.0234,0.0,0.56,0.44,True,True,True,True
+40971,60301,DZ,Algérie Télécom,Algérie Télécom,234,1.4063,0.31,1.06,1.06,True,True,True,True
+40971,60402,MA,Wana Corporate,Wana Corporate,23,0.03,1.19,2.11,1.56,True,True,True,True
+40971,60702,GM,Africell,Africell,234,0.5344,0.69,1.56,1.06,True,True,True,True
+40971,61701,MU,Cellplus Mobile Communications Ltd.,Cellplus Mobile Communications Ltd.,2345,0.1594,0.0,0.74,0.44,True,True,True,True
+40971,61905,SL,Lintel Sierra Leone Limited,Lintel Sierra Leone Limited,23,,0.44,0.94,1.06,True,True,True,True
+40971,62002,GH,Vodafone Group,Vodafone Group,23,,0.0,0.69,1.06,True,True,True,True
+40971,62501,CV,"CVMóvel, S.A.","CVMóvel, S.A.",234,0.2063,0.0,0.81,0.44,True,True,True,True
+40971,63001,CD,Vodacom Congo RDC sprl,Vodacom Congo RDC sprl,234,0.0844,0.24,1.24,0.61,True,True,True,True
+40971,63902,KE,Safaricom Limited,Safaricom Limited,23,,0.0,0.56,1.06,True,True,True,True
+40971,63907,KE,Telkom Kenya,Telkom Kenya,23,,0.0,0.56,1.06,True,True,True,True
+40971,64004,TZ,Vodacom Tanzania Limited,Vodacom Tanzania Limited,234,0.03,0.24,0.86,1.06,True,True,True,True
+40971,64304,MZ,"Vodacom Mozambique, S.A.","Vodacom Mozambique, S.A.",23,,0.24,0.69,1.06,True,True,True,True
+40971,65501,ZA,Vodacom,Vodacom,2345,0.0122,0.0,0.49,0.44,True,True,True,True
+40971,70401,GT,"Telecomunicaciones de Guatemala, S.A.","Telecomunicaciones de Guatemala, S.A.",2345,0.0234,0.0,0.56,0.24,True,True,True,True
+40971,70403,GT,70403,,,0.0234,0.0,0.56,0.24,True,True,True,True
+40971,70601,SV,CTE TELECOM PERSONAL (CLARO),CTE TELECOM PERSONAL (CLARO),234,0.0234,0.0,0.74,0.24,True,True,True,True
+40971,70602,SV,"Digicel, S.A. de C.V.","Digicel, S.A. de C.V.",234,0.1406,0.0,0.74,0.24,True,True,True,True
+40971,708001,HN,Servicios de Comunicaciones de Honduras S.A. de C.V.,Servicios de Comunicaciones de Honduras S.A. de C.V.,234,0.0234,0.0,0.69,0.24,True,True,True,True
+40971,708040,HN,708040,,,0.0234,0.0,0.69,0.24,True,True,True,True
+40971,71021,NI,"Empresa Nicaragüense de Telecomunicaciones, S.A. (ENITEL) (América Móvil)","Empresa Nicaragüense de Telecomunicaciones, S.A. (ENITEL) (América Móvil)",234,0.0234,0.24,0.81,0.24,True,True,True,True
+40971,71073,NI,Servicios de Comunicaciones S.A.,Servicios de Comunicaciones S.A.,234,0.0234,0.24,0.81,0.24,True,True,True,True
+40971,71203,CR,Claro CR Telecomunicaciones (Aló),Claro CR Telecomunicaciones (Aló),234,0.0234,0.0,0.49,1.06,True,True,True,True
+40971,71401,PA,Cable &amp; Wireless Panama S.A.,Cable &amp; Wireless Panama S.A.,23,0.0281,0.0,0.56,0.44,True,True,True,True
+40971,71610,PE,América Móvil Perú,América Móvil Perú,2345,0.0234,0.0,0.56,0.24,True,True,True,True
+40971,722310,AR,AMX Argentina S.A.,AMX Argentina S.A.,234,0.0234,0.0,0.81,0.44,True,True,True,True
+40971,72402,BR,TIM,TIM,245,0.0131,0.0,0.56,0.44,True,True,True,True
+40971,72403,BR,TIM,TIM,245,0.0131,0.0,0.56,0.44,True,True,True,True
+40971,72404,BR,TIM,TIM,245,0.0131,0.0,0.56,0.44,True,True,True,True
+40971,72405,BR,Claro,Claro,2345,0.0234,0.0,0.56,0.44,True,True,True,True
+40971,73003,CL,Claro Chile S.A.,Claro Chile S.A.,3,0.0234,0.0,0.56,0.24,True,True,True,True
+40971,732101,CO,COMCEL S.A.,COMCEL S.A.,34,0.0234,0.0,0.49,0.24,True,True,True,True
+40971,732103,CO,732103,,,0.0234,0.0,0.49,0.24,True,True,True,True
+40971,732111,CO,Colombia Móvil S.A. ESP,Colombia Móvil S.A. ESP,234,0.0234,0.0,0.49,0.24,True,True,True,True
+40971,732123,CO,Telefonica Colombia,Telefonica Colombia,234,0.0234,0.0,0.49,0.24,True,True,True,True
+40971,74001,EC,CONECEL S.A.,CONECEL S.A.,23,0.0234,0.24,0.81,0.44,True,True,True,True
+40971,74402,PY,AMX Paraguay S.A.,AMX Paraguay S.A.,234,0.0234,0.0,0.49,1.06,True,True,True,True
+40971,74603,SR,Digicel Suriname,Digicel Suriname,234,0.1406,0.24,1.06,0.44,True,True,True,True
+40971,74810,UY,AM Wireless Uruguay S.A.,AM Wireless Uruguay S.A.,234,0.0234,0.0,0.74,1.06,True,True,True,True
