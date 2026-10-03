@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-02T19:00:56Z",
+  "generated_at": "2026-10-03T05:18:46Z",
   "products": {
     "39989": {
       "schema_version": 2,
-      "generated_at": "2026-10-02T19:00:56Z",
+      "generated_at": "2026-10-03T05:18:46Z",
       "product": "standard",
       "name": "Global",
       "serviceid": 39989,
@@ -5698,7 +5698,7 @@
     },
     "40971": {
       "schema_version": 2,
-      "generated_at": "2026-10-02T19:00:56Z",
+      "generated_at": "2026-10-03T05:18:46Z",
       "product": "global-plus",
       "name": "Global Plus",
       "serviceid": 40971,
@@ -11460,7 +11460,7 @@
     },
     "40009": {
       "schema_version": 2,
-      "generated_at": "2026-10-02T19:00:56Z",
+      "generated_at": "2026-10-03T05:18:46Z",
       "product": "asia",
       "name": "Asia",
       "serviceid": 40009,
