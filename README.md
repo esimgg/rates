@@ -10,6 +10,6 @@ Current rates and network coverage, updated daily.
 
 Prices are in EUR: data per MB, calls per minute, SMS per message. Rows are sorted by PLMN.
 
-[manifest.json](manifest.json) provides the update date and file hashes. Each JSON file includes `generated_at`.
+[manifest.json](manifest.json) provides the update date and file hashes.
 
 CDN: `https://cdn.jsdelivr.net/gh/esimgg/rates@master/{serviceid}.json`
