@@ -41,7 +41,7 @@
       "data": 0.0245,
       "incoming_call": null,
       "outgoing_call": null,
-      "outgoing_sms": 0.06,
+      "outgoing_sms": 0.07,
       "availability": {
         "sms_in": true,
         "sms_out": true,
@@ -58,7 +58,7 @@
       "data": 0.0047,
       "incoming_call": null,
       "outgoing_call": null,
-      "outgoing_sms": 0.06,
+      "outgoing_sms": 0.07,
       "availability": {
         "sms_in": true,
         "sms_out": true,
@@ -75,7 +75,7 @@
       "data": 0.0096,
       "incoming_call": null,
       "outgoing_call": null,
-      "outgoing_sms": 0.06,
+      "outgoing_sms": 0.07,
       "availability": {
         "sms_in": true,
         "sms_out": true,
@@ -92,7 +92,7 @@
       "data": 0.0096,
       "incoming_call": null,
       "outgoing_call": null,
-      "outgoing_sms": 0.06,
+      "outgoing_sms": 0.07,
       "availability": {
         "sms_in": true,
         "sms_out": true,
@@ -109,7 +109,7 @@
       "data": 0.0128,
       "incoming_call": null,
       "outgoing_call": null,
-      "outgoing_sms": 0.06,
+      "outgoing_sms": 0.07,
       "availability": {
         "sms_in": true,
         "sms_out": true,
@@ -160,7 +160,7 @@
       "data": 0.0247,
       "incoming_call": null,
       "outgoing_call": null,
-      "outgoing_sms": 0.06,
+      "outgoing_sms": 0.07,
       "availability": {
         "sms_in": true,
         "sms_out": true,
@@ -177,7 +177,7 @@
       "data": 0.0269,
       "incoming_call": null,
       "outgoing_call": null,
-      "outgoing_sms": 0.06,
+      "outgoing_sms": 0.07,
       "availability": {
         "sms_in": true,
         "sms_out": true,
@@ -194,7 +194,7 @@
       "data": 0.0277,
       "incoming_call": null,
       "outgoing_call": null,
-      "outgoing_sms": 0.06,
+      "outgoing_sms": 0.07,
       "availability": {
         "sms_in": true,
         "sms_out": true,
@@ -211,7 +211,7 @@
       "data": 0.03,
       "incoming_call": null,
       "outgoing_call": null,
-      "outgoing_sms": 0.06,
+      "outgoing_sms": 0.07,
       "availability": {
         "sms_in": true,
         "sms_out": true,
@@ -228,7 +228,7 @@
       "data": 0.0025,
       "incoming_call": null,
       "outgoing_call": null,
-      "outgoing_sms": 0.06,
+      "outgoing_sms": 0.07,
       "availability": {
         "sms_in": true,
         "sms_out": true,
@@ -245,7 +245,7 @@
       "data": 0.0025,
       "incoming_call": null,
       "outgoing_call": null,
-      "outgoing_sms": 0.06,
+      "outgoing_sms": 0.07,
       "availability": {
         "sms_in": true,
         "sms_out": true,
@@ -262,7 +262,7 @@
       "data": 0.0025,
       "incoming_call": null,
       "outgoing_call": null,
-      "outgoing_sms": 0.06,
+      "outgoing_sms": 0.07,
       "availability": {
         "sms_in": true,
         "sms_out": true,
@@ -279,7 +279,7 @@
       "data": 0.0025,
       "incoming_call": null,
       "outgoing_call": null,
-      "outgoing_sms": 0.06,
+      "outgoing_sms": 0.07,
       "availability": {
         "sms_in": true,
         "sms_out": true,
@@ -296,7 +296,7 @@
       "data": 0.0025,
       "incoming_call": null,
       "outgoing_call": null,
-      "outgoing_sms": 0.06,
+      "outgoing_sms": 0.07,
       "availability": {
         "sms_in": true,
         "sms_out": true,
@@ -313,7 +313,7 @@
       "data": 0.0025,
       "incoming_call": null,
       "outgoing_call": null,
-      "outgoing_sms": 0.06,
+      "outgoing_sms": 0.07,
       "availability": {
         "sms_in": true,
         "sms_out": true,
@@ -330,7 +330,7 @@
       "data": 0.0025,
       "incoming_call": null,
       "outgoing_call": null,
-      "outgoing_sms": 0.06,
+      "outgoing_sms": 0.07,
       "availability": {
         "sms_in": true,
         "sms_out": true,
@@ -347,7 +347,7 @@
       "data": 0.0025,
       "incoming_call": null,
       "outgoing_call": null,
-      "outgoing_sms": 0.06,
+      "outgoing_sms": 0.07,
       "availability": {
         "sms_in": true,
         "sms_out": true,
@@ -364,7 +364,7 @@
       "data": 0.0025,
       "incoming_call": null,
       "outgoing_call": null,
-      "outgoing_sms": 0.06,
+      "outgoing_sms": 0.07,
       "availability": {
         "sms_in": true,
         "sms_out": true,
@@ -381,7 +381,7 @@
       "data": 0.0025,
       "incoming_call": null,
       "outgoing_call": null,
-      "outgoing_sms": 0.06,
+      "outgoing_sms": 0.07,
       "availability": {
         "sms_in": true,
         "sms_out": true,
@@ -398,7 +398,7 @@
       "data": 0.0025,
       "incoming_call": null,
       "outgoing_call": null,
-      "outgoing_sms": 0.06,
+      "outgoing_sms": 0.07,
       "availability": {
         "sms_in": true,
         "sms_out": true,
@@ -415,7 +415,7 @@
       "data": 0.0025,
       "incoming_call": null,
       "outgoing_call": null,
-      "outgoing_sms": 0.06,
+      "outgoing_sms": 0.07,
       "availability": {
         "sms_in": true,
         "sms_out": true,
@@ -432,7 +432,7 @@
       "data": 0.0025,
       "incoming_call": null,
       "outgoing_call": null,
-      "outgoing_sms": 0.06,
+      "outgoing_sms": 0.07,
       "availability": {
         "sms_in": true,
         "sms_out": true,
@@ -449,7 +449,7 @@
       "data": 0.0025,
       "incoming_call": null,
       "outgoing_call": null,
-      "outgoing_sms": 0.06,
+      "outgoing_sms": 0.07,
       "availability": {
         "sms_in": true,
         "sms_out": true,
@@ -466,7 +466,7 @@
       "data": 0.0025,
       "incoming_call": null,
       "outgoing_call": null,
-      "outgoing_sms": 0.06,
+      "outgoing_sms": 0.07,
       "availability": {
         "sms_in": true,
         "sms_out": true,
@@ -483,7 +483,7 @@
       "data": 0.0025,
       "incoming_call": null,
       "outgoing_call": null,
-      "outgoing_sms": 0.06,
+      "outgoing_sms": 0.07,
       "availability": {
         "sms_in": true,
         "sms_out": true,
@@ -500,7 +500,7 @@
       "data": 0.0021,
       "incoming_call": null,
       "outgoing_call": null,
-      "outgoing_sms": 0.06,
+      "outgoing_sms": 0.07,
       "availability": {
         "sms_in": true,
         "sms_out": true,
@@ -517,7 +517,7 @@
       "data": 0.0025,
       "incoming_call": null,
       "outgoing_call": null,
-      "outgoing_sms": 0.06,
+      "outgoing_sms": 0.07,
       "availability": {
         "sms_in": true,
         "sms_out": true,
@@ -534,7 +534,7 @@
       "data": 0.0025,
       "incoming_call": null,
       "outgoing_call": null,
-      "outgoing_sms": 0.06,
+      "outgoing_sms": 0.07,
       "availability": {
         "sms_in": true,
         "sms_out": true,
@@ -551,7 +551,7 @@
       "data": 0.0025,
       "incoming_call": null,
       "outgoing_call": null,
-      "outgoing_sms": 0.06,
+      "outgoing_sms": 0.07,
       "availability": {
         "sms_in": true,
         "sms_out": true,
@@ -568,7 +568,7 @@
       "data": 0.0025,
       "incoming_call": null,
       "outgoing_call": null,
-      "outgoing_sms": 0.06,
+      "outgoing_sms": 0.07,
       "availability": {
         "sms_in": true,
         "sms_out": true,
@@ -585,7 +585,7 @@
       "data": 0.0025,
       "incoming_call": null,
       "outgoing_call": null,
-      "outgoing_sms": 0.06,
+      "outgoing_sms": 0.07,
       "availability": {
         "sms_in": true,
         "sms_out": true,
@@ -602,7 +602,7 @@
       "data": 0.0025,
       "incoming_call": null,
       "outgoing_call": null,
-      "outgoing_sms": 0.06,
+      "outgoing_sms": 0.07,
       "availability": {
         "sms_in": true,
         "sms_out": true,
@@ -619,7 +619,7 @@
       "data": 0.0025,
       "incoming_call": null,
       "outgoing_call": null,
-      "outgoing_sms": 0.06,
+      "outgoing_sms": 0.07,
       "availability": {
         "sms_in": true,
         "sms_out": true,
@@ -636,7 +636,7 @@
       "data": 0.0021,
       "incoming_call": null,
       "outgoing_call": null,
-      "outgoing_sms": 0.06,
+      "outgoing_sms": 0.07,
       "availability": {
         "sms_in": true,
         "sms_out": true,
@@ -653,7 +653,7 @@
       "data": 0.0021,
       "incoming_call": null,
       "outgoing_call": null,
-      "outgoing_sms": 0.06,
+      "outgoing_sms": 0.07,
       "availability": {
         "sms_in": true,
         "sms_out": true,
@@ -670,7 +670,7 @@
       "data": 0.0021,
       "incoming_call": null,
       "outgoing_call": null,
-      "outgoing_sms": 0.06,
+      "outgoing_sms": 0.07,
       "availability": {
         "sms_in": true,
         "sms_out": true,
@@ -687,7 +687,7 @@
       "data": 0.0021,
       "incoming_call": null,
       "outgoing_call": null,
-      "outgoing_sms": 0.06,
+      "outgoing_sms": 0.07,
       "availability": {
         "sms_in": true,
         "sms_out": true,
@@ -704,7 +704,7 @@
       "data": 0.0021,
       "incoming_call": null,
       "outgoing_call": null,
-      "outgoing_sms": 0.06,
+      "outgoing_sms": 0.07,
       "availability": {
         "sms_in": true,
         "sms_out": true,
@@ -721,7 +721,7 @@
       "data": 0.0021,
       "incoming_call": null,
       "outgoing_call": null,
-      "outgoing_sms": 0.06,
+      "outgoing_sms": 0.07,
       "availability": {
         "sms_in": true,
         "sms_out": true,
@@ -738,7 +738,7 @@
       "data": 0.0021,
       "incoming_call": null,
       "outgoing_call": null,
-      "outgoing_sms": 0.06,
+      "outgoing_sms": 0.07,
       "availability": {
         "sms_in": true,
         "sms_out": true,
@@ -755,7 +755,7 @@
       "data": 0.0021,
       "incoming_call": null,
       "outgoing_call": null,
-      "outgoing_sms": 0.06,
+      "outgoing_sms": 0.07,
       "availability": {
         "sms_in": true,
         "sms_out": true,
@@ -772,7 +772,7 @@
       "data": 0.0021,
       "incoming_call": null,
       "outgoing_call": null,
-      "outgoing_sms": 0.06,
+      "outgoing_sms": 0.07,
       "availability": {
         "sms_in": true,
         "sms_out": true,
@@ -789,7 +789,7 @@
       "data": 0.0021,
       "incoming_call": null,
       "outgoing_call": null,
-      "outgoing_sms": 0.06,
+      "outgoing_sms": 0.07,
       "availability": {
         "sms_in": true,
         "sms_out": true,
@@ -806,7 +806,7 @@
       "data": 0.0021,
       "incoming_call": null,
       "outgoing_call": null,
-      "outgoing_sms": 0.06,
+      "outgoing_sms": 0.07,
       "availability": {
         "sms_in": true,
         "sms_out": true,
@@ -823,7 +823,7 @@
       "data": 0.0021,
       "incoming_call": null,
       "outgoing_call": null,
-      "outgoing_sms": 0.06,
+      "outgoing_sms": 0.07,
       "availability": {
         "sms_in": true,
         "sms_out": true,
@@ -840,7 +840,7 @@
       "data": 0.0021,
       "incoming_call": null,
       "outgoing_call": null,
-      "outgoing_sms": 0.06,
+      "outgoing_sms": 0.07,
       "availability": {
         "sms_in": true,
         "sms_out": true,
@@ -857,7 +857,7 @@
       "data": 0.0021,
       "incoming_call": null,
       "outgoing_call": null,
-      "outgoing_sms": 0.06,
+      "outgoing_sms": 0.07,
       "availability": {
         "sms_in": true,
         "sms_out": true,
@@ -874,7 +874,7 @@
       "data": 0.0021,
       "incoming_call": null,
       "outgoing_call": null,
-      "outgoing_sms": 0.06,
+      "outgoing_sms": 0.07,
       "availability": {
         "sms_in": true,
         "sms_out": true,
@@ -891,7 +891,7 @@
       "data": 0.0021,
       "incoming_call": null,
       "outgoing_call": null,
-      "outgoing_sms": 0.06,
+      "outgoing_sms": 0.07,
       "availability": {
         "sms_in": true,
         "sms_out": true,
@@ -908,7 +908,7 @@
       "data": 0.0021,
       "incoming_call": null,
       "outgoing_call": null,
-      "outgoing_sms": 0.06,
+      "outgoing_sms": 0.07,
       "availability": {
         "sms_in": true,
         "sms_out": true,
@@ -925,7 +925,7 @@
       "data": 0.0021,
       "incoming_call": null,
       "outgoing_call": null,
-      "outgoing_sms": 0.06,
+      "outgoing_sms": 0.07,
       "availability": {
         "sms_in": true,
         "sms_out": true,
@@ -942,7 +942,7 @@
       "data": 0.0021,
       "incoming_call": null,
       "outgoing_call": null,
-      "outgoing_sms": 0.06,
+      "outgoing_sms": 0.07,
       "availability": {
         "sms_in": true,
         "sms_out": true,
@@ -959,7 +959,7 @@
       "data": 0.0021,
       "incoming_call": null,
       "outgoing_call": null,
-      "outgoing_sms": 0.06,
+      "outgoing_sms": 0.07,
       "availability": {
         "sms_in": true,
         "sms_out": true,
@@ -976,7 +976,7 @@
       "data": 0.0021,
       "incoming_call": null,
       "outgoing_call": null,
-      "outgoing_sms": 0.06,
+      "outgoing_sms": 0.07,
       "availability": {
         "sms_in": true,
         "sms_out": true,
@@ -1180,7 +1180,7 @@
       "data": 0.0062,
       "incoming_call": null,
       "outgoing_call": null,
-      "outgoing_sms": 0.06,
+      "outgoing_sms": 0.07,
       "availability": {
         "sms_in": true,
         "sms_out": true,
@@ -1214,7 +1214,7 @@
       "data": 0.0029,
       "incoming_call": null,
       "outgoing_call": null,
-      "outgoing_sms": 0.06,
+      "outgoing_sms": 0.07,
       "availability": {
         "sms_in": true,
         "sms_out": true,
@@ -1231,7 +1231,7 @@
       "data": 0.0035,
       "incoming_call": null,
       "outgoing_call": null,
-      "outgoing_sms": 0.06,
+      "outgoing_sms": 0.07,
       "availability": {
         "sms_in": true,
         "sms_out": true,
@@ -1316,7 +1316,7 @@
       "data": 0.0362,
       "incoming_call": null,
       "outgoing_call": null,
-      "outgoing_sms": 0.06,
+      "outgoing_sms": 0.07,
       "availability": {
         "sms_in": true,
         "sms_out": true,
@@ -1350,7 +1350,7 @@
       "data": 0.1125,
       "incoming_call": null,
       "outgoing_call": null,
-      "outgoing_sms": 0.06,
+      "outgoing_sms": 0.07,
       "availability": {
         "sms_in": true,
         "sms_out": true,
@@ -1367,7 +1367,7 @@
       "data": 0.0064,
       "incoming_call": null,
       "outgoing_call": null,
-      "outgoing_sms": 0.06,
+      "outgoing_sms": 0.07,
       "availability": {
         "sms_in": true,
         "sms_out": true,
@@ -1384,7 +1384,7 @@
       "data": 0.0107,
       "incoming_call": null,
       "outgoing_call": null,
-      "outgoing_sms": 0.06,
+      "outgoing_sms": 0.07,
       "availability": {
         "sms_in": true,
         "sms_out": true,
@@ -1452,7 +1452,7 @@
       "data": 0.0043,
       "incoming_call": null,
       "outgoing_call": null,
-      "outgoing_sms": 0.06,
+      "outgoing_sms": 0.07,
       "availability": {
         "sms_in": true,
         "sms_out": true,
@@ -1503,7 +1503,7 @@
       "data": 0.0043,
       "incoming_call": null,
       "outgoing_call": null,
-      "outgoing_sms": 0.06,
+      "outgoing_sms": 0.07,
       "availability": {
         "sms_in": true,
         "sms_out": true,
@@ -1520,7 +1520,7 @@
       "data": 0.009,
       "incoming_call": null,
       "outgoing_call": null,
-      "outgoing_sms": 0.06,
+      "outgoing_sms": 0.07,
       "availability": {
         "sms_in": true,
         "sms_out": true,
@@ -1537,7 +1537,7 @@
       "data": 0.0043,
       "incoming_call": null,
       "outgoing_call": null,
-      "outgoing_sms": 0.06,
+      "outgoing_sms": 0.07,
       "availability": {
         "sms_in": true,
         "sms_out": true,
@@ -1554,7 +1554,7 @@
       "data": 0.0043,
       "incoming_call": null,
       "outgoing_call": null,
-      "outgoing_sms": 0.06,
+      "outgoing_sms": 0.07,
       "availability": {
         "sms_in": true,
         "sms_out": true,
@@ -1656,7 +1656,7 @@
       "data": 0.0082,
       "incoming_call": null,
       "outgoing_call": null,
-      "outgoing_sms": 0.06,
+      "outgoing_sms": 0.07,
       "availability": {
         "sms_in": true,
         "sms_out": true,

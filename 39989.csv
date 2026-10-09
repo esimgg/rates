@@ -1,6 +1,6 @@
 serviceid,plmn,country_code,carrier,operator,networks,data_eur_per_mb,incoming_call_eur_per_minute,outgoing_call_eur_per_minute,outgoing_sms_eur_per_message,sms_in,sms_out,call_in,call_out
-39989,20201,GR,Telekom,Hellenic Telecommunications Organisation S.A.,245,0.0021,0.0,0.36,0.24,True,True,True,True
-39989,20205,GR,Vodafone,Vodafone-Panafon Hellenic Telecommunications Company S.A.,245,0.0013,0.0,0.36,0.24,True,True,True,True
+39989,20201,GR,Telekom,Hellenic Telecommunications Organisation S.A.,245,0.0021,0.0,0.37,0.24,True,True,True,True
+39989,20205,GR,Vodafone,Vodafone-Panafon Hellenic Telecommunications Company S.A.,245,0.0013,0.0,0.37,0.24,True,True,True,True
 39989,20404,NL,Vodafone,Vodafone Libertel B.V.,245,0.0013,0.0,0.49,0.24,True,True,True,True
 39989,20601,BE,Proximus,Proximus S.A.,2345,0.0013,0.0,0.49,0.24,True,True,True,True
 39989,20610,BE,Orange,Orange Belgium S.A.,24,0.0021,0.0,0.49,0.24,True,True,True,True
@@ -9,8 +9,8 @@ serviceid,plmn,country_code,carrier,operator,networks,data_eur_per_mb,incoming_c
 39989,20810,FR,SFR,Société Française du Radiotéléphone S.A.,2345,0.0013,0.0,0.44,0.24,True,True,True,True
 39989,20815,FR,Free,Free Mobile S.A.S.,45,0.0021,0.0,0.44,0.24,True,True,True,True
 39989,20820,FR,Bouygues Telecom,Bouygues Telecom S.A.,2345,0.0021,0.0,0.44,0.24,True,True,True,True
-39989,21210,MC,Monaco Telecom,Monaco Telecom S.A.M.,23,0.1219,0.0,0.86,0.44,True,True,True,True
-39989,21303,AD,Andorra Telecom,Andorra Telecom S.A.U.,234,0.0375,2.11,3.13,1.06,True,True,True,True
+39989,21210,MC,Monaco Telecom,Monaco Telecom S.A.M.,23,0.1219,0.0,0.87,0.44,True,True,True,True
+39989,21303,AD,Andorra Telecom,Andorra Telecom S.A.U.,234,0.0375,2.12,3.13,1.07,True,True,True,True
 39989,21401,ES,Vodafone,Vodafone España S.A.U.,245,0.0013,0.0,0.49,0.24,True,True,True,True
 39989,21403,ES,Orange,Orange Espagne S.A.U.,234,0.0021,0.0,0.49,0.24,True,True,True,True
 39989,21404,ES,Yoigo,Xfera Móviles S.A.U.,34,0.0021,0.0,0.49,0.24,True,True,True,True
@@ -23,9 +23,9 @@ serviceid,plmn,country_code,carrier,operator,networks,data_eur_per_mb,incoming_c
 39989,21902,HR,Telemach,Telemach Hrvatska d.o.o.,2345,0.0013,0.0,0.49,0.24,True,True,True,True
 39989,21910,HR,A1,A1 Hrvatska d.o.o.,24,0.0021,0.0,0.49,0.24,True,True,True,True
 39989,22001,RS,Yettel,Yettel d.o.o. Beograd,234,0.0844,0.69,0.94,0.44,True,True,True,True
-39989,22102,XK,IPKO,IPKO Telecommunications LLC,235,0.0656,0.44,1.06,,True,True,True,True
+39989,22102,XK,IPKO,IPKO Telecommunications LLC,235,0.0656,0.44,1.07,,True,True,True,True
 39989,22201,IT,TIM,Telecom Italia S.p.A.,24,0.0021,0.0,0.49,0.24,True,True,True,True
-39989,22201,SM,TIM,Telecom Italia S.p.A.,245,0.0021,0.0,0.81,0.24,True,True,True,True
+39989,22201,SM,TIM,Telecom Italia S.p.A.,245,0.0021,0.0,0.82,0.24,True,True,True,True
 39989,22201,VA,TIM,Telecom Italia S.p.A.,245,0.0021,0.0,0.49,0.24,True,True,True,True
 39989,22210,IT,Vodafone,Fastweb S.p.A.,245,0.0013,0.0,0.49,0.24,True,True,True,True
 39989,22250,IT,iliad,Iliad Italia S.p.A.,345,0.0021,0.0,0.49,0.24,True,True,True,True
@@ -37,48 +37,48 @@ serviceid,plmn,country_code,carrier,operator,networks,data_eur_per_mb,incoming_c
 39989,23002,CZ,O2,O2 Czech Republic a.s.,245,0.0013,0.0,0.49,0.24,True,True,True,True
 39989,23003,CZ,Vodafone,Vodafone Czech Republic a.s.,45,0.0013,0.0,0.49,0.24,True,True,True,True
 39989,23106,SK,O2,O2 Slovakia s.r.o.,2345,0.0013,0.0,0.49,0.24,True,True,True,True
-39989,23201,AT,A1,A1 Telekom Austria AG,245,0.0021,0.0,0.36,0.24,True,True,True,True
-39989,23203,AT,Magenta,T-Mobile Austria GmbH,2345,0.0021,0.0,0.36,0.24,True,True,True,True
-39989,23205,AT,Drei,Hutchison Drei Austria GmbH,2345,0.0013,0.0,0.36,0.24,True,True,True,True
-39989,23403,GB,Sure by Beyon,Jersey Airtel Limited,234,0.1219,0.0,0.36,0.24,True,True,True,True
+39989,23201,AT,A1,A1 Telekom Austria AG,245,0.0021,0.0,0.37,0.24,True,True,True,True
+39989,23203,AT,Magenta,T-Mobile Austria GmbH,2345,0.0021,0.0,0.37,0.24,True,True,True,True
+39989,23205,AT,Drei,Hutchison Drei Austria GmbH,2345,0.0013,0.0,0.37,0.24,True,True,True,True
+39989,23403,GB,Sure by Beyon,Jersey Airtel Limited,234,0.1219,0.0,0.37,0.24,True,True,True,True
 39989,23403,JE,Sure by Beyon,Jersey Airtel Limited,234,0.1219,,,,True,True,True,True
-39989,23415,GB,Vodafone,Vodafone Limited,245,0.0013,0.0,0.36,0.24,True,True,True,True
-39989,23420,GB,Three,Hutchison 3G UK Limited,45,0.0013,0.0,0.36,0.24,True,True,True,True
-39989,23430,GB,EE,EE Limited,245,0.0021,0.0,0.36,0.24,True,True,True,True
-39989,23433,GB,EE,EE Limited,,0.0021,0.0,0.36,0.24,True,True,True,True
+39989,23415,GB,Vodafone,Vodafone Limited,245,0.0013,0.0,0.37,0.24,True,True,True,True
+39989,23420,GB,Three,Hutchison 3G UK Limited,45,0.0013,0.0,0.37,0.24,True,True,True,True
+39989,23430,GB,EE,EE Limited,245,0.0021,0.0,0.37,0.24,True,True,True,True
+39989,23433,GB,EE,EE Limited,,0.0021,0.0,0.37,0.24,True,True,True,True
 39989,23801,DK,TDC NET,TDC NET A/S,245,0.0013,0.0,0.49,0.24,True,True,True,True
 39989,23806,DK,3,Hi3G Denmark ApS,45,0.0013,0.0,0.49,0.24,True,True,True,True
 39989,23820,DK,Norlys,Norlys Telco A/S,245,0.0021,0.0,0.49,0.24,True,True,True,True
-39989,24001,SE,Telia,Telia Sverige AB,245,0.0021,0.0,0.36,0.24,True,True,True,True
-39989,24002,SE,Tre,Hi3G Access AB,345,0.0013,0.0,0.36,0.24,True,True,True,True
-39989,24004,SE,Tre / Telenor (3GIS),3G Infrastructure Services AB,,0.0013,0.0,0.36,0.24,True,True,True,True
-39989,24007,SE,Tele2,Tele2 Sverige AB,245,0.0013,0.0,0.36,0.24,True,True,True,True
-39989,24008,SE,Telenor,Telenor Sverige AB,45,0.0021,0.0,0.36,0.24,True,True,True,True
-39989,24010,SE,Tele2,Tele2 Sverige AB,,0.0013,0.0,0.36,0.24,True,True,True,True
-39989,24024,SE,Tele2 / Telenor (Net4Mobility),Net4Mobility HB,,0.0021,0.0,0.36,0.24,True,True,True,True
-39989,24042,SE,Telenor IoT,Telenor Connexion AB,,0.0021,0.0,0.36,0.24,True,True,True,True
+39989,24001,SE,Telia,Telia Sverige AB,245,0.0021,0.0,0.37,0.24,True,True,True,True
+39989,24002,SE,Tre,Hi3G Access AB,345,0.0013,0.0,0.37,0.24,True,True,True,True
+39989,24004,SE,Tre / Telenor (3GIS),3G Infrastructure Services AB,,0.0013,0.0,0.37,0.24,True,True,True,True
+39989,24007,SE,Tele2,Tele2 Sverige AB,245,0.0013,0.0,0.37,0.24,True,True,True,True
+39989,24008,SE,Telenor,Telenor Sverige AB,45,0.0021,0.0,0.37,0.24,True,True,True,True
+39989,24010,SE,Tele2,Tele2 Sverige AB,,0.0013,0.0,0.37,0.24,True,True,True,True
+39989,24024,SE,Tele2 / Telenor (Net4Mobility),Net4Mobility HB,,0.0021,0.0,0.37,0.24,True,True,True,True
+39989,24042,SE,Telenor IoT,Telenor Connexion AB,,0.0021,0.0,0.37,0.24,True,True,True,True
 39989,24201,NO,Telenor,Telenor Norge AS,245,0.0013,0.0,0.49,0.24,True,True,True,True
-39989,24403,FI,DNA,DNA Oyj,,0.0021,0.0,0.36,0.24,True,True,True,True
-39989,24405,FI,Elisa,Elisa Oyj,245,0.0013,0.0,0.36,0.24,True,True,True,True
-39989,24412,FI,DNA,DNA Oyj,345,0.0021,0.0,0.36,0.24,True,True,True,True
-39989,24414,FI,Ålcom,Ålands Telekommunikation Ab,345,0.0021,0.0,0.36,0.24,True,True,True,True
-39989,24436,FI,Telia,Telia Finland Oyj,,0.0021,0.0,0.36,0.24,True,True,True,True
+39989,24403,FI,DNA,DNA Oyj,,0.0021,0.0,0.37,0.24,True,True,True,True
+39989,24405,FI,Elisa,Elisa Oyj,245,0.0013,0.0,0.37,0.24,True,True,True,True
+39989,24412,FI,DNA,DNA Oyj,345,0.0021,0.0,0.37,0.24,True,True,True,True
+39989,24414,FI,Ålcom,Ålands Telekommunikation Ab,345,0.0021,0.0,0.37,0.24,True,True,True,True
+39989,24436,FI,Telia,Telia Finland Oyj,,0.0021,0.0,0.37,0.24,True,True,True,True
 39989,24601,LT,Telia,Telia Lietuva AB,245,0.0021,0.0,0.49,0.24,True,True,True,True
 39989,24602,LT,Bitė,Bitė Lietuva UAB,245,0.0013,0.0,0.49,0.24,True,True,True,True
-39989,24701,LV,LMT,Latvijas Mobilais Telefons SIA,245,0.0021,0.0,0.36,0.24,True,True,True,True
-39989,24702,LV,Tele2,Tele2 SIA,245,0.0013,0.0,0.36,0.24,True,True,True,True
-39989,24705,LV,Bite,Bite Latvija SIA,2345,0.0013,0.0,0.36,0.24,True,True,True,True
-39989,24802,EE,Elisa,Elisa Eesti AS,24,0.0019,0.0,0.31,0.24,True,True,True,True
+39989,24701,LV,LMT,Latvijas Mobilais Telefons SIA,245,0.0021,0.0,0.37,0.24,True,True,True,True
+39989,24702,LV,Tele2,Tele2 SIA,245,0.0013,0.0,0.37,0.24,True,True,True,True
+39989,24705,LV,Bite,Bite Latvija SIA,2345,0.0013,0.0,0.37,0.24,True,True,True,True
+39989,24802,EE,Elisa,Elisa Eesti AS,24,0.0019,0.0,0.32,0.24,True,True,True,True
 39989,25501,UA,Vodafone,VF Ukraine PrJSC,234,0.0021,0.0,0.63,0.24,True,True,True,True
 39989,25502,UA,Kyivstar,Kyivstar PrJSC,,0.0021,0.0,0.63,0.24,True,True,True,True
 39989,25503,UA,Kyivstar,Kyivstar PrJSC,2345,0.0021,0.0,0.63,0.24,True,True,True,True
-39989,25702,BY,MTS,Mobile TeleSystems JLLC,234,0.0732,0.69,1.06,0.44,True,True,True,True
-39989,25704,BY,Life,Belarusian Telecommunications Network CJSC,234,0.0504,0.69,1.06,0.44,True,True,True,True
-39989,25901,MD,Orange,Orange Moldova S.A.,234,0.0021,0.0,0.69,1.06,True,True,True,True
-39989,26001,PL,Plus,Polkomtel sp. z o.o.,2345,0.0013,0.0,0.36,0.24,True,True,True,True
-39989,26002,PL,T-Mobile,T-Mobile Polska S.A.,24,0.0021,0.0,0.36,0.24,True,True,True,True
-39989,26003,PL,Orange,Orange Polska S.A.,2345,0.0013,0.0,0.36,0.24,True,True,True,True
-39989,26006,PL,Play,P4 sp. z o.o.,2345,0.0021,0.0,0.36,0.24,True,True,True,True
+39989,25702,BY,MTS,Mobile TeleSystems JLLC,234,0.0732,0.69,1.07,0.44,True,True,True,True
+39989,25704,BY,Life,Belarusian Telecommunications Network CJSC,234,0.0504,0.69,1.07,0.44,True,True,True,True
+39989,25901,MD,Orange,Orange Moldova S.A.,234,0.0021,0.0,0.69,1.07,True,True,True,True
+39989,26001,PL,Plus,Polkomtel sp. z o.o.,2345,0.0013,0.0,0.37,0.24,True,True,True,True
+39989,26002,PL,T-Mobile,T-Mobile Polska S.A.,24,0.0021,0.0,0.37,0.24,True,True,True,True
+39989,26003,PL,Orange,Orange Polska S.A.,2345,0.0013,0.0,0.37,0.24,True,True,True,True
+39989,26006,PL,Play,P4 sp. z o.o.,2345,0.0021,0.0,0.37,0.24,True,True,True,True
 39989,26201,DE,Telekom,Telekom Deutschland GmbH,245,0.0021,0.0,0.44,0.24,True,True,True,True
 39989,26202,DE,Vodafone,Vodafone GmbH,245,0.0013,0.0,0.44,0.24,True,True,True,True
 39989,26203,DE,O2,Telefónica Germany GmbH & Co. OHG,,0.0021,0.0,0.44,0.24,True,True,True,True
@@ -96,25 +96,25 @@ serviceid,plmn,country_code,carrier,operator,networks,data_eur_per_mb,incoming_c
 39989,27801,MT,epic,Epic Communications Limited,245,0.0021,0.0,0.49,0.24,True,True,True,True
 39989,27821,MT,GO,GO p.l.c.,234,0.0021,0.0,0.49,0.24,True,True,True,True
 39989,27877,MT,Melita,Melita Limited,2345,0.0021,0.0,0.49,0.24,True,True,True,True
-39989,28001,CY,Cytamobile-Vodafone,Cyprus Telecommunications Authority,245,0.0013,0.0,0.31,0.24,True,True,True,True
-39989,28020,CY,Primetel,Primetel PLC,234,0.0021,0.0,0.31,0.24,True,True,True,True
-39989,28202,GE,Magti,MagtiCom LLC,2345,0.0375,0.69,0.81,0.44,True,True,True,True
-39989,28301,AM,Team Telecom Armenia,Telecom Armenia OJSC,34,0.0375,0.0,0.74,1.06,True,True,True,True
-39989,28305,AM,Viva,Viva Armenia CJSC,234,0.0375,0.0,0.74,1.06,True,True,True,True
-39989,28401,BG,A1,A1 Bulgaria EAD,2345,0.0021,0.0,0.36,0.24,True,True,True,True
-39989,28403,BG,Vivacom,Vivacom Bulgaria EAD,2345,0.0013,0.0,0.36,0.24,True,True,True,True
-39989,28405,BG,Yettel,Yettel Bulgaria EAD,2345,0.0013,0.0,0.36,0.24,True,True,True,True
-39989,28602,TR,Vodafone,Vodafone Telekomünikasyon A.Ş.,2345,0.0094,0.69,0.49,1.06,True,True,True,True
-39989,28603,TR,Türk Telekom,TT Mobil İletişim Hizmetleri A.Ş.,234,0.0094,0.69,0.49,1.06,True,True,True,True
-39989,28604,TR,Türk Telekom,TT Mobil İletişim Hizmetleri A.Ş.,,0.0094,0.69,0.49,1.06,True,True,True,True
+39989,28001,CY,Cytamobile-Vodafone,Cyprus Telecommunications Authority,245,0.0013,0.0,0.32,0.24,True,True,True,True
+39989,28020,CY,Primetel,Primetel PLC,234,0.0021,0.0,0.32,0.24,True,True,True,True
+39989,28202,GE,Magti,MagtiCom LLC,2345,0.0375,0.69,0.82,0.44,True,True,True,True
+39989,28301,AM,Team Telecom Armenia,Telecom Armenia OJSC,34,0.0375,0.0,0.74,1.07,True,True,True,True
+39989,28305,AM,Viva,Viva Armenia CJSC,234,0.0375,0.0,0.74,1.07,True,True,True,True
+39989,28401,BG,A1,A1 Bulgaria EAD,2345,0.0021,0.0,0.37,0.24,True,True,True,True
+39989,28403,BG,Vivacom,Vivacom Bulgaria EAD,2345,0.0013,0.0,0.37,0.24,True,True,True,True
+39989,28405,BG,Yettel,Yettel Bulgaria EAD,2345,0.0013,0.0,0.37,0.24,True,True,True,True
+39989,28602,TR,Vodafone,Vodafone Telekomünikasyon A.Ş.,2345,0.0094,0.69,0.49,1.07,True,True,True,True
+39989,28603,TR,Türk Telekom,TT Mobil İletişim Hizmetleri A.Ş.,234,0.0094,0.69,0.49,1.07,True,True,True,True
+39989,28604,TR,Türk Telekom,TT Mobil İletişim Hizmetleri A.Ş.,,0.0094,0.69,0.49,1.07,True,True,True,True
 39989,28802,FO,Nema,Nema P/F,234,0.0013,0.0,0.63,0.24,True,True,True,True
-39989,29001,GL,Tusass,Tusass A/S,24,0.1219,0.0,0.56,0.24,True,True,True,True
+39989,29001,GL,Tusass,Tusass A/S,24,0.1219,0.0,0.57,0.24,True,True,True,True
 39989,29341,SI,Telekom Slovenije,Telekom Slovenije d.d.,24,0.0021,0.0,0.49,0.24,True,True,True,True
 39989,29370,SI,Telemach,Telemach Slovenija d.o.o.,2345,0.0013,0.0,0.49,0.24,True,True,True,True
-39989,29403,MK,A1,A1 Makedonija DOOEL Skopje,23,0.0732,0.69,1.56,1.06,True,True,True,True
+39989,29403,MK,A1,A1 Makedonija DOOEL Skopje,23,0.0732,0.69,1.57,1.07,True,True,True,True
 39989,29505,LI,FL1,Telecom Liechtenstein AG,245,0.0013,0.0,0.49,0.24,True,True,True,True
-39989,29701,ME,One,One Crna Gora d.o.o.,2345,0.0188,0.24,0.81,0.44,True,True,True,True
-39989,29703,ME,m:tel,MTEL d.o.o. Podgorica,2345,0.0188,0.24,0.81,0.44,True,True,True,True
+39989,29701,ME,One,One Crna Gora d.o.o.,2345,0.0188,0.24,0.82,0.44,True,True,True,True
+39989,29703,ME,m:tel,MTEL d.o.o. Podgorica,2345,0.0188,0.24,0.82,0.44,True,True,True,True
 39989,302720,CA,Rogers,Rogers Communications Canada Inc.,245,0.0113,0.0,0.74,0.44,True,True,True,True
 39989,310160,US,T-Mobile,T-Mobile USA Inc.,,0.0023,,,0.24,True,True,False,False
 39989,310200,US,T-Mobile,T-Mobile USA Inc.,,0.0023,,,0.24,True,True,False,False
@@ -134,200 +134,200 @@ serviceid,plmn,country_code,carrier,operator,networks,data_eur_per_mb,incoming_c
 39989,334020,MX,Telcel,Radiomóvil Dipsa S.A. de C.V.,234,0.0234,0.0,0.44,0.24,True,True,True,True
 39989,33805,AG,Digicel,Digicel (Jamaica) Limited,24,0.1406,0.0,0.74,0.44,True,True,True,True
 39989,33805,AI,Digicel,Digicel (Jamaica) Limited,24,0.1406,0.0,0.74,0.44,True,True,True,True
-39989,33805,AW,Digicel,Digicel (Jamaica) Limited,4,0.1406,,,1.56,True,True,False,False
-39989,33805,BB,Digicel,Digicel (Jamaica) Limited,24,0.1406,0.0,0.74,1.06,True,True,True,True
+39989,33805,AW,Digicel,Digicel (Jamaica) Limited,4,0.1406,,,1.57,True,True,False,False
+39989,33805,BB,Digicel,Digicel (Jamaica) Limited,24,0.1406,0.0,0.74,1.07,True,True,True,True
 39989,33805,BM,Digicel,Digicel (Jamaica) Limited,24,0.1406,0.0,0.74,0.44,True,True,True,True
-39989,33805,DM,Digicel,Digicel (Jamaica) Limited,4,0.1406,0.0,0.81,0.44,True,True,True,True
+39989,33805,DM,Digicel,Digicel (Jamaica) Limited,4,0.1406,0.0,0.82,0.44,True,True,True,True
 39989,33805,GD,Digicel,Digicel (Jamaica) Limited,24,0.1406,0.0,0.74,0.44,True,True,True,True
-39989,33805,HT,Digicel,Digicel (Jamaica) Limited,24,0.1406,0.24,0.94,1.06,True,True,True,True
-39989,33805,JM,Digicel,Digicel (Jamaica) Limited,24,0.1406,0.0,0.81,1.06,True,True,True,True
+39989,33805,HT,Digicel,Digicel (Jamaica) Limited,24,0.1406,0.24,0.94,1.07,True,True,True,True
+39989,33805,JM,Digicel,Digicel (Jamaica) Limited,24,0.1406,0.0,0.82,1.07,True,True,True,True
 39989,33805,KN,Digicel,Digicel (Jamaica) Limited,24,0.1406,0.0,0.74,0.44,True,True,True,True
-39989,33805,KY,Digicel,Digicel (Jamaica) Limited,24,0.1406,0.0,0.74,1.06,True,True,True,True
+39989,33805,KY,Digicel,Digicel (Jamaica) Limited,24,0.1406,0.0,0.74,1.07,True,True,True,True
 39989,33805,LC,Digicel,Digicel (Jamaica) Limited,24,0.1406,0.0,0.74,0.44,True,True,True,True
-39989,33805,MS,Digicel,Digicel (Jamaica) Limited,24,0.1406,0.24,0.86,1.06,True,True,True,True
+39989,33805,MS,Digicel,Digicel (Jamaica) Limited,24,0.1406,0.24,0.87,1.07,True,True,True,True
 39989,33805,TC,Digicel,Digicel (Jamaica) Limited,24,0.1406,0.0,0.74,0.44,True,True,True,True
 39989,33805,VC,Digicel,Digicel (Jamaica) Limited,4,0.1406,0.0,0.74,0.44,True,True,True,True
 39989,33805,VG,Digicel,Digicel (Jamaica) Limited,24,0.1406,0.0,0.74,0.44,True,True,True,True
 39989,338050,AG,Digicel,Digicel (Jamaica) Limited,24,0.1406,0.0,0.74,0.44,True,True,True,True
 39989,338050,AI,Digicel,Digicel (Jamaica) Limited,24,0.1406,0.0,0.74,0.44,True,True,True,True
-39989,338050,AW,Digicel,Digicel (Jamaica) Limited,4,0.1406,,,1.56,True,True,False,False
-39989,338050,BB,Digicel,Digicel (Jamaica) Limited,24,0.1406,0.0,0.74,1.06,True,True,True,True
+39989,338050,AW,Digicel,Digicel (Jamaica) Limited,4,0.1406,,,1.57,True,True,False,False
+39989,338050,BB,Digicel,Digicel (Jamaica) Limited,24,0.1406,0.0,0.74,1.07,True,True,True,True
 39989,338050,BM,Digicel,Digicel (Jamaica) Limited,24,0.1406,0.0,0.74,0.44,True,True,True,True
-39989,338050,DM,Digicel,Digicel (Jamaica) Limited,4,0.1406,0.0,0.81,0.44,True,True,True,True
+39989,338050,DM,Digicel,Digicel (Jamaica) Limited,4,0.1406,0.0,0.82,0.44,True,True,True,True
 39989,338050,GD,Digicel,Digicel (Jamaica) Limited,24,0.1406,0.0,0.74,0.44,True,True,True,True
-39989,338050,HT,Digicel,Digicel (Jamaica) Limited,24,0.1406,0.24,0.94,1.06,True,True,True,True
-39989,338050,JM,Digicel,Digicel (Jamaica) Limited,24,0.1406,0.0,0.81,1.06,True,True,True,True
+39989,338050,HT,Digicel,Digicel (Jamaica) Limited,24,0.1406,0.24,0.94,1.07,True,True,True,True
+39989,338050,JM,Digicel,Digicel (Jamaica) Limited,24,0.1406,0.0,0.82,1.07,True,True,True,True
 39989,338050,KN,Digicel,Digicel (Jamaica) Limited,24,0.1406,0.0,0.74,0.44,True,True,True,True
-39989,338050,KY,Digicel,Digicel (Jamaica) Limited,24,0.1406,0.0,0.74,1.06,True,True,True,True
+39989,338050,KY,Digicel,Digicel (Jamaica) Limited,24,0.1406,0.0,0.74,1.07,True,True,True,True
 39989,338050,LC,Digicel,Digicel (Jamaica) Limited,24,0.1406,0.0,0.74,0.44,True,True,True,True
-39989,338050,MS,Digicel,Digicel (Jamaica) Limited,24,0.1406,0.24,0.86,1.06,True,True,True,True
+39989,338050,MS,Digicel,Digicel (Jamaica) Limited,24,0.1406,0.24,0.87,1.07,True,True,True,True
 39989,338050,TC,Digicel,Digicel (Jamaica) Limited,24,0.1406,0.0,0.74,0.44,True,True,True,True
 39989,338050,VC,Digicel,Digicel (Jamaica) Limited,4,0.1406,0.0,0.74,0.44,True,True,True,True
 39989,338050,VG,Digicel,Digicel (Jamaica) Limited,24,0.1406,0.0,0.74,0.44,True,True,True,True
-39989,338180,JM,Flow,Cable & Wireless Jamaica Limited,34,0.0281,0.0,0.81,1.06,True,True,True,True
+39989,338180,JM,Flow,Cable & Wireless Jamaica Limited,34,0.0281,0.0,0.82,1.07,True,True,True,True
 39989,34002,BL,SFR Caraïbe,Outremer Telecom S.A.S.,234,0.0013,,,,True,True,True,True
-39989,34002,GF,SFR Caraïbe,Outremer Telecom S.A.S.,234,0.0013,,,1.06,True,True,True,True
-39989,34002,GP,SFR Caraïbe,Outremer Telecom S.A.S.,234,0.0013,0.0,0.56,0.24,True,True,True,True
+39989,34002,GF,SFR Caraïbe,Outremer Telecom S.A.S.,234,0.0013,,,1.07,True,True,True,True
+39989,34002,GP,SFR Caraïbe,Outremer Telecom S.A.S.,234,0.0013,0.0,0.57,0.24,True,True,True,True
 39989,34002,MF,SFR Caraïbe,Outremer Telecom S.A.S.,234,0.0013,,,,True,True,True,True
 39989,34002,MQ,SFR Caraïbe,Outremer Telecom S.A.S.,234,0.0013,,,,True,True,True,True
 39989,34020,BL,Digicel,Digicel Antilles Françaises Guyane S.A.,234,0.0021,,,,True,True,True,True
-39989,34020,GF,Digicel,Digicel Antilles Françaises Guyane S.A.,234,0.0021,,,1.06,True,True,True,True
-39989,34020,GP,Digicel,Digicel Antilles Françaises Guyane S.A.,234,0.0021,0.0,0.56,0.24,True,True,True,True
+39989,34020,GF,Digicel,Digicel Antilles Françaises Guyane S.A.,234,0.0021,,,1.07,True,True,True,True
+39989,34020,GP,Digicel,Digicel Antilles Françaises Guyane S.A.,234,0.0021,0.0,0.57,0.24,True,True,True,True
 39989,34020,MF,Digicel,Digicel Antilles Françaises Guyane S.A.,234,0.0021,,,,True,True,True,True
 39989,34020,MQ,Digicel,Digicel Antilles Françaises Guyane S.A.,234,0.0021,,,,True,True,True,True
-39989,342600,BB,Flow,Cable & Wireless (Barbados) Limited,34,0.0281,0.0,0.74,1.06,True,True,True,True
+39989,342600,BB,Flow,Cable & Wireless (Barbados) Limited,34,0.0281,0.0,0.74,1.07,True,True,True,True
 39989,344920,AG,Flow,Cable & Wireless Antigua & Barbuda Limited,34,0.0281,0.0,0.74,0.44,True,True,True,True
-39989,346140,KY,Flow,Cable and Wireless (Cayman Islands) Limited,34,0.0281,0.0,0.74,1.06,True,True,True,True
+39989,346140,KY,Flow,Cable and Wireless (Cayman Islands) Limited,34,0.0281,0.0,0.74,1.07,True,True,True,True
 39989,348170,VG,Flow,Cable and Wireless (BVI) Limited,34,0.0281,0.0,0.74,0.44,True,True,True,True
 39989,34877,VG,Digicel,Digicel (BVI) Limited,,0.1406,0.0,0.74,0.44,True,True,True,True
 39989,348770,VG,Digicel,Digicel (BVI) Limited,24,0.1406,0.0,0.74,0.44,True,True,True,True
 39989,352110,GD,Flow,Cable and Wireless Grenada Limited,34,0.0281,0.0,0.74,0.44,True,True,True,True
-39989,354860,MS,Flow,Cable and Wireless (West Indies) Limited,34,0.0281,0.24,0.86,1.06,True,True,True,True
+39989,354860,MS,Flow,Cable and Wireless (West Indies) Limited,34,0.0281,0.24,0.87,1.07,True,True,True,True
 39989,356110,KN,Flow,Cable & Wireless St. Kitts & Nevis Limited,34,0.0281,0.0,0.74,0.44,True,True,True,True
 39989,358110,LC,Flow,Cable and Wireless (St Lucia) Limited,34,0.0281,0.0,0.74,0.44,True,True,True,True
 39989,360110,VC,Flow,Cable & Wireless St Vincent and the Grenadines Limited,34,0.0281,0.0,0.74,0.44,True,True,True,True
-39989,36251,AN,Telem,TelCell N.V.,3,0.1406,0.0,0.56,1.06,True,True,True,True
-39989,36269,AN,Digicel,Curaçao Telecom N.V.,4,0.1406,0.0,0.56,1.06,True,True,True,True
-39989,36302,AW,Digicel,New Millennium Telecom Services N.V.,34,0.1406,,,1.56,True,True,False,False
-39989,36439,BS,BTC,The Bahamas Telecommunications Company Limited,3,0.0281,0.24,0.74,1.06,True,True,True,True
+39989,36251,AN,Telem,TelCell N.V.,3,0.1406,0.0,0.57,1.07,True,True,True,True
+39989,36269,AN,Digicel,Curaçao Telecom N.V.,4,0.1406,0.0,0.57,1.07,True,True,True,True
+39989,36302,AW,Digicel,New Millennium Telecom Services N.V.,34,0.1406,,,1.57,True,True,False,False
+39989,36439,BS,BTC,The Bahamas Telecommunications Company Limited,3,0.0281,0.24,0.74,1.07,True,True,True,True
 39989,365840,AI,Flow,Cable and Wireless (Anguilla) Limited,34,0.0281,0.0,0.74,0.44,True,True,True,True
-39989,366110,DM,Flow,Cable & Wireless Dominica Limited,34,0.0281,0.0,0.81,0.44,True,True,True,True
+39989,366110,DM,Flow,Cable & Wireless Dominica Limited,34,0.0281,0.0,0.82,0.44,True,True,True,True
 39989,37002,DO,Claro,Compañía Dominicana de Teléfonos S.A.,234,0.0234,0.0,0.49,0.24,True,True,True,True
-39989,37203,HT,Natcom,National Telecom S.A.,23,0.0844,0.24,0.94,1.06,True,True,True,True
-39989,374130,TT,Digicel,Digicel (Trinidad & Tobago) Limited,23,,1.56,2.49,1.06,True,True,True,True
+39989,37203,HT,Natcom,National Telecom S.A.,23,0.0844,0.24,0.94,1.07,True,True,True,True
+39989,374130,TT,Digicel,Digicel (Trinidad & Tobago) Limited,23,,1.57,2.49,1.07,True,True,True,True
 39989,376350,TC,Flow,Cable and Wireless (TCI) Limited,34,0.0281,0.0,0.74,0.44,True,True,True,True
 39989,376360,TC,Digicel,Digicel Turks and Caicos Ltd,34,0.1406,0.0,0.74,0.44,True,True,True,True
 39989,40001,AZ,Azercell,Azercell Telecom LLC,23,0.0656,0.0,0.69,0.44,True,True,True,True
-39989,40102,KZ,Kcell / activ,Kcell JSC,2345,0.0656,0.0,0.56,1.06,True,True,True,True
-39989,40177,KZ,Tele2 / Altel,Mobile Telecom-Service LLP,245,0.0656,0.0,0.56,1.06,True,True,True,True
-39989,40402,IN,"Airtel (Punjab, Chandigarh; Panchkula in Haryana)",Bharti Airtel Limited,245,0.0844,0.0,0.63,1.06,True,True,True,True
-39989,40403,IN,Airtel (Himachal Pradesh),Bharti Airtel Limited,245,0.0844,0.0,0.63,1.06,True,True,True,True
-39989,40404,IN,Vi (Delhi; adjoining parts of Haryana and Uttar Pradesh),Vodafone Idea Limited,24,0.015,0.0,0.63,1.06,True,True,True,True
-39989,40407,IN,"Vi (Andhra Pradesh, Telangana; Yanam in Puducherry)",Vodafone Idea Limited,24,0.015,0.0,0.63,1.06,True,True,True,True
-39989,40410,IN,Airtel (Delhi; adjoining parts of Haryana and Uttar Pradesh),Bharti Airtel Limited,245,0.0844,0.0,0.63,1.06,True,True,True,True
-39989,40412,IN,"Vi (Haryana, excluding Panchkula and Delhi service-area parts)",Vodafone Idea Limited,24,0.015,0.0,0.63,1.06,True,True,True,True
-39989,40414,IN,"Vi (Punjab, Chandigarh; Panchkula in Haryana)",Vodafone Idea Limited,24,0.015,0.0,0.63,1.06,True,True,True,True
-39989,40416,IN,"Airtel (Arunachal Pradesh, Manipur, Meghalaya, Mizoram, Nagaland, Tripura)",Bharti Hexacom Limited,245,0.0844,0.0,0.63,1.06,True,True,True,True
-39989,40419,IN,"Vi (Kerala, Lakshadweep)",Vodafone Idea Limited,24,0.015,0.0,0.63,1.06,True,True,True,True
-39989,40422,IN,"Vi (Maharashtra, Goa; excluding Mumbai metro)",Vodafone Idea Limited,24,0.015,0.0,0.63,1.06,True,True,True,True
-39989,40424,IN,Vi (Gujarat; Dadra and Nagar Haveli and Daman and Diu),Vodafone Idea Limited,24,0.015,0.0,0.63,1.06,True,True,True,True
-39989,40431,IN,Airtel (West Bengal: Kolkata metro),Bharti Airtel Limited,245,0.0844,0.0,0.63,1.06,True,True,True,True
-39989,40440,IN,Airtel (Tamil Nadu: Chennai metro),Bharti Airtel Limited,245,0.0844,0.0,0.63,1.06,True,True,True,True
-39989,40444,IN,Vi (Karnataka),Vodafone Idea Limited,24,0.015,0.0,0.63,1.06,True,True,True,True
-39989,40445,IN,Airtel (Karnataka),Bharti Airtel Limited,245,0.0844,0.0,0.63,1.06,True,True,True,True
-39989,40449,IN,"Airtel (Andhra Pradesh, Telangana; Yanam in Puducherry)",Bharti Airtel Limited,245,0.0844,0.0,0.63,1.06,True,True,True,True
-39989,40456,IN,Vi (Uttar Pradesh: western service area; Uttarakhand),Vodafone Idea Limited,24,0.015,0.0,0.63,1.06,True,True,True,True
-39989,40470,IN,Airtel (Rajasthan),Bharti Hexacom Limited,245,0.0844,0.0,0.63,1.06,True,True,True,True
-39989,40478,IN,"Vi (Madhya Pradesh, Chhattisgarh)",Vodafone Idea Limited,24,0.015,0.0,0.63,1.06,True,True,True,True
-39989,40482,IN,Vi (Himachal Pradesh),Vodafone Idea Limited,24,0.015,0.0,0.63,1.06,True,True,True,True
-39989,40487,IN,Vi (Rajasthan),Vodafone Idea Limited,24,0.015,0.0,0.63,1.06,True,True,True,True
-39989,40489,IN,Vi (Uttar Pradesh: eastern service area),Vodafone Idea Limited,24,0.015,0.0,0.63,1.06,True,True,True,True
-39989,40490,IN,"Airtel (Maharashtra, Goa; excluding Mumbai metro)",Bharti Airtel Limited,245,0.0844,0.0,0.63,1.06,True,True,True,True
-39989,40492,IN,Airtel (Maharashtra: Mumbai metro),Bharti Airtel Limited,245,0.0844,0.0,0.63,1.06,True,True,True,True
-39989,40493,IN,"Airtel (Madhya Pradesh, Chhattisgarh)",Bharti Airtel Limited,245,0.0844,0.0,0.63,1.06,True,True,True,True
-39989,40494,IN,"Airtel (Tamil Nadu, Puducherry; excluding Yanam)",Bharti Airtel Limited,245,0.0844,0.0,0.63,1.06,True,True,True,True
-39989,40495,IN,"Airtel (Kerala, Lakshadweep)",Bharti Airtel Limited,245,0.0844,0.0,0.63,1.06,True,True,True,True
-39989,40496,IN,"Airtel (Haryana, excluding Panchkula and Delhi service-area parts)",Bharti Airtel Limited,245,0.0844,0.0,0.63,1.06,True,True,True,True
-39989,40497,IN,Airtel (Uttar Pradesh: western service area; Uttarakhand),Bharti Airtel Limited,245,0.0844,0.0,0.63,1.06,True,True,True,True
-39989,40498,IN,Airtel (Gujarat; Dadra and Nagar Haveli and Daman and Diu),Bharti Airtel Limited,245,0.0844,0.0,0.63,1.06,True,True,True,True
-39989,40551,IN,"Airtel (West Bengal, Sikkim, Andaman and Nicobar Islands; excluding Kolkata metro)",Bharti Airtel Limited,245,0.0844,0.0,0.63,1.06,True,True,True,True
-39989,40552,IN,"Airtel (Bihar, Jharkhand)",Bharti Airtel Limited,245,0.0844,0.0,0.63,1.06,True,True,True,True
-39989,40553,IN,Airtel (Odisha),Bharti Airtel Limited,245,0.0844,0.0,0.63,1.06,True,True,True,True
-39989,40554,IN,Airtel (Uttar Pradesh: eastern service area),Bharti Airtel Limited,245,0.0844,0.0,0.63,1.06,True,True,True,True
-39989,40555,IN,"Airtel (Jammu and Kashmir, Ladakh)",Bharti Airtel Limited,245,0.0844,0.0,0.63,1.06,True,True,True,True
-39989,40556,IN,Airtel (Assam),Bharti Airtel Limited,245,0.0844,0.0,0.63,1.06,True,True,True,True
-39989,40570,IN,"Vi (Bihar, Jharkhand)",Vodafone Idea Limited,24,0.015,0.0,0.63,1.06,True,True,True,True
-39989,405799,IN,Vi (Maharashtra: Mumbai metro),Vodafone Idea Limited,24,0.015,0.0,0.63,1.06,True,True,True,True
-39989,405845,IN,Vi (Assam),Vodafone Idea Limited,24,0.015,0.0,0.63,1.06,True,True,True,True
-39989,405846,IN,"Vi (Jammu and Kashmir, Ladakh)",Vodafone Idea Limited,24,0.015,0.0,0.63,1.06,True,True,True,True
-39989,405848,IN,Vi (West Bengal: Kolkata metro),Vodafone Idea Limited,24,0.015,0.0,0.63,1.06,True,True,True,True
-39989,405849,IN,"Vi (Arunachal Pradesh, Manipur, Meghalaya, Mizoram, Nagaland, Tripura)",Vodafone Idea Limited,24,0.015,0.0,0.63,1.06,True,True,True,True
-39989,405850,IN,Vi (Odisha),Vodafone Idea Limited,24,0.015,0.0,0.63,1.06,True,True,True,True
-39989,405852,IN,"Vi (Tamil Nadu, Puducherry; excluding Yanam)",Vodafone Idea Limited,24,0.015,0.0,0.63,1.06,True,True,True,True
-39989,405853,IN,"Vi (West Bengal, Sikkim, Andaman and Nicobar Islands; excluding Kolkata metro)",Vodafone Idea Limited,24,0.015,0.0,0.63,1.06,True,True,True,True
-39989,41004,PK,Zong,CMPak Limited,234,0.0656,0.24,0.86,0.61,True,True,True,True
-39989,41201,AF,Afghan Wireless,Afghan Wireless Communication Company,23,,1.19,2.11,2.0,True,True,True,True
-39989,41302,LK,Dialog,Dialog Axiata PLC,24,0.0656,0.69,0.69,0.61,True,True,True,True
-39989,41409,MM,Mytel,Telecom International Myanmar Company Limited,24,0.0844,0.0,0.69,1.06,True,True,True,True
-39989,41677,JO,Orange,Petra Jordanian Mobile Telecommunications Company Ltd.,234,0.1406,0.0,0.69,1.06,True,True,True,True
-39989,41902,KW,Zain,Mobile Telecommunications Company K.S.C.P.,245,0.2063,0.0,0.49,1.56,True,True,True,True
-39989,42001,SA,stc,Saudi Telecom Company,234,0.2063,0.0,0.56,1.06,True,True,True,True
-39989,42003,SA,Mobily,Etihad Etisalat Company,2345,0.2063,0.0,0.56,1.06,True,True,True,True
-39989,42202,OM,Omantel,Oman Telecommunications Company S.A.O.G.,245,0.375,0.0,0.69,1.06,True,True,True,True
-39989,42403,AE,du,Emirates Integrated Telecommunications Company PJSC,3,,2.81,3.13,1.56,True,True,True,True
+39989,40102,KZ,Kcell / activ,Kcell JSC,2345,0.0656,0.0,0.57,1.07,True,True,True,True
+39989,40177,KZ,Tele2 / Altel,Mobile Telecom-Service LLP,245,0.0656,0.0,0.57,1.07,True,True,True,True
+39989,40402,IN,"Airtel (Punjab, Chandigarh; Panchkula in Haryana)",Bharti Airtel Limited,245,0.0844,0.0,0.63,1.07,True,True,True,True
+39989,40403,IN,Airtel (Himachal Pradesh),Bharti Airtel Limited,245,0.0844,0.0,0.63,1.07,True,True,True,True
+39989,40404,IN,Vi (Delhi; adjoining parts of Haryana and Uttar Pradesh),Vodafone Idea Limited,24,0.015,0.0,0.63,1.07,True,True,True,True
+39989,40407,IN,"Vi (Andhra Pradesh, Telangana; Yanam in Puducherry)",Vodafone Idea Limited,24,0.015,0.0,0.63,1.07,True,True,True,True
+39989,40410,IN,Airtel (Delhi; adjoining parts of Haryana and Uttar Pradesh),Bharti Airtel Limited,245,0.0844,0.0,0.63,1.07,True,True,True,True
+39989,40412,IN,"Vi (Haryana, excluding Panchkula and Delhi service-area parts)",Vodafone Idea Limited,24,0.015,0.0,0.63,1.07,True,True,True,True
+39989,40414,IN,"Vi (Punjab, Chandigarh; Panchkula in Haryana)",Vodafone Idea Limited,24,0.015,0.0,0.63,1.07,True,True,True,True
+39989,40416,IN,"Airtel (Arunachal Pradesh, Manipur, Meghalaya, Mizoram, Nagaland, Tripura)",Bharti Hexacom Limited,245,0.0844,0.0,0.63,1.07,True,True,True,True
+39989,40419,IN,"Vi (Kerala, Lakshadweep)",Vodafone Idea Limited,24,0.015,0.0,0.63,1.07,True,True,True,True
+39989,40422,IN,"Vi (Maharashtra, Goa; excluding Mumbai metro)",Vodafone Idea Limited,24,0.015,0.0,0.63,1.07,True,True,True,True
+39989,40424,IN,Vi (Gujarat; Dadra and Nagar Haveli and Daman and Diu),Vodafone Idea Limited,24,0.015,0.0,0.63,1.07,True,True,True,True
+39989,40431,IN,Airtel (West Bengal: Kolkata metro),Bharti Airtel Limited,245,0.0844,0.0,0.63,1.07,True,True,True,True
+39989,40440,IN,Airtel (Tamil Nadu: Chennai metro),Bharti Airtel Limited,245,0.0844,0.0,0.63,1.07,True,True,True,True
+39989,40444,IN,Vi (Karnataka),Vodafone Idea Limited,24,0.015,0.0,0.63,1.07,True,True,True,True
+39989,40445,IN,Airtel (Karnataka),Bharti Airtel Limited,245,0.0844,0.0,0.63,1.07,True,True,True,True
+39989,40449,IN,"Airtel (Andhra Pradesh, Telangana; Yanam in Puducherry)",Bharti Airtel Limited,245,0.0844,0.0,0.63,1.07,True,True,True,True
+39989,40456,IN,Vi (Uttar Pradesh: western service area; Uttarakhand),Vodafone Idea Limited,24,0.015,0.0,0.63,1.07,True,True,True,True
+39989,40470,IN,Airtel (Rajasthan),Bharti Hexacom Limited,245,0.0844,0.0,0.63,1.07,True,True,True,True
+39989,40478,IN,"Vi (Madhya Pradesh, Chhattisgarh)",Vodafone Idea Limited,24,0.015,0.0,0.63,1.07,True,True,True,True
+39989,40482,IN,Vi (Himachal Pradesh),Vodafone Idea Limited,24,0.015,0.0,0.63,1.07,True,True,True,True
+39989,40487,IN,Vi (Rajasthan),Vodafone Idea Limited,24,0.015,0.0,0.63,1.07,True,True,True,True
+39989,40489,IN,Vi (Uttar Pradesh: eastern service area),Vodafone Idea Limited,24,0.015,0.0,0.63,1.07,True,True,True,True
+39989,40490,IN,"Airtel (Maharashtra, Goa; excluding Mumbai metro)",Bharti Airtel Limited,245,0.0844,0.0,0.63,1.07,True,True,True,True
+39989,40492,IN,Airtel (Maharashtra: Mumbai metro),Bharti Airtel Limited,245,0.0844,0.0,0.63,1.07,True,True,True,True
+39989,40493,IN,"Airtel (Madhya Pradesh, Chhattisgarh)",Bharti Airtel Limited,245,0.0844,0.0,0.63,1.07,True,True,True,True
+39989,40494,IN,"Airtel (Tamil Nadu, Puducherry; excluding Yanam)",Bharti Airtel Limited,245,0.0844,0.0,0.63,1.07,True,True,True,True
+39989,40495,IN,"Airtel (Kerala, Lakshadweep)",Bharti Airtel Limited,245,0.0844,0.0,0.63,1.07,True,True,True,True
+39989,40496,IN,"Airtel (Haryana, excluding Panchkula and Delhi service-area parts)",Bharti Airtel Limited,245,0.0844,0.0,0.63,1.07,True,True,True,True
+39989,40497,IN,Airtel (Uttar Pradesh: western service area; Uttarakhand),Bharti Airtel Limited,245,0.0844,0.0,0.63,1.07,True,True,True,True
+39989,40498,IN,Airtel (Gujarat; Dadra and Nagar Haveli and Daman and Diu),Bharti Airtel Limited,245,0.0844,0.0,0.63,1.07,True,True,True,True
+39989,40551,IN,"Airtel (West Bengal, Sikkim, Andaman and Nicobar Islands; excluding Kolkata metro)",Bharti Airtel Limited,245,0.0844,0.0,0.63,1.07,True,True,True,True
+39989,40552,IN,"Airtel (Bihar, Jharkhand)",Bharti Airtel Limited,245,0.0844,0.0,0.63,1.07,True,True,True,True
+39989,40553,IN,Airtel (Odisha),Bharti Airtel Limited,245,0.0844,0.0,0.63,1.07,True,True,True,True
+39989,40554,IN,Airtel (Uttar Pradesh: eastern service area),Bharti Airtel Limited,245,0.0844,0.0,0.63,1.07,True,True,True,True
+39989,40555,IN,"Airtel (Jammu and Kashmir, Ladakh)",Bharti Airtel Limited,245,0.0844,0.0,0.63,1.07,True,True,True,True
+39989,40556,IN,Airtel (Assam),Bharti Airtel Limited,245,0.0844,0.0,0.63,1.07,True,True,True,True
+39989,40570,IN,"Vi (Bihar, Jharkhand)",Vodafone Idea Limited,24,0.015,0.0,0.63,1.07,True,True,True,True
+39989,405799,IN,Vi (Maharashtra: Mumbai metro),Vodafone Idea Limited,24,0.015,0.0,0.63,1.07,True,True,True,True
+39989,405845,IN,Vi (Assam),Vodafone Idea Limited,24,0.015,0.0,0.63,1.07,True,True,True,True
+39989,405846,IN,"Vi (Jammu and Kashmir, Ladakh)",Vodafone Idea Limited,24,0.015,0.0,0.63,1.07,True,True,True,True
+39989,405848,IN,Vi (West Bengal: Kolkata metro),Vodafone Idea Limited,24,0.015,0.0,0.63,1.07,True,True,True,True
+39989,405849,IN,"Vi (Arunachal Pradesh, Manipur, Meghalaya, Mizoram, Nagaland, Tripura)",Vodafone Idea Limited,24,0.015,0.0,0.63,1.07,True,True,True,True
+39989,405850,IN,Vi (Odisha),Vodafone Idea Limited,24,0.015,0.0,0.63,1.07,True,True,True,True
+39989,405852,IN,"Vi (Tamil Nadu, Puducherry; excluding Yanam)",Vodafone Idea Limited,24,0.015,0.0,0.63,1.07,True,True,True,True
+39989,405853,IN,"Vi (West Bengal, Sikkim, Andaman and Nicobar Islands; excluding Kolkata metro)",Vodafone Idea Limited,24,0.015,0.0,0.63,1.07,True,True,True,True
+39989,41004,PK,Zong,CMPak Limited,234,0.0656,0.24,0.87,0.62,True,True,True,True
+39989,41201,AF,Afghan Wireless,Afghan Wireless Communication Company,23,,1.19,2.12,2.0,True,True,True,True
+39989,41302,LK,Dialog,Dialog Axiata PLC,24,0.0656,0.69,0.69,0.62,True,True,True,True
+39989,41409,MM,Mytel,Telecom International Myanmar Company Limited,24,0.0844,0.0,0.69,1.07,True,True,True,True
+39989,41677,JO,Orange,Petra Jordanian Mobile Telecommunications Company Ltd.,234,0.1406,0.0,0.69,1.07,True,True,True,True
+39989,41902,KW,Zain,Mobile Telecommunications Company K.S.C.P.,245,0.2063,0.0,0.49,1.57,True,True,True,True
+39989,42001,SA,stc,Saudi Telecom Company,234,0.2063,0.0,0.57,1.07,True,True,True,True
+39989,42003,SA,Mobily,Etihad Etisalat Company,2345,0.2063,0.0,0.57,1.07,True,True,True,True
+39989,42202,OM,Omantel,Oman Telecommunications Company S.A.O.G.,245,0.375,0.0,0.69,1.07,True,True,True,True
+39989,42403,AE,du,Emirates Integrated Telecommunications Company PJSC,3,,2.82,3.13,1.57,True,True,True,True
 39989,42507,IL,HOT mobile,HOT Mobile Ltd.,45,0.0375,,,0.24,True,True,False,False
-39989,42601,BH,Batelco,Bahrain Telecommunications Company B.S.C.,35,0.1406,0.0,0.56,1.06,True,True,True,True
-39989,42702,QA,Vodafone,Vodafone Qatar P.Q.S.C.,245,0.0188,0.0,0.69,1.06,True,True,True,True
-39989,43407,UZ,Mobiuz,Universal Mobile Systems LLC,2345,0.0656,0.0,0.63,1.06,True,True,True,True
-39989,43408,UZ,UZTELECOM,Uzbektelecom JSC,234,0.0375,0.0,0.63,1.06,True,True,True,True
-39989,43605,TJ,ZET-MOBILE,Tacom LLC,23,0.0375,0.0,0.69,1.06,True,True,True,True
-39989,43701,KG,Beeline,Sky Mobile LLC,234,0.1313,0.0,0.69,1.06,True,True,True,True
-39989,44010,JP,NTT DOCOMO,NTT DOCOMO Inc.,45,0.0188,,,1.06,True,True,False,False
-39989,45005,KR,SK Telecom,SK Telecom Co. Ltd.,345,0.0075,0.0,0.36,0.44,True,True,True,True
-39989,45202,VN,VinaPhone,VNPT-VinaPhone Corporation,34,0.0281,0.0,0.63,1.06,True,True,True,True
-39989,45403,HK,3 Hong Kong,Hutchison Telephone Company Limited,345,0.0844,0.0,0.44,1.06,True,True,True,True
-39989,45404,HK,3 Hong Kong,Hutchison Telephone Company Limited,,0.0844,0.0,0.44,1.06,True,True,True,True
-39989,45412,HK,CMHK,China Mobile Hong Kong Company Limited,45,0.0094,0.0,0.44,1.06,True,True,True,True
-39989,45501,MO,CTM,Companhia de Telecomunicações de Macau S.A.,45,0.0188,,,1.06,True,True,False,False
-39989,45602,KH,Smart,Smart Axiata Co. Ltd.,4,0.0656,,,0.61,True,True,False,False
-39989,45606,KH,Smart,Smart Axiata Co. Ltd.,4,0.0656,,,0.61,True,True,False,False
-39989,45703,LA,Unitel,Star Telecom Co. Ltd.,234,0.0844,0.44,1.06,1.06,True,True,True,True
+39989,42601,BH,Batelco,Bahrain Telecommunications Company B.S.C.,35,0.1406,0.0,0.57,1.07,True,True,True,True
+39989,42702,QA,Vodafone,Vodafone Qatar P.Q.S.C.,245,0.0188,0.0,0.69,1.07,True,True,True,True
+39989,43407,UZ,Mobiuz,Universal Mobile Systems LLC,2345,0.0656,0.0,0.63,1.07,True,True,True,True
+39989,43408,UZ,UZTELECOM,Uzbektelecom JSC,234,0.0375,0.0,0.63,1.07,True,True,True,True
+39989,43605,TJ,ZET-MOBILE,Tacom LLC,23,0.0375,0.0,0.69,1.07,True,True,True,True
+39989,43701,KG,Beeline,Sky Mobile LLC,234,0.1313,0.0,0.69,1.07,True,True,True,True
+39989,44010,JP,NTT DOCOMO,NTT DOCOMO Inc.,45,0.0188,,,1.07,True,True,False,False
+39989,45005,KR,SK Telecom,SK Telecom Co. Ltd.,345,0.0075,0.0,0.37,0.44,True,True,True,True
+39989,45202,VN,VinaPhone,VNPT-VinaPhone Corporation,34,0.0281,0.0,0.63,1.07,True,True,True,True
+39989,45403,HK,3 Hong Kong,Hutchison Telephone Company Limited,345,0.0844,0.0,0.44,1.07,True,True,True,True
+39989,45404,HK,3 Hong Kong,Hutchison Telephone Company Limited,,0.0844,0.0,0.44,1.07,True,True,True,True
+39989,45412,HK,CMHK,China Mobile Hong Kong Company Limited,45,0.0094,0.0,0.44,1.07,True,True,True,True
+39989,45501,MO,CTM,Companhia de Telecomunicações de Macau S.A.,45,0.0188,,,1.07,True,True,False,False
+39989,45602,KH,Smart,Smart Axiata Co. Ltd.,4,0.0656,,,0.62,True,True,False,False
+39989,45606,KH,Smart,Smart Axiata Co. Ltd.,4,0.0656,,,0.62,True,True,False,False
+39989,45703,LA,Unitel,Star Telecom Co. Ltd.,234,0.0844,0.44,1.07,1.07,True,True,True,True
 39989,46001,CN,China Unicom,China United Network Communications Group Company Limited,45,0.0047,,,0.24,True,True,False,False
 39989,46009,CN,China Unicom,China United Network Communications Group Company Limited,,0.0047,,,0.24,True,True,False,False
 39989,46692,TW,Chunghwa Telecom,Chunghwa Telecom Co. Ltd.,45,0.0131,,,0.44,True,True,False,False
-39989,47001,BD,Grameenphone,Grameenphone Ltd.,2,,0.0,0.69,1.06,True,True,True,True
-39989,47002,BD,Robi,Robi Axiata PLC,23,,0.0,0.69,1.06,True,True,True,True
-39989,50212,MY,Maxis,Maxis Broadband Sdn. Bhd.,245,0.0017,0.0,0.49,1.06,True,True,True,True
-39989,50219,MY,CelcomDigi,CelcomDigi Mobile Sdn. Bhd.,245,0.0017,0.0,0.49,1.06,True,True,True,True
+39989,47001,BD,Grameenphone,Grameenphone Ltd.,2,,0.0,0.69,1.07,True,True,True,True
+39989,47002,BD,Robi,Robi Axiata PLC,23,,0.0,0.69,1.07,True,True,True,True
+39989,50212,MY,Maxis,Maxis Broadband Sdn. Bhd.,245,0.0017,0.0,0.49,1.07,True,True,True,True
+39989,50219,MY,CelcomDigi,CelcomDigi Mobile Sdn. Bhd.,245,0.0017,0.0,0.49,1.07,True,True,True,True
 39989,50501,AU,Telstra,Telstra Limited,4,0.0075,,,0.44,True,True,False,False
 39989,50503,AU,Vodafone,TPG Telecom Limited,4,0.0075,,,0.44,True,True,False,False
-39989,51001,ID,IM3,PT Indosat Tbk,24,0.1406,0.0,0.74,1.06,True,True,True,True
-39989,51010,ID,Telkomsel,PT Telekomunikasi Selular,24,0.1406,0.0,0.74,1.06,True,True,True,True
-39989,51011,ID,XL,PT XLSMART Telecom Sejahtera Tbk,24,0.1406,0.0,0.74,1.06,True,True,True,True
-39989,51089,ID,Tri,PT Indosat Tbk,,0.1406,0.0,0.74,1.06,True,True,True,True
-39989,51502,PH,Globe,Globe Telecom Inc.,245,0.0281,0.0,0.69,1.06,True,True,True,True
-39989,52003,TH,AIS,Advanced Wireless Network Company Limited,2345,0.0017,0.0,0.44,1.06,True,True,True,True
-39989,52005,TH,dtac,True Move H Universal Communication Company Limited,345,0.0017,0.0,0.44,1.06,True,True,True,True
-39989,52501,SG,Singtel,Singtel Mobile Singapore Pte. Ltd.,45,0.0656,,,1.06,True,True,False,False
-39989,52811,BN,DST,Datastream Digital Sdn. Bhd.,35,,0.44,0.94,1.06,True,True,True,True
-39989,53001,NZ,One NZ,One New Zealand Group Limited,45,0.0844,,,1.06,True,True,False,False
-39989,53024,NZ,2degrees,Two Degrees Mobile Limited,45,0.0844,,,1.06,True,True,False,False
-39989,60201,EG,Orange,Orange Egypt for Telecommunications S.A.E.,2345,0.0234,0.0,0.56,0.44,True,True,True,True
-39989,60301,DZ,Mobilis,Algérie Télécom Mobile S.P.A.,234,1.4063,0.31,1.06,1.06,True,True,True,True
-39989,60402,MA,inwi,Wana Corporate S.A.,23,0.03,1.19,2.11,1.56,True,True,True,True
-39989,60702,GM,Africell,Africell (Gambia) Limited,234,0.5344,0.69,1.56,1.06,True,True,True,True
+39989,51001,ID,IM3,PT Indosat Tbk,24,0.1406,0.0,0.74,1.07,True,True,True,True
+39989,51010,ID,Telkomsel,PT Telekomunikasi Selular,24,0.1406,0.0,0.74,1.07,True,True,True,True
+39989,51011,ID,XL,PT XLSMART Telecom Sejahtera Tbk,24,0.1406,0.0,0.74,1.07,True,True,True,True
+39989,51089,ID,Tri,PT Indosat Tbk,,0.1406,0.0,0.74,1.07,True,True,True,True
+39989,51502,PH,Globe,Globe Telecom Inc.,245,0.0281,0.0,0.69,1.07,True,True,True,True
+39989,52003,TH,AIS,Advanced Wireless Network Company Limited,2345,0.0017,0.0,0.44,1.07,True,True,True,True
+39989,52005,TH,dtac,True Move H Universal Communication Company Limited,345,0.0017,0.0,0.44,1.07,True,True,True,True
+39989,52501,SG,Singtel,Singtel Mobile Singapore Pte. Ltd.,45,0.0656,,,1.07,True,True,False,False
+39989,52811,BN,DST,Datastream Digital Sdn. Bhd.,35,,0.44,0.94,1.07,True,True,True,True
+39989,53001,NZ,One NZ,One New Zealand Group Limited,45,0.0844,,,1.07,True,True,False,False
+39989,53024,NZ,2degrees,Two Degrees Mobile Limited,45,0.0844,,,1.07,True,True,False,False
+39989,60201,EG,Orange,Orange Egypt for Telecommunications S.A.E.,2345,0.0234,0.0,0.57,0.44,True,True,True,True
+39989,60301,DZ,Mobilis,Algérie Télécom Mobile S.P.A.,234,1.4063,0.32,1.07,1.07,True,True,True,True
+39989,60402,MA,inwi,Wana Corporate S.A.,23,0.03,1.19,2.12,1.57,True,True,True,True
+39989,60702,GM,Africell,Africell (Gambia) Limited,234,0.5344,0.69,1.57,1.07,True,True,True,True
 39989,61701,MU,my.t,Cellplus Mobile Communications Ltd.,2345,0.1594,0.0,0.74,0.44,True,True,True,True
-39989,61905,SL,Africell,Lintel (Sierra Leone) Limited,23,,0.44,0.94,1.06,True,True,True,True
-39989,62002,GH,Telecel,Ghana Telecommunications Company Limited,23,,0.0,0.69,1.06,True,True,True,True
-39989,62501,CV,Alou,Cabo Verde Telecom S.A.,234,0.2063,0.0,0.81,0.44,True,True,True,True
-39989,63001,CD,Vodacom,Vodacom Congo (RDC) S.A.,234,0.0844,0.24,1.24,0.61,True,True,True,True
-39989,63902,KE,Safaricom,Safaricom PLC,23,,0.0,0.56,1.06,True,True,True,True
-39989,63907,KE,Telkom,Telkom Kenya Limited,23,,0.0,0.56,1.06,True,True,True,True
-39989,64004,TZ,Vodacom,Vodacom Tanzania PLC,234,0.03,0.24,0.86,1.06,True,True,True,True
-39989,64304,MZ,Vodacom,Vodacom Moçambique S.A.,23,,0.24,0.69,1.06,True,True,True,True
+39989,61905,SL,Africell,Lintel (Sierra Leone) Limited,23,,0.44,0.94,1.07,True,True,True,True
+39989,62002,GH,Telecel,Ghana Telecommunications Company Limited,23,,0.0,0.69,1.07,True,True,True,True
+39989,62501,CV,Alou,Cabo Verde Telecom S.A.,234,0.2063,0.0,0.82,0.44,True,True,True,True
+39989,63001,CD,Vodacom,Vodacom Congo (RDC) S.A.,234,0.0844,0.24,1.24,0.62,True,True,True,True
+39989,63902,KE,Safaricom,Safaricom PLC,23,,0.0,0.57,1.07,True,True,True,True
+39989,63907,KE,Telkom,Telkom Kenya Limited,23,,0.0,0.57,1.07,True,True,True,True
+39989,64004,TZ,Vodacom,Vodacom Tanzania PLC,234,0.03,0.24,0.87,1.07,True,True,True,True
+39989,64304,MZ,Vodacom,Vodacom Moçambique S.A.,23,,0.24,0.69,1.07,True,True,True,True
 39989,65501,ZA,Vodacom,Vodacom (Pty) Ltd.,2345,0.0122,0.0,0.49,0.44,True,True,True,True
-39989,70401,GT,Claro,Telecomunicaciones de Guatemala S.A.,2345,0.0234,0.0,0.56,0.24,True,True,True,True
-39989,70403,GT,Claro,Claro Guatemala S.A.,,0.0234,0.0,0.56,0.24,True,True,True,True
+39989,70401,GT,Claro,Telecomunicaciones de Guatemala S.A.,2345,0.0234,0.0,0.57,0.24,True,True,True,True
+39989,70403,GT,Claro,Claro Guatemala S.A.,,0.0234,0.0,0.57,0.24,True,True,True,True
 39989,70601,SV,Claro,CTE Telecom Personal S.A. de C.V.,234,0.0234,0.0,0.74,0.24,True,True,True,True
 39989,70602,SV,Digicel,Digicel S.A. de C.V.,234,0.1406,0.0,0.74,0.24,True,True,True,True
 39989,708001,HN,Claro,Servicios de Comunicaciones de Honduras S.A. de C.V.,234,0.0234,0.0,0.69,0.24,True,True,True,True
 39989,708040,HN,Claro,Servicios de Comunicaciones de Honduras S.A. de C.V.,,0.0234,0.0,0.69,0.24,True,True,True,True
-39989,71021,NI,Claro,Empresa Nicaragüense de Telecomunicaciones S.A.,234,0.0234,0.24,0.81,0.24,True,True,True,True
-39989,71073,NI,Claro,Empresa Nicaragüense de Telecomunicaciones S.A.,234,0.0234,0.24,0.81,0.24,True,True,True,True
-39989,71203,CR,Claro,Claro CR Telecomunicaciones S.A.,234,0.0234,0.0,0.49,1.06,True,True,True,True
-39989,71401,PA,+Móvil,Cable & Wireless Panamá S.A.,23,0.0281,0.0,0.56,0.44,True,True,True,True
-39989,71610,PE,Claro,América Móvil Perú S.A.C.,2345,0.0234,0.0,0.56,0.24,True,True,True,True
-39989,722310,AR,Claro,AMX Argentina S.A.,234,0.0234,0.0,0.81,0.44,True,True,True,True
-39989,72402,BR,TIM,TIM S.A.,245,0.0131,0.0,0.56,0.44,True,True,True,True
-39989,72403,BR,TIM,TIM S.A.,245,0.0131,0.0,0.56,0.44,True,True,True,True
-39989,72404,BR,TIM,TIM S.A.,245,0.0131,0.0,0.56,0.44,True,True,True,True
-39989,72405,BR,Claro,Claro S.A.,2345,0.0234,0.0,0.56,0.44,True,True,True,True
-39989,73003,CL,Claro,Claro Chile SpA,3,0.0234,0.0,0.56,0.24,True,True,True,True
+39989,71021,NI,Claro,Empresa Nicaragüense de Telecomunicaciones S.A.,234,0.0234,0.24,0.82,0.24,True,True,True,True
+39989,71073,NI,Claro,Empresa Nicaragüense de Telecomunicaciones S.A.,234,0.0234,0.24,0.82,0.24,True,True,True,True
+39989,71203,CR,Claro,Claro CR Telecomunicaciones S.A.,234,0.0234,0.0,0.49,1.07,True,True,True,True
+39989,71401,PA,+Móvil,Cable & Wireless Panamá S.A.,23,0.0281,0.0,0.57,0.44,True,True,True,True
+39989,71610,PE,Claro,América Móvil Perú S.A.C.,2345,0.0234,0.0,0.57,0.24,True,True,True,True
+39989,722310,AR,Claro,AMX Argentina S.A.,234,0.0234,0.0,0.82,0.44,True,True,True,True
+39989,72402,BR,TIM,TIM S.A.,245,0.0131,0.0,0.57,0.44,True,True,True,True
+39989,72403,BR,TIM,TIM S.A.,245,0.0131,0.0,0.57,0.44,True,True,True,True
+39989,72404,BR,TIM,TIM S.A.,245,0.0131,0.0,0.57,0.44,True,True,True,True
+39989,72405,BR,Claro,Claro S.A.,2345,0.0234,0.0,0.57,0.44,True,True,True,True
+39989,73003,CL,Claro,Claro Chile SpA,3,0.0234,0.0,0.57,0.24,True,True,True,True
 39989,732101,CO,Claro,Comunicación Celular S.A.,34,0.0234,0.0,0.49,0.24,True,True,True,True
 39989,732103,CO,Tigo,Colombia Móvil S.A. E.S.P.,,0.0234,0.0,0.49,0.24,True,True,True,True
 39989,732111,CO,Tigo,Colombia Móvil S.A. E.S.P.,234,0.0234,0.0,0.49,0.24,True,True,True,True
 39989,732123,CO,Movistar,Colombia Telecomunicaciones S.A. E.S.P. BIC,234,0.0234,0.0,0.49,0.24,True,True,True,True
-39989,74001,EC,Claro,Consorcio Ecuatoriano de Telecomunicaciones S.A.,23,0.0234,0.24,0.81,0.44,True,True,True,True
-39989,74402,PY,Claro,AMX Paraguay S.A.,234,0.0234,0.0,0.49,1.06,True,True,True,True
-39989,74603,SR,Digicel,Digicel Suriname N.V.,234,0.1406,0.24,1.06,0.44,True,True,True,True
-39989,74810,UY,Claro,AM Wireless Uruguay S.A.,234,0.0234,0.0,0.74,1.06,True,True,True,True
+39989,74001,EC,Claro,Consorcio Ecuatoriano de Telecomunicaciones S.A.,23,0.0234,0.24,0.82,0.44,True,True,True,True
+39989,74402,PY,Claro,AMX Paraguay S.A.,234,0.0234,0.0,0.49,1.07,True,True,True,True
+39989,74603,SR,Digicel,Digicel Suriname N.V.,234,0.1406,0.24,1.07,0.44,True,True,True,True
+39989,74810,UY,Claro,AM Wireless Uruguay S.A.,234,0.0234,0.0,0.74,1.07,True,True,True,True
