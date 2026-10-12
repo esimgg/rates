@@ -1244,7 +1244,7 @@
       "country_code": "UA",
       "carrier": "Kyivstar",
       "operator": "Kyivstar PrJSC",
-      "networks": "2345",
+      "networks": "245",
       "data": 0.0021,
       "incoming_call": 0.0,
       "outgoing_call": 0.63,

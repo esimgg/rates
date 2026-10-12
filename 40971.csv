@@ -71,7 +71,7 @@ serviceid,plmn,country_code,carrier,operator,networks,data_eur_per_mb,incoming_c
 40971,24802,EE,Elisa,Elisa Eesti AS,24,0.0019,0.0,0.32,0.24,True,True,True,True
 40971,25501,UA,Vodafone,VF Ukraine PrJSC,234,0.0021,0.0,0.63,0.24,True,True,True,True
 40971,25502,UA,Kyivstar,Kyivstar PrJSC,,0.0021,0.0,0.63,0.24,True,True,True,True
-40971,25503,UA,Kyivstar,Kyivstar PrJSC,2345,0.0021,0.0,0.63,0.24,True,True,True,True
+40971,25503,UA,Kyivstar,Kyivstar PrJSC,245,0.0021,0.0,0.63,0.24,True,True,True,True
 40971,25702,BY,MTS,Mobile TeleSystems JLLC,234,0.0732,0.69,1.07,0.44,True,True,True,True
 40971,25704,BY,Life,Belarusian Telecommunications Network CJSC,234,0.0504,0.69,1.07,0.44,True,True,True,True
 40971,25901,MD,Orange,Orange Moldova S.A.,234,0.0021,0.0,0.69,1.07,True,True,True,True
