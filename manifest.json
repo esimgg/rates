@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-12T17:51:53Z",
+  "generated_at": "2026-11-14T03:29:44Z",
   "products": {
     "39989": {
       "serviceid": 39989,
@@ -21,16 +21,16 @@
       "name": "Asia",
       "covered_countries": 39,
       "data_countries": 39,
-      "data_networks": 99
+      "data_networks": 104
     }
   },
   "sha256": {
-    "catalog.json": "dd3460e2e6feb32c77d6e77eed50aa1477bd4ea819766dcb7fb1aca197f1164f",
+    "catalog.json": "12064fdfaf4f390ab436fea1e9a0576f2b6821dddd541b018fea34981d97491d",
     "39989.json": "7d773f04ca1960b00b17ab60fc8d8ef8ab80272c9b38ca29be879641c244b8ec",
     "40971.json": "3ceea58e441c36b1a71e6127e22dc365b50648604ff6aad9254708416866d6e6",
-    "40009.json": "1c415ececd486de668180531cf39fc3f92665f4f7c0dd6c46f259e8dd521bc57",
+    "40009.json": "161ec87bdb235bd08e04ec6c3fe0c194442e9c46424a58e6ee9fbb8c4b370e08",
     "39989.csv": "a88a9034dc8a10c7bf43014b9b01d411016ca3a9df4d10af15023915a7129ae3",
     "40971.csv": "8174b88b17f28a37340cf77d4f8b331d46bf20075190a720bbe569b78af1c22a",
-    "40009.csv": "62a99c5da626cb4ff0b4eed6ff579725c7cbe7215f8eedf837f7a2be2a4018a4"
+    "40009.csv": "913994e864f0660dc0ef82bbdddc42d9a6f5aa234111e50d66605d45469e8f1e"
   }
 }

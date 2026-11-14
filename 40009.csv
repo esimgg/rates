@@ -1,16 +1,19 @@
 serviceid,plmn,country_code,carrier,operator,networks,data_eur_per_mb,incoming_call_eur_per_minute,outgoing_call_eur_per_minute,outgoing_sms_eur_per_message,sms_in,sms_out,call_in,call_out
-40009,23420,GB,Three,Hutchison 3G UK Limited,4,0.0016,,,,True,True,False,False
-40009,25901,MD,Orange,Orange Moldova S.A.,234,0.0245,,,0.07,True,True,False,False
+40009,23420,GB,Three,Hutchison 3G UK Limited,4,0.002,,,,True,True,False,False
+40009,25901,MD,Orange,Orange Moldova S.A.,234,0.0236,,,0.07,True,True,False,False
 40009,28601,TR,Turkcell,Turkcell İletişim Hizmetleri A.Ş.,234,0.0047,,,0.07,True,True,False,False
-40009,302220,CA,TELUS,TELUS Communications Inc.,34,0.0096,,,0.07,True,True,False,False
-40009,302610,CA,Bell,Bell Mobility Inc.,34,0.0096,,,0.07,True,True,False,False
-40009,302720,CA,Rogers,Rogers Communications Canada Inc.,24,0.0128,,,0.07,True,True,False,False
+40009,302220,CA,TELUS,TELUS Communications Inc.,34,0.0044,,,0.07,True,True,False,False
+40009,302610,CA,Bell,Bell Mobility Inc.,34,0.0044,,,0.07,True,True,False,False
+40009,302720,CA,Rogers,Rogers Communications Canada Inc.,24,0.005,,,0.07,True,True,False,False
+40009,310150,US,AT&T,AT&T Mobility LLC,,0.0051,,,0.13,True,True,False,False
+40009,310170,US,AT&T,AT&T Mobility LLC,,0.0051,,,0.13,True,True,False,False
 40009,310260,US,T-Mobile,T-Mobile USA Inc.,4,0.0029,,,0.13,True,True,False,False
-40009,310410,US,AT&T,AT&T Mobility LLC,4,0.0063,,,0.13,True,True,False,False
-40009,33402,MX,Telcel,Radiomóvil Dipsa S.A. de C.V.,234,0.0247,,,0.07,True,True,False,False
-40009,334020,MX,Telcel,Radiomóvil Dipsa S.A. de C.V.,234,0.0269,,,0.07,True,True,False,False
-40009,33403,MX,Movistar,Pegaso PCS S.A. de C.V.,34,0.0277,,,0.07,True,True,False,False
-40009,334030,MX,Movistar,Pegaso PCS S.A. de C.V.,34,0.03,,,0.07,True,True,False,False
+40009,310380,US,AT&T,AT&T Mobility LLC,,0.0051,,,0.13,True,True,False,False
+40009,310410,US,AT&T,AT&T Mobility LLC,4,0.0051,,,0.13,True,True,False,False
+40009,33402,MX,Telcel,Radiomóvil Dipsa S.A. de C.V.,234,0.0238,,,0.07,True,True,False,False
+40009,334020,MX,Telcel,Radiomóvil Dipsa S.A. de C.V.,234,0.0238,,,0.07,True,True,False,False
+40009,33403,MX,Movistar,Pegaso PCS S.A. de C.V.,34,0.0267,,,0.07,True,True,False,False
+40009,334030,MX,Movistar,Pegaso PCS S.A. de C.V.,34,0.0267,,,0.07,True,True,False,False
 40009,40405,IN,Vi (Gujarat; Dadra and Nagar Haveli and Daman and Diu),Vodafone Idea Limited,24,0.0025,,,0.07,True,True,False,False
 40009,40411,IN,Vi (Delhi; adjoining parts of Haryana and Uttar Pradesh),Vodafone Idea Limited,24,0.0025,,,0.07,True,True,False,False
 40009,40414,IN,"Vi (Punjab, Chandigarh; Panchkula in Haryana)",Vodafone Idea Limited,24,0.0025,,,0.07,True,True,False,False
@@ -57,45 +60,46 @@ serviceid,plmn,country_code,carrier,operator,networks,data_eur_per_mb,incoming_c
 40009,405873,IN,Jio (West Bengal: Kolkata metro),Reliance Jio Infocomm Limited,4,0.0021,,,0.07,True,True,False,False
 40009,405874,IN,Jio (Maharashtra: Mumbai metro),Reliance Jio Infocomm Limited,4,0.0021,,,0.07,True,True,False,False
 40009,41308,LK,Hutch,Hutchison Telecommunications Lanka (Private) Limited,234,0.0033,,,0.13,True,True,False,False
-40009,41904,KW,stc,Kuwait Telecommunications Company K.S.C.P.,234,0.0558,,,0.75,True,True,False,False
-40009,42003,SA,Mobily,Etihad Etisalat Company,234,0.0139,,,0.75,True,True,False,False
-40009,42403,AE,du,Emirates Integrated Telecommunications Company PJSC,34,0.006,,,0.2,True,True,False,False
-40009,42501,IL,Partner,Partner Communications Company Ltd.,45,0.0056,,,0.13,True,True,False,False
+40009,41904,KW,stc,Kuwait Telecommunications Company K.S.C.P.,234,0.0041,,,0.75,True,True,False,False
+40009,42003,SA,Mobily,Etihad Etisalat Company,234,0.0133,,,0.75,True,True,False,False
+40009,42403,AE,du,Emirates Integrated Telecommunications Company PJSC,34,0.0058,,,0.2,True,True,False,False
+40009,42501,IL,Partner,Partner Communications Company Ltd.,,0.0056,,,0.13,True,True,False,False
 40009,42503,IL,Pelephone,Pelephone Communications Ltd.,4,0.0037,,,0.13,True,True,False,False
-40009,42528,IL,Partner / HOT mobile (PHI),PHI Networks Limited Partnership,4,0.0056,,,0.13,True,True,False,False
-40009,42602,BH,Zain,Zain Bahrain B.S.C.,24,0.1394,,,0.45,True,True,False,False
-40009,42702,QA,Vodafone,Vodafone Qatar P.Q.S.C.,24,0.0418,,,0.2,True,True,False,False
+40009,42528,IL,Partner / HOT mobile (PHI),PHI Networks Limited Partnership,,0.0056,,,0.13,True,True,False,False
+40009,42602,BH,Zain,Zain Bahrain B.S.C.,24,0.1342,,,0.45,True,True,False,False
+40009,42702,QA,Vodafone,Vodafone Qatar P.Q.S.C.,24,0.0402,,,0.2,True,True,False,False
 40009,43407,UZ,Mobiuz,Universal Mobile Systems LLC,234,0.0062,,,0.13,True,True,False,False
-40009,43408,UZ,UZTELECOM,Uzbektelecom JSC,234,,,,0.13,True,True,False,False
-40009,44020,JP,SoftBank,SoftBank Corp.,4,0.0062,,,0.07,True,True,False,False
-40009,45005,KR,SK Telecom,SK Telecom Co. Ltd.,34,0.0083,,,0.13,True,True,False,False
-40009,45201,VN,MobiFone,MobiFone Corporation,34,0.0029,,,0.07,True,True,False,False
-40009,45205,VN,Vietnamobile,Vietnamobile Joint Stock Company,3,0.0035,,,0.07,True,True,False,False
-40009,45501,MO,CTM,Companhia de Telecomunicações de Macau S.A.,4,0.0047,,,0.13,True,True,False,False
-40009,45602,KH,Smart,Smart Axiata Co. Ltd.,4,0.0166,,,0.2,True,True,False,False
-40009,45606,KH,Smart,Smart Axiata Co. Ltd.,4,0.0166,,,0.2,True,True,False,False
+40009,43408,UZ,UZTELECOM,Uzbektelecom JSC,234,0.0062,,,0.13,True,True,False,False
+40009,44020,JP,SoftBank,SoftBank Corp.,4,0.0041,,,0.07,True,True,False,False
+40009,45005,KR,SK Telecom,SK Telecom Co. Ltd.,34,0.0027,,,0.13,True,True,False,False
+40009,45201,VN,MobiFone,MobiFone Corporation,34,0.0016,,,0.07,True,True,False,False
+40009,45205,VN,Vietnamobile,Vietnamobile Joint Stock Company,3,0.0014,,,0.07,True,True,False,False
+40009,45501,MO,CTM,Companhia de Telecomunicações de Macau S.A.,4,0.0014,,,0.13,True,True,False,False
+40009,45602,KH,Smart,Smart Axiata Co. Ltd.,4,0.0053,,,0.2,True,True,False,False
+40009,45606,KH,Smart,Smart Axiata Co. Ltd.,4,0.0053,,,0.2,True,True,False,False
 40009,45608,KH,Metfone,Viettel (Cambodia) Pte. Ltd.,24,0.0031,,,0.2,True,True,False,False
-40009,45703,LA,Unitel,Star Telecom Co. Ltd.,234,0.0362,,,0.07,True,True,False,False
-40009,46001,CN,China Unicom,China United Network Communications Group Company Limited,4,0.0085,,,0.13,True,True,False,False
-40009,46692,TW,Chunghwa Telecom,Chunghwa Telecom Co. Ltd.,4,0.1125,,,0.07,True,True,False,False
-40009,46697,TW,Taiwan Mobile,Taiwan Mobile Co. Ltd.,34,0.0064,,,0.07,True,True,False,False
-40009,47001,BD,Grameenphone,Grameenphone Ltd.,24,0.0107,,,0.07,True,True,False,False
+40009,45703,LA,Unitel,Star Telecom Co. Ltd.,234,0.0349,,,0.07,True,True,False,False
+40009,46001,CN,China Unicom,China United Network Communications Group Company Limited,4,0.0014,,,0.13,True,True,False,False
+40009,46009,CN,China Unicom,China United Network Communications Group Company Limited,,0.0014,,,0.13,True,True,False,False
+40009,46692,TW,Chunghwa Telecom,Chunghwa Telecom Co. Ltd.,4,0.0012,,,0.07,True,True,False,False
+40009,46697,TW,Taiwan Mobile,Taiwan Mobile Co. Ltd.,34,0.0021,,,0.07,True,True,False,False
+40009,47001,BD,Grameenphone,Grameenphone Ltd.,24,0.0103,,,0.07,True,True,False,False
 40009,47202,MV,Ooredoo,Ooredoo Maldives PLC,234,0.0236,,,0.13,True,True,False,False
-40009,50212,MY,Maxis,Maxis Broadband Sdn. Bhd.,24,0.007,,,0.2,True,True,False,False
-40009,50502,AU,Optus,Optus Mobile Pty Limited,4,0.0033,,,0.13,True,True,False,False
-40009,51010,ID,Telkomsel,PT Telekomunikasi Selular,24,0.0043,,,0.07,True,True,False,False
-40009,51401,TL,Telkomcel,Telekomunikasi Indonesia International (TL) S.A.,23,0.1394,,,0.2,True,True,False,False
-40009,51502,PH,Globe,Globe Telecom Inc.,24,0.0056,,,0.2,True,True,False,False
-40009,52000,TH,my by NT,National Telecom Public Company Limited,34,0.0043,,,0.07,True,True,False,False
-40009,52003,TH,AIS,Advanced Wireless Network Company Limited,234,0.009,,,0.07,True,True,False,False
-40009,52004,TH,True,True Move H Universal Communication Company Limited,34,0.0043,,,0.07,True,True,False,False
-40009,52501,SG,Singtel,Singtel Mobile Singapore Pte. Ltd.,4,0.0043,,,0.07,True,True,False,False
-40009,53005,NZ,Spark,Spark New Zealand Trading Limited,4,0.013,,,0.13,True,True,False,False
-40009,60201,EG,Orange,Orange Egypt for Telecommunications S.A.E.,234,0.0177,,,0.2,True,True,False,False
-40009,60400,MA,Orange,Médi Telecom S.A.,234,0.1237,,,0.2,True,True,False,False
-40009,60502,TN,Tunisie Telecom,Société Nationale des Télécommunications,234,0.0573,,,0.45,True,True,False,False
-40009,63903,KE,Airtel,Airtel Networks Kenya Limited,234,0.0279,,,0.2,True,True,False,False
+40009,50212,MY,Maxis,Maxis Broadband Sdn. Bhd.,24,0.001,,,0.2,True,True,False,False
+40009,50502,AU,Optus,Optus Mobile Pty Limited,4,0.0016,,,0.13,True,True,False,False
+40009,51010,ID,Telkomsel,PT Telekomunikasi Selular,24,0.0012,,,0.07,True,True,False,False
+40009,51401,TL,Telkomcel,Telekomunikasi Indonesia International (TL) S.A.,23,0.1342,,,0.2,True,True,False,False
+40009,51502,PH,Globe,Globe Telecom Inc.,24,0.0017,,,0.2,True,True,False,False
+40009,52000,TH,my by NT,National Telecom Public Company Limited,34,0.0014,,,0.07,True,True,False,False
+40009,52003,TH,AIS,Advanced Wireless Network Company Limited,234,0.0012,,,0.07,True,True,False,False
+40009,52004,TH,True,True Move H Universal Communication Company Limited,34,0.0014,,,0.07,True,True,False,False
+40009,52501,SG,Singtel,Singtel Mobile Singapore Pte. Ltd.,4,0.0018,,,0.07,True,True,False,False
+40009,53005,NZ,Spark,Spark New Zealand Trading Limited,4,0.0025,,,0.13,True,True,False,False
+40009,60201,EG,Orange,Orange Egypt for Telecommunications S.A.E.,234,0.017,,,0.2,True,True,False,False
+40009,60400,MA,Orange,Médi Telecom S.A.,234,0.125,,,0.2,True,True,False,False
+40009,60502,TN,Tunisie Telecom,Société Nationale des Télécommunications,234,0.0552,,,0.45,True,True,False,False
+40009,63903,KE,Airtel,Airtel Networks Kenya Limited,234,0.0268,,,0.2,True,True,False,False
 40009,65501,ZA,Vodacom,Vodacom (Pty) Ltd.,234,0.0082,,,0.07,True,True,False,False
-40009,73001,CL,Entel,Entel PCS Telecomunicaciones S.A.,34,0.0673,,,0.13,True,True,False,False
-40009,73002,CL,Movistar,Telefónica Móviles Chile S.A.,34,0.033,,,0.13,True,True,False,False
-40009,73003,CL,Claro,Claro Chile SpA,23,0.0294,,,0.13,True,True,False,False
+40009,73001,CL,Entel,Entel PCS Telecomunicaciones S.A.,34,0.0648,,,0.13,True,True,False,False
+40009,73002,CL,Movistar,Telefónica Móviles Chile S.A.,34,0.0318,,,0.13,True,True,False,False
+40009,73003,CL,Claro,Claro Chile SpA,23,0.0283,,,0.13,True,True,False,False
