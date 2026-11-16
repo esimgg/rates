@@ -12,7 +12,7 @@
   "coverage": {
     "covered_countries": 39,
     "data_countries": 39,
-    "data_networks": 104
+    "data_networks": 102
   },
   "rates": [
     {
@@ -1104,46 +1104,12 @@
       }
     },
     {
-      "plmn": "42501",
-      "country_code": "IL",
-      "carrier": "Partner",
-      "operator": "Partner Communications Company Ltd.",
-      "networks": "",
-      "data": 0.0056,
-      "incoming_call": null,
-      "outgoing_call": null,
-      "outgoing_sms": 0.13,
-      "availability": {
-        "sms_in": true,
-        "sms_out": true,
-        "call_in": false,
-        "call_out": false
-      }
-    },
-    {
       "plmn": "42503",
       "country_code": "IL",
       "carrier": "Pelephone",
       "operator": "Pelephone Communications Ltd.",
       "networks": "4",
       "data": 0.0037,
-      "incoming_call": null,
-      "outgoing_call": null,
-      "outgoing_sms": 0.13,
-      "availability": {
-        "sms_in": true,
-        "sms_out": true,
-        "call_in": false,
-        "call_out": false
-      }
-    },
-    {
-      "plmn": "42528",
-      "country_code": "IL",
-      "carrier": "Partner / HOT mobile (PHI)",
-      "operator": "PHI Networks Limited Partnership",
-      "networks": "",
-      "data": 0.0056,
       "incoming_call": null,
       "outgoing_call": null,
       "outgoing_sms": 0.13,

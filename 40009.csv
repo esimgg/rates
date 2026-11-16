@@ -63,9 +63,7 @@ serviceid,plmn,country_code,carrier,operator,networks,data_eur_per_mb,incoming_c
 40009,41904,KW,stc,Kuwait Telecommunications Company K.S.C.P.,234,0.0041,,,0.75,True,True,False,False
 40009,42003,SA,Mobily,Etihad Etisalat Company,234,0.0133,,,0.75,True,True,False,False
 40009,42403,AE,du,Emirates Integrated Telecommunications Company PJSC,34,0.0058,,,0.2,True,True,False,False
-40009,42501,IL,Partner,Partner Communications Company Ltd.,,0.0056,,,0.13,True,True,False,False
 40009,42503,IL,Pelephone,Pelephone Communications Ltd.,4,0.0037,,,0.13,True,True,False,False
-40009,42528,IL,Partner / HOT mobile (PHI),PHI Networks Limited Partnership,,0.0056,,,0.13,True,True,False,False
 40009,42602,BH,Zain,Zain Bahrain B.S.C.,24,0.1342,,,0.45,True,True,False,False
 40009,42702,QA,Vodafone,Vodafone Qatar P.Q.S.C.,24,0.0402,,,0.2,True,True,False,False
 40009,43407,UZ,Mobiuz,Universal Mobile Systems LLC,234,0.0062,,,0.13,True,True,False,False
